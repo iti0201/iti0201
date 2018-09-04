@@ -21,6 +21,7 @@ ITI0102 Programmeerimise algkursus
 ## Loengud
 ---
 Loengud paaris nädalati (kokku 8)
+@ul
 - Robotite programmeerimise alused
 - Sensorid ja müra, reaktiivne käitumine, olekumasinad
 - Liikumine, odomeetria, juhtimine (PID)
@@ -28,7 +29,7 @@ Loengud paaris nädalati (kokku 8)
 - Navigatsioon ja planeerimine
 - Varia (image proc, fuzzy logic, NN, machine intel, swarm, manipulation)
 - Robot Operating System (ROS, versioonid 1 ja 2) ülevaade
-
+@ulend
 ---
 
 ## Hindamine
