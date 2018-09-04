@@ -8,5 +8,5 @@ Hindamine
 
 Tase | Kirjeldus
 -----|----------
-<img src="assets/image/bronze.jpg" height="30"> | sisu
+<img src="assets/image/bronze.jpg" height="50" border="0"> | sisu
 bla | veel sisu
