@@ -3,6 +3,9 @@
 ---
 
 ## Hindamine
+
+---
+
 ### Simulatsioon (1 nädal)
 
 Tase | Kirjeldus
