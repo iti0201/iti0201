@@ -7,7 +7,7 @@
 
 Tase | Kirjeldus
 -----|----------
-@color[goldenrod](Pronks [1. tase]) | Sõida robotiga seinani ja peatu ettemääratud kaugusel.
-@color[silver](Hõbe) | Sõida robotiga seina juurde, pööra ja sõida ümber seina.
-@color[gold](Kuld) | -
-@color[firebrick](Eliit) | -
+@color[goldenrod](Pronks<br />[1. tase]) | Sõida robotiga seinani ja peatu ettemääratud kaugusel.
+@color[silver](Hõbe<br />[2. tase]) | Sõida robotiga seina juurde, pööra ja sõida ümber seina.
+@color[gold](Kuld<br />[3. tase]) | -
+@color[firebrick](Eliit<br />[4. tase]) | -
