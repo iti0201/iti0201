@@ -1,6 +1,13 @@
 ## ITI0201<br />Robotite Programmeerimine
 
 ---
+## Eesmärk
+
+Kogeda omal nahal, et virtuaalmaailmas "ideaalselt" toimivaid algoritme on raske päriselus toimima saada.
+
+Saada aru, miks robootika on raske ja milliseid väljakutseid see pakub.
+
+---
 
 ## Hindamine
 
