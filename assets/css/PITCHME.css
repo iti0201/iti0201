@@ -5,6 +5,11 @@
  * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
  */
 
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
 .reveal pre {
   width: 100%;
   box-shadow : none;
