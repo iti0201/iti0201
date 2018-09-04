@@ -58,8 +58,8 @@ Iga ülesanne tuleb lahendada uues meeskonnas.
 ## Tasemed
 
 ---?image=assets/image/gerd_bronze.jpg&size=auto 90%
-
 ---?image=assets/image/gerd_silver.jpg&size=auto 90%
+---?image=assets/image/gerd_gold.jpg&size=auto 90%
 ---
 ## Hindamine
 
