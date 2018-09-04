@@ -8,6 +8,6 @@
 Tase | Kirjeldus
 -----|----------
 @color[goldenrod](Pronks) | Sõida robotiga seinani ja peatu ettemääratud kaugusel
-@color[silver](Hõbe) | @size[smaller](Sõida robotiga seina juurde, pööra ja sõida ümber seina.)
-@color[gold](Kuld) | @size[smaller](-)
-@color[firebrick](Eliit) | @size[smaller](-)
+@color[silver](Hõbe) | Sõida robotiga seina juurde, pööra ja sõida ümber seina.
+@color[gold](Kuld) | -
+@color[firebrick](Eliit) | -
