@@ -3,10 +3,10 @@
 ---
 
 @snap[north]
-## Hindamine
+Hindamine
 @snapend
 
 Tase | Kirjeldus
 -----|----------
-![Bronze](assets/image/bronze.jpg) | sisu
+![Bronze](assets/image/bronze.jpg =30) | sisu
 bla | veel sisu
