@@ -44,8 +44,7 @@ Iga ülesanne lahendatakse kaheliikmelises meeskonnas.
 Iga ülesanne tuleb lahendada uues meeskonnas.
 ---
 ## Tasemed
----?image=assets/images/gerd_bronze.jpg
-Hmm
+---?image=assets/image/gerd_bronze.jpg
 ---
 ## Hindamine
 
