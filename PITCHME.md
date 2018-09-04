@@ -31,6 +31,17 @@ Loengud paaris nädalati (kokku 8)
 - Robot Operating System (ROS, versioonid 1 ja 2) ülevaade
 @ulend
 ---
+## Praktikumid
+Alates 5. nädalast iga nädal topeltpraktikum (1.5h+1.5h) (12 praktikumi kokku)
+
+---
+Üks mittearvestuslik teema
+- Simulatsioon
+
+Kolm arvestuslikku teemat
+- Joonejärgija
+- Objektid
+- Labürint
 
 ## Hindamine
 
