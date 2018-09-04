@@ -19,6 +19,7 @@ ITI0102 Programmeerimise algkursus
 
 ---
 ## Loengud
+---
 Loengud paaris nädalati (kokku 8)
 - Robotite programmeerimise alused
 - Sensorid ja müra, reaktiivne käitumine, olekumasinad
