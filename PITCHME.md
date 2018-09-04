@@ -2,6 +2,11 @@
 
 ---
 
-## Slide title
+@snap[north]
+## Hindamine
+@snapend
 
-Text
+Tase | Kirjeldus
+-----|----------
+![Bronze](assets/image/bronze.jpg) | sisu
+bla | veel sisu
