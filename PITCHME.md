@@ -2,13 +2,8 @@
 
 ---
 
-@snap[north]
-Hindamine
-@snapend
-
-@snap[north-east]
-1 nädal @css[heading](Simulatsioon)
-@snapend
+## Hindamine
+### Simulatsioon (1 nädal)
 
 Tase | Kirjeldus
 -----|----------
