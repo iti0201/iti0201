@@ -321,9 +321,9 @@ AGV-sid kasutatakse materjalide liigutamiseks tehastes, ladudes, sadamates, raud
 ---
 ## Suhtlusrobotid (Social Robots)
 
----?image=assets/nao.jpg&size=auto 90%
----?image=assets/aibo.jpg&size=auto 90%
----?image=assets/tourguide.png&size=auto 90%
+---?image=assets/image/nao.png&size=auto 90%
+---?image=assets/image/aibo.jpg&size=auto 90%
+---?image=assets/image/tourguide.png&size=auto 90%
 
 ---
 @ul
@@ -335,8 +335,8 @@ AGV-sid kasutatakse materjalide liigutamiseks tehastes, ladudes, sadamates, raud
 ---
 ## Väli- ja põllurobotid (Field Robots)
 
----?image=assets/tigercat.jpg&size=auto 90%
----?image=assets/asi_robotic_excavator.jpg&size=auto 90%
+---?image=assets/image/tigercat.jpg&size=auto 90%
+---?image=assets/image/asi_robotic_excavator.jpg&size=auto 90%
 
 ---
 @ul
@@ -348,9 +348,9 @@ AGV-sid kasutatakse materjalide liigutamiseks tehastes, ladudes, sadamates, raud
 ---
 ## Inspektsiooni-, luure- ja kosmoserobotid
 
----?image=assets/ucat.jpg&size=auto 90%
----?image=assets/scoudier.jpg&size=auto 90%
----?image=assets/curiosity.jpg&size=auto 90%
+---?image=assets/image/ucat.jpg&size=auto 90%
+---?image=assets/image/scoudier.jpg&size=auto 90%
+---?image=assets/image/curiosity.jpg&size=auto 90%
 
 ---
 @ul
