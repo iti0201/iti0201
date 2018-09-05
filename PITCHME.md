@@ -95,7 +95,7 @@ Tase | Kirjeldus
 @color[goldenrod](Pronks<br />@size[smaller]([1. tase])) | 1 objekti leidmine ja juurde sõitmine.
 @color[silver](Hõbe<br />@size[smaller]([2. tase])) | 2 objektiga võrdkülgse kolmnurga moodustamine (robot on kolmas tipp)
 @color[gold](Kuld<br />@size[smaller]([3. tase])) | 3 objektiga ristküliku moodustamine
-@color[firebrick](Eliit<br />@size[smaller]([4. tase])) | Objekti haaramine ja transportimine spetsifitseeritud kohta
+@color[firebrick](Eliit<br />@size[smaller]([4. tase])) | Objekti haaramine ja transportimine määratud kohta
 
 ---
 
@@ -162,9 +162,14 @@ See tähendab, et alates 5. nädalast peaks tegema iga nädal 9 tundi iseseisvat
 
 ---
 ## Õppematerjalid
-Põhiõpik on
-Mordechai, Ben-Ari and Francesco, Mondada. Elements of Robotics (2018)
+Põhiõpik on Mordechai, Ben-Ari and Francesco, Mondada. **Elements of Robotics** (2018), Springer Open
 
-John M. Zelle. Python Programming: An Introduction to Computer Science (2010)
+Abiks tulevad John M. Zelle. **Python Programming: An Introduction to Computer Science** (2010)
 
-LaValle, "Planning algorithms" (2006), Cambridge University Press http://planning.cs.uiuc.edu/
+LaValle. **Planning algorithms** (2006), Cambridge University Press [http://planning.cs.uiuc.edu/](http://planning.cs.uiuc.edu/)
+
+---
+## Põhiõpik
+Põhiõpiku saab tasuta alla laadida (open access)
+[https://link.springer.com/book/10.1007/978-3-319-62533-1](https://link.springer.com/book/10.1007/978-3-319-62533-1)
+või kirjutage Google otsingusse "elements of robotics springer"
