@@ -207,20 +207,14 @@ Robotite kasutamine võib vähendada kulusid.
 Robotite hoolduskulud võivad olla palju odavamad kui inimjuhitud masinate hoolduskulud.
 
 ---
-## Odavam!
-
-Robotite kasutamine võib vähendada kulusid.
-Robotite hoolduskulud võivad olla palju odavamad kui inimjuhitud masinate hoolduskulud.
-
----
 ## Miks robootika on oluline?
 
 Tractica
 - Kiire robootikasektori kasv 2016 ja 2022 aasta vahemikus
-- Kogu sektori kasvab $31 miljardi pealt $237 miljardi peale
-- Põhiline kasv tuleb mitte-tööstusrobotite valdkonnas
+- Kogu sektor kasvab $31 miljardi pealt $237 miljardi peale
+- Põhiline kasv tuleb **mitte-tööstusrobotite** valdkonnas
 
 ---
-Prognoosid on väga erinevad, aga praktiliselt kõikides prognoosides on robootika **CAGR (Compound Annual Growth Rate)** kahekohaline (üle 10% aastas).
+Prognoosid on väga erinevad, aga praktiliselt kõikides prognoosides on robootika **CAGR (Compound Annual Growth Rate)** kahekohaline (üle **10%** aastas).
 
 ---?image=assets/image/markets_growth.jpg&size=auto 90%
