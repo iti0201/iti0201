@@ -361,7 +361,7 @@ AGV-sid kasutatakse materjalide liigutamiseks tehastes, ladudes, sadamates, raud
 ---
 ## Robotite jagunemine
 
----?image=assets/image/robot_classification2.jpg&size=auto 90%
+---?image=assets/image/robot_classification2.png&size=auto 90%
 
 ---
 ## Autonomoosuse tasemed
