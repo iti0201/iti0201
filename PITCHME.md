@@ -310,3 +310,64 @@ AGV-sid kasutatakse materjalide liigutamiseks tehastes, ladudes, sadamates, raud
 
 ---?image=assets/image/roomba.jpg&size=auto 90%
 ---?image=assets/image/husqvarna.jpg&size=auto 90%
+
+---
+@ul
+- Hooldusrobotid kuuluvad ka teenindusrobotite alla.
+- Majapidamisrobotid tegelevad ülesannetega nagu nt põrandate pesemine ja muru niitmine. Puhastusroboteid kasutatakse lennujaamades, supermarketites, tehastes jne.
+- Selle valdkonna robotite jaoks ei ole oluline, et jõuda punktist A punkti B vaid, et nad "külastaks" kõiki alasid.
+@ulend
+
+---
+## Suhtlusrobotid (Social Robots)
+
+---?image=assets/nao.jpg&size=auto 90%
+---?image=assets/aibo.jpg&size=auto 90%
+---?image=assets/tourguide.png&size=auto 90%
+
+---
+@ul
+- Suhtlusrobotite ehk sotsiaalsete robotite põhiülesandeks on inimestega suhelda.
+- Selle suhtluse sisuks võib olla nii informatsiooni jagamine kui ka inimeste lõbustamine.
+- Suhtlusrobotid on ühel või teisel põhjusel liikuvad (st infokiosk ei ole suhtlusrobot).
+@ulend
+
+---
+## Väli- ja põllurobotid (Field Robots)
+
+---?image=assets/tigercat.jpg&size=auto 90%
+---?image=assets/asi_robotic_excavator.jpg&size=auto 90%
+
+---
+@ul
+- Enamjaolt tegemist tööorganitega, mis on paigaldatud mobiilse platvormi külge.
+- Põllumajanduses nt istutamine, rohimine,  pritsimine, vilja koristamine jne.
+- Paljudes kaevandustes on ekskavaatorid, laadurid ja veoautod automatiseeritud.
+@ulend
+
+---
+## Inspektsiooni-, luure- ja kosmoserobotid
+
+---?image=assets/ucat.jpg&size=auto 90%
+---?image=assets/scoudier.jpg&size=auto 90%
+---?image=assets/curiosity.jpg&size=auto 90%
+
+---
+@ul
+- Seda tüüpi robotid on välirobotid, mis rakendavad instrumente liikuvalt platvormilt, et inspekteerida või tuvastada midagi antud piirkonnast.
+- Tavaliselt töötavad sellised robotid inimestele ohtlikes tingimustes (nt tuumareaktorites).
+@ulend
+
+---
+## Robotite jagunemine
+
+---?image=assets/robot_classification2.jpg&size=auto 90%
+
+---
+## Autonomoosuse tasemed
+@ul
+- Kaugjuhtimine (teleoperation)
+- Järelevalve (supervisory)
+- Ülesande autonoomne täitmine (task-level autonomy)
+- Täisautonoomsus (full autonomy)
+@ulend
