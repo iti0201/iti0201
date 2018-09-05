@@ -397,7 +397,7 @@ Kuidas aines käsitletav suhestub "päris" robootikaga?
 
 ---
 ## Jätkuained
-AS0220 - Robotite juhtimine ja tarkvara 
+IAS0220 - Robotite juhtimine ja tarkvara 
 
 Selle aine läbinud ja edasi robootikaga tegelemise huviga tudengitega on võimalus jätkata individuaalõppevormis.
 
@@ -439,7 +439,9 @@ Robootika võib jagada laias laastus kolme teadusvaldkonna vahel
 ---
 ## PiBot
 PiBot robot on ehitatud TTÜ Robotiklubi poolt "eritellimusena".
+
 Raspberry Pi
+
 Python 3
 
 ---
@@ -449,3 +451,6 @@ Python 3
 
 ---
 ![Simulatsioon](https://www.youtube.com/embed/oP39r2PQ4Vk)
+
+---
+![Simulatsioon](https://www.youtube.com/embed/E36wjomqw2g)
