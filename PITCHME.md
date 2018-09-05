@@ -110,7 +110,7 @@ Tase | Kirjeldus
 
 ---
 ## "5" (suurepärane)
-Kõik ülesanded tasemel 3 + üks ülesanne tasemel 4 või kõik ülesanded tasemel 2 ja osalemine koostöös TTÜ Robotiklubiga Robotex võistlusel
+Kõik ülesanded tasemel 3 + üks ülesanne tasemel 4 või kõik ülesanded tasemel 2 ja osalemine koostöös **TTÜ Robotiklubiga** Robotex võistlusel
 
 ---
 ## "4" (väga hea)
@@ -144,13 +144,11 @@ Labürint = 11-16 nädal
 
 ---
 ## Robotex
+Koostöös **TTÜ Robotiklubiga**.
 
----
-Koostöö TTÜ Robotiklubiga
+Võimalik sooritada aine maksimaalsele hindele ("5") osaledes Robotexil ja lahendades vähemalt kõik ülesanded 2. tasemel (hõbe).
 
-Võimalik läbida sooritada aine maksimaalsele hindele ("5") osaledes Robotexil ja lahendades vähemalt kõik ülesanded 2. tasemel (hõbe).
-
-Huvilistel palun tulla ja eraldi kokku leppida.
+Huvilistel palun tulla ja eraldi kokku leppida (ASAP, sest Robotex toimub  juba 30. nov kuni 2. dets).
 
 ---
 ## Maht
