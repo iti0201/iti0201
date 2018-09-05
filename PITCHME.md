@@ -74,3 +74,36 @@ Tase | Kirjeldus
 @color[silver](Hõbe<br />@size[smaller]([2. tase])) | Sõida robotiga seina juurde, pööra ja sõida ümber seina.
 @color[gold](Kuld<br />@size[smaller]([3. tase])) | -
 @color[firebrick](Eliit<br />@size[smaller]([4. tase])) | -
+
+---
+
+### Joonejärgija (2 nädalat)
+
+Tase | Kirjeldus
+-----|----------
+@color[goldenrod](Pronks<br />@size[smaller]([1. tase])) | Ovaalikujulisel rajal sõitmine
+@color[silver](Hõbe<br />@size[smaller]([2. tase])) | Ristmikutega rajal sõitmine
+@color[gold](Kuld<br />@size[smaller]([3. tase])) | Takistustega rajal sõitmine
+@color[firebrick](Eliit<br />@size[smaller]([4. tase])) | -
+
+---
+
+### Objektid (3 nädalat)
+
+Tase | Kirjeldus
+-----|----------
+@color[goldenrod](Pronks<br />@size[smaller]([1. tase])) | 1 objekti leidmine ja juurde sõitmine.
+@color[silver](Hõbe<br />@size[smaller]([2. tase])) | 2 objektiga võrdkülgse kolmnurga moodustamine (robot on kolmas tipp)
+@color[gold](Kuld<br />@size[smaller]([3. tase])) | 3 objektiga ristküliku moodustamine
+@color[firebrick](Eliit<br />@size[smaller]([4. tase])) | Objekti haaramine ja transportimine spetsifitseeritud kohta
+
+---
+
+### Labürint (6 nädalat)
+
+Tase | Kirjeldus
+-----|----------
+@color[goldenrod](Pronks<br />@size[smaller]([1. tase])) | Siksak labürindi läbimine (U-pöörded)
+@color[silver](Hõbe<br />@size[smaller]([2. tase])) | Labürindi väljapääsu leidmine (labürindi lahendamine)
+@color[gold](Kuld<br />@size[smaller]([3. tase])) | Labürindi kõikide ruutude külastamine (kaardistamine)
+@color[firebrick](Eliit<br />@size[smaller]([4. tase])) | Kaardistamine ja lokaliseerimine
