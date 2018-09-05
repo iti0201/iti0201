@@ -168,8 +168,10 @@ LaValle. **Planning algorithms** (2006), Cambridge University Press [http://plan
 
 ---
 ## Põhiõpik
-Põhiõpiku saab tasuta alla laadida (open access)<br />
-[https://link.springer.com/book/10.1007/978-3-319-62533-1](https://link.springer.com/book/10.1007/978-3-319-62533-1)<br />
+Põhiõpiku saab tasuta alla laadida (open access)
+
+[https://link.springer.com/book/10.1007/978-3-319-62533-1](https://link.springer.com/book/10.1007/978-3-319-62533-1)
+
 või kirjutage Google otsingusse "elements of robotics springer"
 
 ---
@@ -190,7 +192,9 @@ Tootjatel on võimalik tõsta oma toodete kvaliteeti - tulemused on järjepideva
 ---
 ## Kiiremini!
 
-Automatiseerimine võib olla tulemuslikum kui teised võimalused. Automatiseerimine
+Automatiseerimine võib olla tulemuslikum kui teised võimalused.
+
+Automatiseerimine
 - tõstab tootmiskiirust
 - vähendab tööseisakuid
 - vähendab ressursikulusid
@@ -218,3 +222,14 @@ Tractica
 Prognoosid on väga erinevad, aga praktiliselt kõikides prognoosides on robootika **CAGR (Compound Annual Growth Rate)** kahekohaline (üle **10%** aastas).
 
 ---?image=assets/image/markets_growth.jpg&size=auto 90%
+
+---
+## Robotid
+
+---
+Kes teab kust sõna "robot" pärineb?
+
+---
+Sõna "robot" pärineb 1920 aasta näidendist "Rossum's Universal Robots (R.U.R.)", mille autoriks oli tšehhi kirjanik Karel Čapek.
+
+Tšehhi keeles tähendas sõna "robota" sunnitööd.
