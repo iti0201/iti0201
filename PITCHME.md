@@ -107,3 +107,55 @@ Tase | Kirjeldus
 @color[silver](Hõbe<br />@size[smaller]([2. tase])) | Labürindi väljapääsu leidmine (labürindi lahendamine)
 @color[gold](Kuld<br />@size[smaller]([3. tase])) | Labürindi kõikide ruutude külastamine (kaardistamine)
 @color[firebrick](Eliit<br />@size[smaller]([4. tase])) | Kaardistamine ja lokaliseerimine
+
+---
+"5" (suurepärane): kõik ülesanded tasemel 3 + üks ülesanne tasemel 4 või kõik ülesanded tasemel 2 ja osalemine koostöös TTÜ Robotiklubiga Robotex võistlusel
+
+"4" (väga hea): kõik ülesanded 2. tasemel + kaks ülesannet tasemel 3
+
+"3" (hea): kõik ülesanded 2. tasemel
+
+"2" (rahuldav): kõikide ülesandeklasside ülesanded 1. tasemel + kaks ülesannet tasemel 2
+
+"1" (kasin): kõikide ülesandeklasside ülesanded 1. tasemel
+
+---
+## Praktikumide korraldus
+Kõikide ülesannete (peale simulatsiooni) lähtekoodi peab õppejõule kaitsma.
+
+Lähtekood peab vastama konventsioonidele (PEP8, PEP257, max keerukuspiirang jne). Sarnased nõuded on ka ITI0102 algkursusel.
+
+---
+## Tähtajad
+Hindamisväljaku seadistus on järgnev:
+
+Joonejärgija + Objektid = 5-10 nädal
+
+Labürint = 11-16 nädal
+
+---
+## Robotex
+
+---
+Koostöö TTÜ Robotiklubiga
+
+Võimalik läbida sooritada aine maksimaalsele hindele ("5") osaledes Robotexil ja lahendades vähemalt kõik ülesanded 2. tasemel (hõbe).
+
+Huvilistel palun tulla ja eraldi kokku leppida.
+
+---
+## Maht
+1 EAP = 26 tundi tööd
+
+Kontaktõpet on semestri jooksul 48 tundi.
+
+See tähendab, et alates 5. nädalast peaks tegema iga nädal 9 tundi iseseisvat tööd simulaatoriga.
+
+---
+## Õppematerjalid
+Põhiõpik on
+Mordechai, Ben-Ari and Francesco, Mondada. Elements of Robotics (2018)
+
+John M. Zelle. Python Programming: An Introduction to Computer Science (2010)
+
+LaValle, "Planning algorithms" (2006), Cambridge University Press http://planning.cs.uiuc.edu/
