@@ -171,3 +171,56 @@ LaValle. **Planning algorithms** (2006), Cambridge University Press [http://plan
 Põhiõpiku saab tasuta alla laadida (open access)<br />
 [https://link.springer.com/book/10.1007/978-3-319-62533-1](https://link.springer.com/book/10.1007/978-3-319-62533-1)<br />
 või kirjutage Google otsingusse "elements of robotics springer"
+
+---
+## Sissejuhatus 
+
+---
+## Robootika
+Kõik olukorrad, kus inimene (või loom) teeb kasulikku tööd, on tänapäeval potentsiaalsed robotite rakenduskohad.
+
+---
+## Miks automatiseerida?
+
+---
+## Paremini!
+
+Tootjatel on võimalik tõsta oma toodete kvaliteeti - tulemused on järjepidevamad, kergemad mõõta või juhtida.
+
+---
+## Kiiremini!
+
+Automatiseerimine võib olla tulemuslikum kui teised võimalused. Automatiseerimine
+- tõstab tootmiskiirust
+- vähendab tööseisakuid
+- vähendab ressursikulusid
+
+---
+## Ohutum!
+
+Mõnedes olukordades on risk inimeste tervisele või eludele liiga suur, et teatud töid teha.
+
+---
+## Odavam!
+
+Robotite kasutamine võib vähendada kulusid.
+Robotite hoolduskulud võivad olla palju odavamad kui inimjuhitud masinate hoolduskulud.
+
+---
+## Odavam!
+
+Robotite kasutamine võib vähendada kulusid.
+Robotite hoolduskulud võivad olla palju odavamad kui inimjuhitud masinate hoolduskulud.
+
+---
+## Miks robootika on oluline?
+
+Tractica
+- Kiire robootikasektori kasv 2016 ja 2022 aasta vahemikus
+- Kogu sektori kasvab $31 miljardi pealt $237 miljardi peale
+- Põhiline kasv tuleb mitte-tööstusrobotite valdkonnas
+
+---
+Prognoosid on väga erinevad, aga praktiliselt kõikides prognoosides on robootika **CAGR (Compound Annual Growth Rate)** kahekohaline (üle 10% aastas).
+
+---?image=assets/image/markets_growth.jpg&size=auto 90%
