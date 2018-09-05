@@ -299,9 +299,14 @@ AGV-sid kasutatakse materjalide liigutamiseks tehastes, ladudes, sadamates, raud
 ---?image=assets/image/starship.png&size=auto 90%
 
 ---
-- Meditsiinivaldkonnas teenindusrobotid täidavad ülesandeid nagu nt posti, toidu ja ravimite kohaletoimetamine. Lisaks sellele võivad nad haiglates transportida bioloogilisi proove ja jäätmeid.
 @ul
+- Meditsiinivaldkonnas teenindusrobotid täidavad ülesandeid nagu nt posti, toidu ja ravimite kohaletoimetamine. Lisaks sellele võivad nad haiglates transportida bioloogilisi proove ja jäätmeid.
 - Turvateenuse valdkonnas võivad robotid täita patrullimisülesannet.
 - Pakirobotid toimetavad pakke tellijateni.
-
 @ulend
+
+---
+## Puhastus- ja muruhooldusrobotid
+
+---?image=assets/image/roomba.jpg&size=auto 90%
+---?image=assets/image/husqvarna.jpg&size=auto 90%
