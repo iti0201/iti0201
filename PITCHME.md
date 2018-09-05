@@ -371,3 +371,81 @@ AGV-sid kasutatakse materjalide liigutamiseks tehastes, ladudes, sadamates, raud
 - Ülesande autonoomne täitmine (task-level autonomy)
 - Täisautonoomsus (full autonomy)
 @ulend
+
+---
+## ITI0201
+Millist robotit kasutame käesolevas aines?
+
+---
+Pildid siia
+
+---
+## Kontekst
+Kuidas aines käsitletav suhestub "päris" robootikaga?
+
+---
+@ul
+- Mobiilsed robotid
+- Sensorid (müraga arvestamine)
+- Mootorite juhtimine
+- Odomeetria arvutamine
+- Kaardistamine
+- Lokaliseerimine (oleku hindamine)
+- Planeerimine
+- Autonoomne ülesande täitmine
+@ulend
+
+---
+## Jätkuained
+AS0220 - Robotite juhtimine ja tarkvara 
+
+Selle aine läbinud ja edasi robootikaga tegelemise huviga tudengitega on võimalus jätkata individuaalõppevormis.
+
+---
+## Robootika IT-majas
+Korruste järjestuses
+- Arvutitehnika instituut (5. korrus)
+- Tarkvarateaduse instituut (4. korrus ja 6. korrus)
+- Biorobootika keskus (1. korrus)
+
+---?image=assets/image/phoebe.png&size=auto 90%
+
+---
+## Robotid ja programmeerimine?
+Robootika võib jagada laias laastus kolme teadusvaldkonna vahel
+@ul
+- Mehaanika
+- Elektroonika
+- Arvutiteadus
+@ulend
+
+---
+## Robotid ja programmeerimine?
+Robootika võib jagada laias laastus kolme teadusvaldkonna vahel
+- Mehaanika
+- Elektroonika
+- **Arvutiteadus**
+
+---
+## Aga siia võib lisada ka...
+@ul
+- Psühholoogia
+- Õppimisteooria
+- Bioloogia
+- Kommunikatsioonitehnika
+- ...
+@ulend
+
+---
+## PiBot
+PiBot robot on ehitatud TTÜ Robotiklubi poolt "eritellimusena".
+Raspberry Pi
+Python 3
+
+---
+## Simulatsioon
+- Oracle VM Virtualbox
+- Gazebo Simulator
+
+---
+![Simulatsioon](https://www.youtube.com/embed/oP39r2PQ4Vk)
