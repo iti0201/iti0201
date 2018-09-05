@@ -285,3 +285,26 @@ Robot peab olema eluta masin.
 ---?image=assets/image/warehouse_robot.jpg&size=auto 90%
 ---?image=assets/image/container_robot.jpg&size=auto 90%
 ---?image=assets/image/kiva_robots.jpg&size=auto 90%
+
+---
+Võimalik, et hetkel kõige arenenum robootikavaldkond.
+
+AGV-sid kasutatakse materjalide liigutamiseks tehastes, ladudes, sadamates, raudteejaamades, lennujaamades jne.
+
+---
+## Teenindusrobotid (Service Robots)
+
+---?image=assets/image/tug_robots.jpeg&size=auto 90%
+---?image=assets/image/robart.jpg&size=auto 90%
+---?image=assets/image/starship.png&size=auto 90%
+
+---
+@ul
+
+- Meditsiinivaldkonnas teenindusrobotid täidavad ülesandeid nagu nt posti, toidu ja ravimite kohaletoimetamine. Lisaks sellele võivad nad haiglates transportida bioloogilisi proove ja jäätmeid.
+
+- Turvateenuse valdkonnas võivad robotid täita patrullimisülesannet.
+
+- Pakirobotid toimetavad pakke tellijateni.
+
+@ulend
