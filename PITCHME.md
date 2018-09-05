@@ -250,7 +250,8 @@ Tööstusautomaatika standard ISO8387
 "an automatically controlled, reprogrammable, multipurpose, manipulator programmable in three or more axes, which may be either fixed in place or mobile for use in industrial automation applications."
 
 ---
-## Robotite kriteeriumid (Cameron Hughes)
+## Robotite kriteeriumid
+Cameron Hughes on kirja pannud komplekti kriteeriume, millele robotid peavad vastama.
 
 ---
 Robot peab olema võimeline tunnetama oma sisemist ja välist keskkonda.
@@ -276,10 +277,7 @@ Robot peab olema eluta masin.
 
 
 ---?image=assets/image/robot_classification.jpg&size=auto 90%
-## Robotite Kategooriad
-
----
-## Robotite tüübid
+## Robotite kategooriad
 
 ---
 ## Automaatjuhtimisega sõidukid (Automated Guided Vehicles)
