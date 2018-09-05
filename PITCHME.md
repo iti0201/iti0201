@@ -233,3 +233,57 @@ Kes teab kust sõna "robot" pärineb?
 Sõna "robot" pärineb 1920 aasta näidendist "Rossum's Universal Robots (R.U.R.)", mille autoriks oli tšehhi kirjanik Karel Čapek.
 
 Tšehhi keeles tähendas sõna "robota" sunnitööd.
+
+---
+Oxfordi sõnastik:
+
+A machine capable of carrying out a complex series of actions automatically, especially one programmable by a computer.
+
+---
+Õigekeelsussõnastik (ÕS2013):
+
+robot <2e: -i> masininimene; inimest asendav automaat. Tööstus+robot, keevitus+robot, lüpsi+robot, pommi+robot. Foto+robotiga tehtud robot+foto = robot+pilt = robot+portree. Robot+käsi, robot+mannekeen, robot+muruniiduk, robot+tolmuimeja
+
+---
+Tööstusautomaatika standard ISO8387
+
+"an automatically controlled, reprogrammable, multipurpose, manipulator programmable in three or more axes, which may be either fixed in place or mobile for use in industrial automation applications."
+
+---
+## Robotite kriteeriumid (Cameron Hughes)
+
+---
+Robot peab olema võimeline tunnetama oma sisemist ja välist keskkonda.
+
+---
+
+Roboti käitumine, tegevus ja juhtimine on tema programmi jooksutamise tulemus.
+
+---
+Robot peab olema võimeline mõjutama teda ümbritsevat keskkonda.
+
+---
+Robotil peab olema enda toiteallikas.
+
+---
+Robot peab olema programmeeritav.
+
+---
+Kui robot alustab tööd, siis ta peab olema võimeline töö lõpule viima ilma välise abita.
+
+---
+Robot peab olema eluta masin.
+
+
+---?image=assets/image/robot_classification.jpg&size=auto 90%
+## Robotite Kategooriad
+
+---
+## Robotite tüübid
+
+---
+## Automaatjuhtimisega sõidukid (Automated Guided Vehicles)
+
+---?image=assets/image/warehouse_robot.jpg&size=auto 90%
+---?image=assets/image/container_robot.jpg&size=auto 90%
+---?image=assets/image/kiva_robots.jpg&size=auto 90%
