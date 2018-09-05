@@ -109,15 +109,19 @@ Tase | Kirjeldus
 @color[firebrick](Eliit<br />@size[smaller]([4. tase])) | Kaardistamine ja lokaliseerimine
 
 ---
-"5" (suurepärane): kõik ülesanded tasemel 3 + üks ülesanne tasemel 4 või kõik ülesanded tasemel 2 ja osalemine koostöös TTÜ Robotiklubiga Robotex võistlusel
+**"5" (suurepärane)**: kõik ülesanded tasemel 3 + üks ülesanne tasemel 4 või kõik ülesanded tasemel 2 ja osalemine koostöös TTÜ Robotiklubiga Robotex võistlusel
 
-"4" (väga hea): kõik ülesanded 2. tasemel + kaks ülesannet tasemel 3
+---
+**"4" (väga hea)**: kõik ülesanded 2. tasemel + kaks ülesannet tasemel 3
 
-"3" (hea): kõik ülesanded 2. tasemel
+---
+**"3" (hea)**: kõik ülesanded 2. tasemel
 
-"2" (rahuldav): kõikide ülesandeklasside ülesanded 1. tasemel + kaks ülesannet tasemel 2
+---
+**"2" (rahuldav)**: kõikide ülesandeklasside ülesanded 1. tasemel + kaks ülesannet tasemel 2
 
-"1" (kasin): kõikide ülesandeklasside ülesanded 1. tasemel
+---
+**"1" (kasin)**: kõikide ülesandeklasside ülesanded 1. tasemel
 
 ---
 ## Praktikumide korraldus
