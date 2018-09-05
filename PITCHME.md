@@ -160,14 +160,14 @@ See tähendab, et alates 5. nädalast peaks tegema iga nädal 9 tundi iseseisvat
 
 ---
 ## Õppematerjalid
-Põhiõpik on Mordechai, Ben-Ari and Francesco, Mondada. **Elements of Robotics** (2018), Springer Open
+Põhiõpik: Mordechai, Ben-Ari and Francesco, Mondada. **Elements of Robotics** (2018), Springer Open
 
-Abiks tulevad John M. Zelle. **Python Programming: An Introduction to Computer Science** (2010)
+Abiks: John M. Zelle. **Python Programming: An Introduction to Computer Science** (2010)
 
 LaValle. **Planning algorithms** (2006), Cambridge University Press [http://planning.cs.uiuc.edu/](http://planning.cs.uiuc.edu/)
 
 ---
 ## Põhiõpik
-Põhiõpiku saab tasuta alla laadida (open access)
-[https://link.springer.com/book/10.1007/978-3-319-62533-1](https://link.springer.com/book/10.1007/978-3-319-62533-1)
+Põhiõpiku saab tasuta alla laadida (open access)<br />
+[https://link.springer.com/book/10.1007/978-3-319-62533-1](https://link.springer.com/book/10.1007/978-3-319-62533-1)<br />
 või kirjutage Google otsingusse "elements of robotics springer"
