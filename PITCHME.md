@@ -376,8 +376,11 @@ AGV-sid kasutatakse materjalide liigutamiseks tehastes, ladudes, sadamates, raud
 ## ITI0201
 Millist robotit kasutame käesolevas aines?
 
----
-Pildid siia
+---?image=assets/image/pibot_side.jpg&size=auto 90%
+---?image=assets/image/pibot_bottom.jpg&size=auto 90%
+---?image=assets/image/pibot_front.jpg&size=auto 90%
+---?image=assets/image/pibot_front_ir.jpg&size=auto 90%
+---?image=assets/image/pibot_rear.jpg&size=auto 90%
 
 ---
 ## Kontekst
@@ -397,7 +400,8 @@ Kuidas aines käsitletav suhestub "päris" robootikaga?
 
 ---
 ## Jätkuained
-IAS0220 - Robotite juhtimine ja tarkvara 
+**IAS0220** - Robotite juhtimine ja tarkvara 
+(5. semestril valikaine, aga loetakse S/K)
 
 Selle aine läbinud ja edasi robootikaga tegelemise huviga tudengitega on võimalus jätkata individuaalõppevormis.
 
@@ -440,7 +444,7 @@ Robootika võib jagada laias laastus kolme teadusvaldkonna vahel
 ## PiBot
 PiBot robot on ehitatud TTÜ Robotiklubi poolt "eritellimusena".
 
-Raspberry Pi
+Raspberry Pi 3 Model B+ (1 GB RAM, 1.4 GHz 64-bit quad-core processor)
 
 Python 3
 
