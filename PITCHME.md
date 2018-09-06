@@ -164,6 +164,8 @@ Põhiõpik: Mordechai, Ben-Ari and Francesco, Mondada. **Elements of Robotics** 
 
 ---?image=assets/image/elements_cover.png&size=auto 90%
 
+---
+
 Abiks: John M. Zelle. **Python Programming: An Introduction to Computer Science** (2010)
 
 LaValle. **Planning algorithms** (2006), Cambridge University Press [http://planning.cs.uiuc.edu/](http://planning.cs.uiuc.edu/)
