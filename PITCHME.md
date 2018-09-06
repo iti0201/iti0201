@@ -161,9 +161,6 @@ See tähendab, et alates 5. nädalast peaks tegema iga nädal 9 tundi iseseisvat
 ---
 ## Õppematerjalid
 
----
-## Põhiõpik
-
 ---?image=assets/image/elements_cover.png&size=auto 90%
 
 ---
