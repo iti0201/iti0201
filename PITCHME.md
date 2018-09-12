@@ -238,6 +238,15 @@ Prognoosid on väga erinevad, aga praktiliselt kõikides prognoosides on robooti
 ---?image=assets/image/markets_growth.jpg&size=auto 90%
 
 ---
+## Prognoosid (IDC)
+@ul
+- 2019, 35% suurorganisatsioonidest uurib kuidas saaks roboteid kasutada automatiseerimiseks.
+- 2019, valitsused hakkavad seadusandlust muutma ja täiendama tingituna robotite levikust (töökohad, ohutus, privaatsus).
+- 2020, 60% robotitest on ühendatud pilve (cloud-based software) ja saavad pidevaid uuendusi ja oskusi.
+- **2020, robootika kiirenev areng põhjustab sektoris 35%-lise tööpuuduse samal ajal kui palgatase tõuseb vähemalt 60%!**
+@ulend
+
+---
 ## Robotid
 
 ---
@@ -313,22 +322,22 @@ AGV-sid kasutatakse materjalide liigutamiseks tehastes, ladudes, sadamates, raud
 
 ---
 @ul
-- Meditsiinivaldkonnas teenindusrobotid täidavad ülesandeid nagu nt posti, toidu ja ravimite kohaletoimetamine. Lisaks sellele võivad nad haiglates transportida bioloogilisi proove ja jäätmeid.
-- Turvateenuse valdkonnas võivad robotid täita patrullimisülesannet.
-- Pakirobotid toimetavad pakke tellijateni.
+- **Meditsiinivaldkonnas** teenindusrobotid täidavad ülesandeid nagu nt **posti**, **toidu** ja **ravimite** kohaletoimetamine. Lisaks sellele võivad nad haiglates transportida **bioloogilisi proove ja jäätmeid**.
+- **Turvateenuse** valdkonnas võivad robotid täita **patrullimisülesannet**.
+- **Pakirobotid** toimetavad pakke tellijateni.
 @ulend
 
 ---
-## Puhastus- ja muruhooldusrobotid
+## Puhastus- ja muruhooldusrobotid (hooldusrobotid)
 
 ---?image=assets/image/roomba.jpg&size=auto 90%
 ---?image=assets/image/husqvarna.jpg&size=auto 90%
 
 ---
 @ul
-- Hooldusrobotid kuuluvad ka teenindusrobotite alla.
-- Majapidamisrobotid tegelevad ülesannetega nagu nt põrandate pesemine ja muru niitmine. Puhastusroboteid kasutatakse lennujaamades, supermarketites, tehastes jne.
-- Selle valdkonna robotite jaoks ei ole oluline, et jõuda punktist A punkti B vaid, et nad "külastaks" kõiki alasid.
+- **Hooldusrobotid** kuuluvad ka teenindusrobotite alla.
+- **Majapidamisrobotid** tegelevad ülesannetega nagu nt põrandate pesemine ja muru niitmine. Puhastusroboteid kasutatakse lennujaamades, supermarketites, tehastes jne.
+- Selle valdkonna robotite jaoks ei ole oluline, et jõuda punktist A punkti B vaid, et nad **"külastaks" kõiki alasid**.
 @ulend
 
 ---
@@ -340,9 +349,9 @@ AGV-sid kasutatakse materjalide liigutamiseks tehastes, ladudes, sadamates, raud
 
 ---
 @ul
-- Suhtlusrobotite ehk sotsiaalsete robotite põhiülesandeks on inimestega suhelda.
-- Selle suhtluse sisuks võib olla nii informatsiooni jagamine kui ka inimeste lõbustamine.
-- Suhtlusrobotid on ühel või teisel põhjusel liikuvad (st infokiosk ei ole suhtlusrobot).
+- **Suhtlusrobotite** ehk sotsiaalsete robotite põhiülesandeks on inimestega suhelda.
+- Selle suhtluse sisuks võib olla nii **informatsiooni jagamine** kui ka **inimeste lõbustamine**.
+- Suhtlusrobotid on ühel või teisel põhjusel liikuvad (st **infokiosk ei ole suhtlusrobot*').
 @ulend
 
 ---
