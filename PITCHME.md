@@ -249,17 +249,17 @@ Sõna **"robot"** pärineb 1920 aasta näidendist "Rossum's Universal Robots (R.
 Tšehhi keeles tähendas sõna **"robota"** sunnitööd.
 
 ---
-Oxfordi sõnastik:
+Oxfordi sõnastik
 
 *A machine capable of carrying out a complex series of actions automatically, especially one programmable by a computer.*
 
 ---
-Õigekeelsussõnastik (ÕS2013):
+Õigekeelsussõnastik (ÕS2013)
 
 **robot <2e: -i>** *masininimene; inimest asendav automaat. Tööstus+robot, keevitus+robot, lüpsi+robot, pommi+robot. Foto+robotiga tehtud robot+foto = robot+pilt = robot+portree. Robot+käsi, robot+mannekeen, robot+muruniiduk, robot+tolmuimeja*
 
 ---
-Tööstusautomaatika standard ISO8387
+Tööstusautomaatika standard **ISO8387**
 
 *"an automatically controlled, reprogrammable, multipurpose, manipulator programmable in three or more axes, which may be either fixed in place or mobile for use in industrial automation applications."*
 
@@ -271,7 +271,6 @@ Cameron Hughes on kirja pannud komplekti kriteeriume, millele robotid peavad vas
 Robot peab olema võimeline tunnetama oma sisemist ja välist keskkonda.
 
 ---
-
 Roboti käitumine, tegevus ja juhtimine on tema programmi jooksutamise tulemus.
 
 ---
@@ -291,7 +290,7 @@ Robot peab olema eluta masin.
 
 
 ---?image=assets/image/robot_classification.jpg&size=auto 90%
-## Robotite kategooriad
+## Mobiilsete robotite kategooriad
 
 ---
 ## Automaatjuhtimisega sõidukid (Automated Guided Vehicles)
