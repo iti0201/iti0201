@@ -8,6 +8,7 @@
 - Praktikumid ja punktid: [https://ained.ttu.ee/)](https://ained.ttu.ee/)
 @ulend
 
+---
 ## Eesmärk
 
 Kogeda omal nahal, et virtuaalmaailmas "ideaalselt" toimivaid algoritme on raske päriselus toimima saada.
