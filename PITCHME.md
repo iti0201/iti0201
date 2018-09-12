@@ -242,6 +242,11 @@ Prognoosid on väga erinevad, aga praktiliselt kõikides prognoosides on robooti
 @ul
 - 2019, 35% suurorganisatsioonidest uurib kuidas saaks roboteid kasutada automatiseerimiseks.
 - 2019, valitsused hakkavad seadusandlust muutma ja täiendama tingituna robotite levikust (töökohad, ohutus, privaatsus).
+@ulend
+
+---
+## Prognoosid (IDC)
+@ul
 - 2020, 60% robotitest on ühendatud pilve (cloud-based software) ja saavad pidevaid uuendusi ja oskusi.
 - **2020, robootika kiirenev areng põhjustab sektoris 35%-lise tööpuuduse samal ajal kui palgatase tõuseb vähemalt 60%!**
 @ulend
