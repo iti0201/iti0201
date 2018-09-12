@@ -1,6 +1,13 @@
 ## ITI0201<br />Robotite Programmeerimine
 
 ---
+## Lingid
+@ul
+- Üldine: [https://courses.cs.ttu.ee/pages/ITI0201](https://courses.cs.ttu.ee/pages/ITI0201)
+- Loengud ja materjalid: [https://github.com/iti0201/iti0201](https://github.com/iti0201/iti0201)
+- Praktikumid ja punktid: [https://ained.ttu.ee/)](https://ained.ttu.ee/)
+@ulend
+
 ## Eesmärk
 
 Kogeda omal nahal, et virtuaalmaailmas "ideaalselt" toimivaid algoritme on raske päriselus toimima saada.
