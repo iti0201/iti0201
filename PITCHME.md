@@ -45,7 +45,9 @@ Loengud paaris nädalati (kokku 8)
 
 ---
 ## Praktikumid
-Alates 5. nädalast iga nädal topeltpraktikum (1.5h+1.5h) (12 praktikumi kokku)
+Alates 5. nädalast iga nädal topeltpraktikum (1.5h+1.5h)
+
+(12 praktikumi kokku)
 
 ---
 Üks mittearvestuslik teema
