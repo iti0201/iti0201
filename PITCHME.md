@@ -162,11 +162,11 @@ Huvilistel palun tulla ja eraldi kokku leppida (ASAP, sest Robotex toimub  juba 
 
 ---
 ## Maht
-1 EAP = 26 tundi tööd
+**1 EAP = 26 tundi** tööd
 
-Kontaktõpet on semestri jooksul 48 tundi.
+Kontaktõpet on semestri jooksul **48 tundi**.
 
-See tähendab, et alates 5. nädalast peaks tegema iga nädal 9 tundi iseseisvat tööd simulaatoriga.
+See tähendab, et alates 5. nädalast peaks tegema iga nädal **9 tundi iseseisvat tööd** simulaatoriga.
 
 ---
 ## Õppematerjalid
