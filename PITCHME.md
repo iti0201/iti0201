@@ -300,7 +300,7 @@ Robot peab olema eluta masin.
 ---?image=assets/image/kiva_robots.jpg&size=auto 90%
 
 ---
-Võimalik, et hetkel kõige arenenum robootikavaldkond.
+Võimalik, et hetkel kõige arenenum mobiilsete robotite valdkond.
 
 AGV-sid kasutatakse materjalide liigutamiseks tehastes, ladudes, sadamates, raudteejaamades, lennujaamades jne.
 
