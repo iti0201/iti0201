@@ -241,27 +241,27 @@ Prognoosid on väga erinevad, aga praktiliselt kõikides prognoosides on robooti
 ## Robotid
 
 ---
-Kes teab kust sõna "robot" pärineb?
+Kes teab kust sõna **"robot"** pärineb?
 
 ---
-Sõna "robot" pärineb 1920 aasta näidendist "Rossum's Universal Robots (R.U.R.)", mille autoriks oli tšehhi kirjanik Karel Čapek.
+Sõna **"robot"** pärineb 1920 aasta näidendist "Rossum's Universal Robots (R.U.R.)", mille autoriks oli tšehhi kirjanik **Karel Čapek**.
 
-Tšehhi keeles tähendas sõna "robota" sunnitööd.
+Tšehhi keeles tähendas sõna **"robota"** sunnitööd.
 
 ---
 Oxfordi sõnastik:
 
-A machine capable of carrying out a complex series of actions automatically, especially one programmable by a computer.
+*A machine capable of carrying out a complex series of actions automatically, especially one programmable by a computer.*
 
 ---
 Õigekeelsussõnastik (ÕS2013):
 
-robot <2e: -i> masininimene; inimest asendav automaat. Tööstus+robot, keevitus+robot, lüpsi+robot, pommi+robot. Foto+robotiga tehtud robot+foto = robot+pilt = robot+portree. Robot+käsi, robot+mannekeen, robot+muruniiduk, robot+tolmuimeja
+**robot <2e: -i>** *masininimene; inimest asendav automaat. Tööstus+robot, keevitus+robot, lüpsi+robot, pommi+robot. Foto+robotiga tehtud robot+foto = robot+pilt = robot+portree. Robot+käsi, robot+mannekeen, robot+muruniiduk, robot+tolmuimeja*
 
 ---
 Tööstusautomaatika standard ISO8387
 
-"an automatically controlled, reprogrammable, multipurpose, manipulator programmable in three or more axes, which may be either fixed in place or mobile for use in industrial automation applications."
+*"an automatically controlled, reprogrammable, multipurpose, manipulator programmable in three or more axes, which may be either fixed in place or mobile for use in industrial automation applications."*
 
 ---
 ## Robotite kriteeriumid
