@@ -26,7 +26,7 @@ Kuidas üles ehitada aine, mis ei ole varasema kogemusega tudengitele üliigav, 
 ## Eeldused
 
 Kellel ei ole varasemat (Pythoni) programmeerimiskogemust, peaks osalema käesoleval semestril aines:
-ITI0102 Programmeerimise algkursus
+**ITI0102 Programmeerimise algkursus**
 
 ---
 ## Loengud
@@ -35,12 +35,12 @@ ITI0102 Programmeerimise algkursus
 Loengud paaris nädalati (kokku 8)
 @ul
 - Robotite programmeerimise alused
-- Sensorid ja müra, reaktiivne käitumine, olekumasinad
+- Sensorid ja müra, reaktiivne käitumine, lõplikud olekumasinad
 - Liikumine, odomeetria, juhtimine (PID)
 - Lokaliseerimine ja kaardistamine
 - Navigatsioon ja planeerimine
-- Varia (image proc, fuzzy logic, NN, machine intel, swarm, manipulation)
-- Robot Operating System (ROS, versioonid 1 ja 2) ülevaade
+- Varia (fuzzy logic, image processing, NN, ML, swarm, manipulator kinematics)
+- Robot Operating System (v1 ja v2) ülevaade
 @ulend
 
 ---
