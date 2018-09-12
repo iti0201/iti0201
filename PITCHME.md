@@ -356,7 +356,7 @@ AGV-sid kasutatakse materjalide liigutamiseks tehastes, ladudes, sadamates, raud
 @ul
 - **Suhtlusrobotite** ehk sotsiaalsete robotite põhiülesandeks on inimestega suhelda.
 - Selle suhtluse sisuks võib olla nii **informatsiooni jagamine** kui ka **inimeste lõbustamine**.
-- Suhtlusrobotid on ühel või teisel põhjusel liikuvad (st **infokiosk ei ole suhtlusrobot*').
+- Suhtlusrobotid on ühel või teisel põhjusel liikuvad (st **infokiosk ei ole suhtlusrobot**).
 @ulend
 
 ---
@@ -391,7 +391,7 @@ AGV-sid kasutatakse materjalide liigutamiseks tehastes, ladudes, sadamates, raud
 ---?image=assets/image/robot_classification2.png&size=auto 90%
 
 ---
-## Autonomoosuse tasemed
+## Autonoomsuse tasemed
 @ul
 - Kaugjuhtimine (teleoperation)
 - Järelevalve (supervisory)
@@ -411,7 +411,7 @@ Millist robotit kasutame käesolevas aines?
 
 ---
 ## Kontekst
-Kuidas aines käsitletav suhestub "päris" robootikaga?
+Kuidas aines käsitletav suhestub **"päris"** robootikaga?
 
 ---
 @ul
