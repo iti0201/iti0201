@@ -12,9 +12,9 @@ Registreerige ennast ainele [http://ained.ttu.ee](http://ained.ttu.ee) keskkonna
 
 Nädal |  | Tegevus
 ------|--|--------
-4 | @size[smaller](Loeng) | @size[smaller](Robotite programmerimise alused)
-  | @size[smaller](Praktikum) | ---
-  | @size[smaller](Kodutöö) | ---
+4 | @size[smaller](@color[goldenrod](Loeng)) | @size[smaller](Robotite programmerimise alused)
+  | @size[smaller](@color[darkgreen](Praktikum)) | ---
+  | @size[smaller](@color[cornflowerblue](Kodutöö)) | ---
 5 | @size[smaller](Loeng) | ---
   | @size[smaller](Praktikum) | @size[smaller]("Simulatsioon")
   | @size[smaller](Kodutöö) | @size[smaller]("Joonejärgija" arendamine)
