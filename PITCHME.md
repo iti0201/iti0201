@@ -15,9 +15,9 @@ Nädal |  | Tegevus
 4 | @size[smaller](@color[goldenrod](Loeng)) | @size[smaller](Robotite programmerimise alused)
   | @size[smaller](@color[darkgreen](Praktikum)) | ---
   | @size[smaller](@color[cornflowerblue](Kodutöö)) | ---
-5 | @size[smaller](Loeng) | ---
-  | @size[smaller](Praktikum) | @size[smaller]("Simulatsioon")
-  | @size[smaller](Kodutöö) | @size[smaller]("Joonejärgija" arendamine)
+5 | @size[smaller](@color[goldenrod](Loeng)) | ---
+  | @size[smaller](@color[darkgreen](Praktikum)) | @size[smaller]("Simulatsioon")
+  | @size[smaller](@color[cornflowerblue](Kodutöö)) | @size[smaller]("Joonejärgija" arendamine)
 
 ---
 ### Simulatsioon (1 nädal)
