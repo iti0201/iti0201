@@ -1,6 +1,9 @@
 ## ITI0201<br />Robotite Programmeerimine
 
+---
 ## Robotite programmeerimise alused
+
+---
 
 Registreerige ennast ainele [http://ained.ttu.ee](http://ained.ttu.ee) keskkonnas!
 
@@ -9,12 +12,12 @@ Registreerige ennast ainele [http://ained.ttu.ee](http://ained.ttu.ee) keskkonna
 
 Nädal |  | Tegevus
 ------|--|--------
-4 | Loeng | Robotite programmerimise alused
-  | Praktikum | ---
-  | Kodutöö | ---
-5 | Loeng | ---
-  | Praktikum | "Simulatsioon"
-  | Kodutöö | "Joonejärgija" arendamine
+4 | @size[smaller](Loeng) | @size[smaller](Robotite programmerimise alused)
+  | @size[smaller](Praktikum) | ---
+  | @size[smaller](Kodutöö) | ---
+5 | @size[smaller](Loeng) | ---
+  | @size[smaller](Praktikum) | @size[smaller]("Simulatsioon")
+  | @size[smaller](Kodutöö) | @size[smaller]("Joonejärgija" arendamine)
 
 ---
 ### Simulatsioon (1 nädal)
