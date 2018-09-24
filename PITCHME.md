@@ -135,7 +135,7 @@ Kuidas praktikas programmeerimine välja näeb?
 ---
 ## Sense-Plan-Act
 
----?image=assets/image/ros.png&size=auto 50%
+---?image=assets/image/spa.png&size=auto 50%
 
 ---
 
