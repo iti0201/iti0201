@@ -115,6 +115,18 @@ Koodisalved asuvad
 ---?gist=GertKanter/6bb4a8434f29342865df956daeea172e&lang=xml
 
 ---
+## Roboti mudel
+
+*.sdf* laiendiga fail
+
+---?gist=GertKanter/f069765cabb003d2f85457fb46dd8031&lang=xml
+
+---
+## Komponendid
+
+Algoritm (Python) @fa[arrows-h] PyBot @fa[arrows-h] ROS @fa[arrows-h] Gazebo
+
+---
 ## PiBot
 Programmeerimisjuhend on siin-link (pibot_api.pdf)
 
