@@ -181,14 +181,15 @@ Robot kasutab planeerimist, et valida milline käitumine on antud hetkel sobivai
 ## Mall
 
 ---
-## nn *vabastiil"
+## nn *vabastiil*
 
 ---
 
 @ul
-- Loe sonarist lugem x
-- Saada mootoritele käsk sõita (x - 20 cm) otse
+- @size[smaller](Loe kaugusandurist lugem x)
+- Saada mootoritele käsk sõita otse
 - Oota 10 sekundit
+- Vaata kas oled kohal? Kui ei, siis mine kaks rida ülespoole.
 - Saada mootoritele käsk pöörata paremale 90 kraadi kiirusega z rad/s.
 - Oota 3 sekundit
 - Saada mootoritele käsk sõita y cm otse
