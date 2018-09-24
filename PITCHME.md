@@ -76,7 +76,21 @@ Tase | Kirjeldus
 ![Fruit picking](https://www.youtube.com/embed/UaL3UxUclKY)
 
 ---
+## Arendamine
+
+---?image=assets/image/pycharm.png&size=auto 90%
+---?image=assets/image/git.png&size=auto 90%
+
+---
 ## Simulatsioon
+
+---?image=assets/image/gazebo.png&size=auto 90%
+---?image=assets/image/ros.png&size=auto 90%
+
+---
+## Robotil testimine
+
+Lahenduse robotil testimine toimub praktikumides.
 
 ---
 ## PiBot
