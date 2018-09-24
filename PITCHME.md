@@ -46,7 +46,6 @@ Tase | Kirjeldus
 ## Ainult ideaalses maailmas!
 
 ---
-
 ## Analüüs
 
 @ul
@@ -54,6 +53,14 @@ Tase | Kirjeldus
 - Arendamine
 - Simulatsioon
 - Päris robotil testimine
+@ulend
+
+---
+## Tegelikkus
+
+@ul
+- Analüüsi ignoreerimine. (halb!)
+- Pidev tagasipöördumine eelmistesse etappidesse. (hea!)
 @ulend
 
 ---
