@@ -43,6 +43,10 @@ Tase | Kirjeldus
 @ulend
 
 ---
+## Ainult ideaalses maailmas!
+
+---
+
 ## Analüüs
 
 @ul
