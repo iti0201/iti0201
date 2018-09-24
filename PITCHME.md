@@ -138,11 +138,63 @@ Kuidas praktikas programmeerimine välja näeb?
 ---?image=assets/image/spa.png&size=auto 50%
 
 ---
+## Sense-Plan-Act
 
 @ul
-- Sense = Sensorid
+- Sense = Sensorite lugemine
 - Plan = Mõtleme järgmise sammu
-- Act = Täiturid (mootorid jne)
+- Act = Täiturite juhtimine (mootorid jne)
+@ulend
+
+---
+## Reaktiivne juhtimine
+
+---?image=assets/image/reactive.png&size=auto 50%
+
+---
+## Reaktiivne juhtimine
+
+@ul
+- Act = Tegevus
+- Sense = Sensorite lugemine
+@ulend
+
+---
+## Hübriidjuhtimine
+
+---?image=assets/image/hybrid.png&size=auto 50%
+
+---
+## Hübriidjuhtimine
+
+@ul
+- Act = Tegevus
+- Plan = Planeerimine
+- Sense = Sensorite lugemine
+@ulend
+
+---
+## Hübriidjuhtimine
+
+Robot kasutab planeerimist, et valida milline käitumine on antud hetkel sobivaim ja seejärel rakendab reaktiivset juhtimist.
+
+---
+## Mall
+
+---
+## nn *vabastiil"
+
+---
+
+@ul
+- Loe sonarist lugem x
+- Saada mootoritele käsk sõita (x - 20 cm) otse
+- Oota 10 sekundit
+- Saada mootoritele käsk pöörata paremale 90 kraadi kiirusega z rad/s.
+- Oota 3 sekundit
+- Saada mootoritele käsk sõita y cm otse
+- Oota 5 sekundit
+- ....
 @ulend
 
 ---
