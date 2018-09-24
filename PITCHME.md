@@ -79,7 +79,7 @@ Tase | Kirjeldus
 ## Arendamine
 
 ---?image=assets/image/pycharm.png&size=auto 90%
----?image=assets/image/git.png&size=auto 90%
+---?image=assets/image/git.png&size=auto 50%
 
 ---
 ## Simulatsioon
