@@ -127,10 +127,9 @@ Koodisalved asuvad
 Algoritm (Python) @fa[arrows-h] PyBot (API) @fa[arrows-h] ROS @fa[arrows-h] Gazebo
 
 ---
-## PiBot programmeerimine
+## Roboti juhtimismeetodid
 
----
-Kuidas praktikas programmeerimine välja näeb?
+Kuidas läheneda roboti algoritmi programmeerimisele?
 
 ---
 ## Reaktiivne juhtimine
@@ -196,6 +195,12 @@ Robot kasutab planeerimist, et valida milline käitumine on antud hetkel sobivai
 - Oota 5 sekundit
 - ....
 @ulend
+
+---
+## PiBot programmeerimine
+
+---
+Kuidas praktikas programmeerimine välja näeb?
 
 ---
 ## PiBot
