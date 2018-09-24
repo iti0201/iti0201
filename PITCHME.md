@@ -108,6 +108,13 @@ Koodisalved asuvad
 ---?image=assets/image/gazebo_world.png&size=auto 80%
 
 ---
+## Simulatsiooni maailm
+
+*.world* laiendiga fail
+
+---?gist=GertKanter/6bb4a8434f29342865df956daeea172e&lang=xml
+
+---
 ## PiBot
 Programmeerimisjuhend on siin-link (pibot_api.pdf)
 
