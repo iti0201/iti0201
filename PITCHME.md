@@ -5,7 +5,11 @@
 
 ---
 
-Registreerige ennast ainele [http://ained.ttu.ee](http://ained.ttu.ee) keskkonnas!
+Registreerige ennast ainele
+
+[http://ained.ttu.ee](http://ained.ttu.ee)
+
+keskkonnas!
 
 ---
 ## Ajakava
