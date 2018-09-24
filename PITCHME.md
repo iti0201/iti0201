@@ -84,8 +84,8 @@ Tase | Kirjeldus
 ---
 ## Simulatsioon
 
----?image=assets/image/gazebo.png&size=auto 90%
----?image=assets/image/ros.png&size=auto 90%
+---?image=assets/image/gazebo.png&size=auto 50%
+---?image=assets/image/ros.png&size=auto 50%
 
 ---
 ## Robotil testimine
