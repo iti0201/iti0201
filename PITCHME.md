@@ -34,10 +34,23 @@ Tase | Kirjeldus
 @color[firebrick](Eliit<br />@size[smaller]([4. tase])) | -
 
 ---
+## Arendustsükkel
 
+@ul
+- Arendamine
+- Robotil testimine
+- Valmis!
+@ulend
 
 ---
-## Arendustsükkel
+## Analüüs
+
+@ul
+- Probleemi analüüsimine
+- Arendamine
+- Simulatsioon
+- Päris robotil testimine
+@ulend
 
 ---
 ## Simulatsioon
