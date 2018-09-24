@@ -124,7 +124,26 @@ Koodisalved asuvad
 ---
 ## Komponendid
 
-Algoritm (Python) @fa[arrows-h] PyBot @fa[arrows-h] ROS @fa[arrows-h] Gazebo
+Algoritm (Python) @fa[arrows-h] PyBot (API) @fa[arrows-h] ROS @fa[arrows-h] Gazebo
+
+---
+## PiBot programmeerimine
+
+---
+Kuidas praktikas programmeerimine välja näeb?
+
+---
+## Sense-Plan-Act
+
+---?image=assets/image/ros.png&size=auto 50%
+
+---
+
+@ul
+- Sense = Sensorid
+- Plan = Mõtleme järgmise sammu
+- Act = Täiturid (mootorid jne)
+@ulend
 
 ---
 ## PiBot
