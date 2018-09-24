@@ -69,6 +69,11 @@ Tase | Kirjeldus
 Ülesande tükeldamine hoomatavateks tükkideks
 
 ---?image=assets/image/tomatoes.jpg&size=auto 90%
+---?image=assets/image/tomatoes2.jpg&size=auto 90%
+---?image=assets/image/greenhouse.jpg&size=auto 90%
+
+---
+![Fruit picking](https://www.youtube.com/embed/UaL3UxUclKY)
 
 ---
 ## Simulatsioon
