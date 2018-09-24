@@ -133,6 +133,19 @@ Algoritm (Python) @fa[arrows-h] PyBot (API) @fa[arrows-h] ROS @fa[arrows-h] Gaze
 Kuidas praktikas programmeerimine välja näeb?
 
 ---
+## Reaktiivne juhtimine
+
+---?image=assets/image/reactive.png&size=auto 50%
+
+---
+## Reaktiivne juhtimine
+
+@ul
+- Act = Tegevus
+- Sense = Sensorite lugemine
+@ulend
+
+---
 ## Sense-Plan-Act
 
 ---?image=assets/image/spa.png&size=auto 50%
@@ -144,19 +157,6 @@ Kuidas praktikas programmeerimine välja näeb?
 - Sense = Sensorite lugemine
 - Plan = Mõtleme järgmise sammu
 - Act = Täiturite juhtimine (mootorid jne)
-@ulend
-
----
-## Reaktiivne juhtimine
-
----?image=assets/image/reactive.png&size=auto 50%
-
----
-## Reaktiivne juhtimine
-
-@ul
-- Act = Tegevus
-- Sense = Sensorite lugemine
 @ulend
 
 ---
