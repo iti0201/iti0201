@@ -64,6 +64,13 @@ Tase | Kirjeldus
 @ulend
 
 ---
+## Probleemi analüüsimine
+
+Ülesande tükeldamine hoomatavateks tükkideks
+
+---?image=assets/image/tomatoes.jpg&size=auto 90%
+
+---
 ## Simulatsioon
 
 ---
