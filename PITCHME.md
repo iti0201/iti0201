@@ -93,6 +93,21 @@ Tase | Kirjeldus
 Lahenduse robotil testimine toimub praktikumides.
 
 ---
+## Simulatsioon
+
+---
+Mis toimub n-ö kapoti all?
+
+Kõik info on avalik, st ei ole tegemist "musta kastiga", mille sisu ei ole teada.
+
+---
+Koodisalved asuvad
+
+[http://github.com/iti0201](http://github.com/iti0201)
+
+---?image=assets/image/gazebo_world.png&size=auto 80%
+
+---
 ## PiBot
 Programmeerimisjuhend on siin-link (pibot_api.pdf)
 
