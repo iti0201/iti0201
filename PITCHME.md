@@ -240,6 +240,30 @@ Programmeerimisjuhend on (API)
 ## Praktikum
 
 ---
+Praktikumis toimub päris robotil testimine ja töö kaitsmine.
+
+**See tähendab, et eelnevalt on vaja teha algoritm/lahendus valmis.**
+
+---
+## Praktikumi põrandaplaan
+
+---?image=assets/image/floorplan.png&size=auto 90%
+
+---
+## Protsess
+
+---
+@ul
+- Lahenduse lähtekood on Gitlab-is üleval.
+- Võtate vaba roboti ja vaatate, mis roboti kood on (roboti peal kirjas).
+- Panete roboti platsile algasendisse.
+- Kasutate laadimisarvutil skripti, mis laeb teie lahenduse lähtekoodi robotisse (skriptil määrate parameetritega oma uni-id, ülesande koodi ja roboti koodi).
+- Robot hakkab teie lähtekoodile vastavalt ülesannet lahendama.
+@ulend
+
+---?image=assets/image/upload.png&size=auto 90%
+
+---
 ## Robootikatarkvara arhitektuurid
 
 ---
