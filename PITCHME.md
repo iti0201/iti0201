@@ -304,3 +304,13 @@ Põhieesmärk on jagada roboti alamkomponendid eraldi mooduliteks
 ---?image=assets/image/subsumption2.png&size=auto 60%
 
 ---
+## Kolmekihiline arhitektuur
+
+---?image=assets/image/arch1.png&size=auto 80%
+
+@snap[south]
+@size[smaller](LAAS architecture for autonomous systems)
+@snapend
+
+
+---
