@@ -269,6 +269,15 @@ Praktikum on eelkõige mõeldud päris robotil testimiseks ja töö kaitsmiseks.
 Roboti väljatrüki saab laadida oma Gitlab-i kasutades laadimisarvuti skripti (*fetch.sh*)
 
 ---
+## Kaine mõistus
+
+@ul
+- Ära lõhu robotit!
+- Ära vääna mootorite küljes olevaid komponente jõuga!
+- **Kui ei ole kindel, kuidas mingit probleemi lahendada, siis küsi juhendajalt!**
+@ulend
+
+---
 ## Robootikatarkvara arhitektuurid
 
 ---
