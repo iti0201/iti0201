@@ -200,8 +200,6 @@ Robot kasutab planeerimist, et valida milline käitumine on antud hetkel sobivai
 ---
 ## Sense-Plan-Act
 
----
-
 ---?gist=GertKanter/8b0b43fd7ee6086659475b9884f90637&lang=py
 
 ---
