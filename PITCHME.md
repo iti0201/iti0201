@@ -240,7 +240,7 @@ Programmeerimisjuhend on (API)
 ## Praktikum
 
 ---
-Praktikumis toimub päris robotil testimine ja töö kaitsmine.
+Praktikum on eelkõige mõeldud päris robotil testimiseks ja töö kaitsmiseks.
 
 **See tähendab, et eelnevalt on vaja teha algoritm/lahendus valmis.**
 
@@ -262,6 +262,11 @@ Praktikumis toimub päris robotil testimine ja töö kaitsmine.
 @ulend
 
 ---?image=assets/image/upload.png&size=auto 90%
+
+---
+## Väljakute kasutamine
+
+Roboti väljatrükile pole jooksvalt ligipääsu, mis tähendab, et kui silumiseks (*debugging*) on vaja kasutada väljatrükki, siis on vaja uuesti kasutada laadimisarvutit (script nimega *fetch.sh*)
 
 ---
 ## Robootikatarkvara arhitektuurid
