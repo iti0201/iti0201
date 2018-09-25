@@ -203,6 +203,22 @@ Robot kasutab planeerimist, et valida milline käitumine on antud hetkel sobivai
 ---?gist=GertKanter/8b0b43fd7ee6086659475b9884f90637&lang=py
 
 ---
+## Head programmeerimistavad
+
+@ul
+- Ära korda ennast! (DRY (Don't Repeat Yourself))
+- Ära korda ennast! (DRY (Don't Repeat Yourself))
+- Muutujatele pane võimalikult lühikesed, aga maksimaalselt informatiivsed nimed!
+@ulend
+
+---
+@ul
+- variable_to_count_number_of_objects?
+- counter?
+- object_count
+@ulend
+
+---
 ## PiBot programmeerimine
 
 ---
@@ -210,7 +226,9 @@ Kuidas praktikas programmeerimine välja näeb?
 
 ---
 ## PiBot
-Programmeerimisjuhend on siin-link (pibot_api.pdf)
+Programmeerimisjuhend on (API)
+
+[https://github.com/iti0201/robot](https://github.com/iti0201/robot)
 
 ---
 ## Praktikum
