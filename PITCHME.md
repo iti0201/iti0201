@@ -181,7 +181,7 @@ Robot kasutab planeerimist, et valida milline käitumine on antud hetkel sobivai
 ## Mall
 
 ---
-## nn *vabastiil*
+## "vabastiil"
 
 ---
 
@@ -198,7 +198,7 @@ Robot kasutab planeerimist, et valida milline käitumine on antud hetkel sobivai
 @ulend
 
 ---
-## SPA mall
+## SPA
 
 ---
 
