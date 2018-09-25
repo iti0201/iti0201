@@ -187,14 +187,14 @@ Robot kasutab planeerimist, et valida milline käitumine on antud hetkel sobivai
 
 @ul
 - @size[smaller](Loe kaugusandurist lugem x)
-- Saada mootoritele käsk sõita otse
-- Oota 10 sekundit
-- Vaata kas oled kohal? Kui ei, siis mine kaks rida ülespoole.
-- Saada mootoritele käsk pöörata paremale 90 kraadi kiirusega z rad/s.
-- Oota 3 sekundit
-- Saada mootoritele käsk sõita y cm otse
-- Oota 5 sekundit
-- ....
+- @size[smaller](Saada mootoritele käsk sõita otse)
+- @size[smaller](Oota 10 sekundit)
+- @size[smaller](Vaata kas oled kohal? Kui ei, siis mine kaks rida ülespoole.)
+- @size[smaller](Saada mootoritele käsk pöörata paremale 90 kraadi kiirusega z rad/s.)
+- @size[smaller](Oota 3 sekundit)
+- @size[smaller](Saada mootoritele käsk sõita y cm otse)
+- @size[smaller](Oota 5 sekundit)
+- @size[smaller](....)
 @ulend
 
 ---
