@@ -312,5 +312,9 @@ Põhieesmärk on jagada roboti alamkomponendid eraldi mooduliteks
 @size[smaller](LAAS architecture for autonomous systems)
 @snapend
 
+---
+## Autonoomia kihid
+
+---?image=assets/image/autonomy_layers.png&size=auto 60%
 
 ---
