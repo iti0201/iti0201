@@ -247,7 +247,7 @@ Praktikum on eelkõige mõeldud päris robotil testimiseks ja töö kaitsmiseks.
 ---
 ## Praktikumi põrandaplaan
 
----?image=assets/image/floorplan.png&size=auto 90%
+---?image=assets/image/floorplan.png&size=auto 60%
 
 ---
 ## Protsess
@@ -261,7 +261,7 @@ Praktikum on eelkõige mõeldud päris robotil testimiseks ja töö kaitsmiseks.
 - Robot hakkab teie lähtekoodile vastavalt ülesannet lahendama.
 @ulend
 
----?image=assets/image/upload.png&size=auto 90%
+---?image=assets/image/upload.png&size=auto 60%
 
 ---
 ## Väljakute kasutamine
