@@ -318,3 +318,52 @@ Põhieesmärk on jagada roboti alamkomponendid eraldi mooduliteks
 ---?image=assets/image/autonomy_layers.png&size=auto 60%
 
 ---
+## Tasemed vs ülesanded
+
+@ul
+- Joonejärgija - reaktiivne juhtimine (umbes 1 tase)
+- Objektid - reaktiivne/proaktiivne juhtimine (1+2 tase)
+- Labürint - reaktiivne/proaktiivne juhtimine (1+2+3 tase)
+@ulend
+
+---
+## Grace kasutusmall
+
+---
+## Robotiarhitektuuride disainimine
+
+---
+Arhitektuuri ülesanne on muuta roboti tarkvara ja arendamine:
+@ul
+- lihtsamaks
+- turvalisemaks ja ohutumaks
+- paindlikumaks
+@ulend
+
+---
+## Arhitektuuri kriteeriumite küsimused
+
+---
+Milliseid ülesandeid robot hakkab täitma? Pikaajalised? Lühiajalised? Kasutajapoolt alustatud? Roboti enda poolt alustatud? Kas ülesanded on korduvad või erinevad?
+
+---
+Millised tegevused on vajalikud ülesannete täitmiseks? Kuidas neid tegevusi modelleeritakse? Kuidas tegevusi koordineeritakse? Kui kiiresti peab robot neid tegevusi tegema?
+
+---
+## Implementatsioonid
+
+---
+Olemas on palju erinevaid arhitektuure:
+
+@ul
+- aRDnet
+- OROCOS
+- YARP
+- Smartsoft
+- ROS
+- GenoM
+- BRICS
+- ...
+@ulend
+
+---
