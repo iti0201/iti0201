@@ -300,7 +300,7 @@ Põhieesmärk on jagada roboti alamkomponendid eraldi mooduliteks
 
 "Subsumption architecture" - Rodney Brooks
 
----?image=assets/image/subsumption.png&size=auto 90%
----?image=assets/image/subsumption2.png&size=auto 90%
+---?image=assets/image/subsumption.png&size=auto 60%
+---?image=assets/image/subsumption2.png&size=auto 60%
 
 ---
