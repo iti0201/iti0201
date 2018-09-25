@@ -281,7 +281,26 @@ Roboti väljatrüki saab laadida oma Gitlab-i kasutades laadimisarvuti skripti (
 ## Robootikatarkvara arhitektuurid
 
 ---
-## Simulatsiooni virtuaalmasin
+Põhieesmärk on jagada roboti alamkomponendid eraldi mooduliteks
+
+@ul
+- Keerukuse mõttes lihtsamad komponendid
+- Paremini jälgitav süsteem
+- Kergemini silutav (debug)
+- Selgemini jagatav (kes/mis vastutab mille eest)
+@ulend
 
 ---
+## Ajalugu
 
+---?image=assets/image/shakey.jpg&size=auto 90%
+
+---
+## Alamkihtide arhitektuur
+
+"Subsumption architecture" - Rodney Brooks
+
+---?image=assets/image/subsumption.png&size=auto 90%
+---?image=assets/image/subsumption2.png&size=auto 90%
+
+---
