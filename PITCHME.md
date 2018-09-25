@@ -198,7 +198,7 @@ Robot kasutab planeerimist, et valida milline käitumine on antud hetkel sobivai
 @ulend
 
 ---
-## SPA
+## Sense-Plan-Act
 
 ---
 
