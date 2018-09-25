@@ -306,7 +306,7 @@ Põhieesmärk on jagada roboti alamkomponendid eraldi mooduliteks
 ---
 ## Kolmekihiline arhitektuur
 
----?image=assets/image/arch1.png&size=auto 80%
+---?image=assets/image/arch1.png&size=auto 50%
 
 @snap[south]
 @size[smaller](LAAS architecture for autonomous systems)
