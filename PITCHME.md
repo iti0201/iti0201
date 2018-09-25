@@ -257,7 +257,7 @@ Praktikum on eelkõige mõeldud päris robotil testimiseks ja töö kaitsmiseks.
 - Lahenduse lähtekood on Gitlab-is üleval.
 - Võtate vaba roboti ja vaatate, mis roboti kood on (roboti peal kirjas).
 - Panete roboti platsile algasendisse.
-- Kasutate laadimisarvutil skripti, mis laeb teie lahenduse lähtekoodi robotisse (skriptil määrate parameetritega oma uni-id, ülesande koodi ja roboti koodi).
+- Kasutate laadimisarvutil skripti (*load.sh*), mis laeb teie lahenduse lähtekoodi robotisse (skriptil määrate parameetritega oma uni-id, ülesande koodi ja roboti koodi).
 - Robot hakkab teie lähtekoodile vastavalt ülesannet lahendama.
 @ulend
 
