@@ -266,7 +266,7 @@ Praktikum on eelkõige mõeldud päris robotil testimiseks ja töö kaitsmiseks.
 ---
 ## Väljakute kasutamine
 
-Roboti väljatrükile pole jooksvalt ligipääsu, mis tähendab, et kui silumiseks (*debugging*) on vaja kasutada väljatrükki, siis on vaja uuesti kasutada laadimisarvutit (script nimega *fetch.sh*)
+Roboti väljatrüki saab laadida oma Gitlab-i kasutades laadimisarvuti skripti (*fetch.sh*)
 
 ---
 ## Robootikatarkvara arhitektuurid
