@@ -277,7 +277,8 @@ Roboti väljatrüki saab laadida oma Gitlab-i kasutades laadimisarvuti skripti (
 
 @ul
 - Ära lõhu robotit!
-- Ära vääna mootorite küljes olevaid komponente jõuga!
+- Ära vääna või painuta robotite küljes olevaid komponente!
+- Ole robotiga ettevaatlik!
 - **Kui ei ole kindel, kuidas mingit probleemi lahendada, siis küsi juhendajalt!**
 @ulend
 
