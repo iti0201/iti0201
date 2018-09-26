@@ -189,7 +189,7 @@ Robot kasutab planeerimist, et valida milline käitumine on antud hetkel sobivai
 ---
 
 @ul
-- @size[smaller](Loe kaugusandurist lugem x)
+- @size[smaller](Loe kaugusandurist lugem x, kui lugem > 10 cm, siis...)
 - @size[smaller](Saada mootoritele käsk sõita otse)
 - @size[smaller](Oota 10 sekundit)
 - @size[smaller](Vaata kas oled kohal? Kui ei, siis mine kaks rida ülespoole.)
