@@ -383,4 +383,8 @@ Olemas on palju erinevaid arhitektuure:
 ---
 ## Lisamaterjalid
 
-Võite huvi korral lugeda "õpikust" (Elements of Robotics) 1. peatüki **Robots and Their Applications**
+Võite huvi korral lugeda "õpikust" (Elements of Robotics)
+
+1. peatüki
+
+**Robots and Their Applications**
