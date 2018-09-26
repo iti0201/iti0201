@@ -329,6 +329,10 @@ Põhieesmärk on jagada roboti alamkomponendid eraldi mooduliteks
 ---
 ## Grace kasutusmall
 
+---?image=assets/image/grace.jpg&size=auto 70%
+---?image=assets/image/grace2.png&size=auto 80%
+---?image=assets/image/grace3.png&size=auto 80%
+
 ---
 ## Robotiarhitektuuride disainimine
 
