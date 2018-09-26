@@ -12,6 +12,12 @@ Registreerige ennast ainele
 keskkonnas!
 
 ---
+## Meeleolu tekitamiseks...
+
+---
+![Cocktail Bot 4.0](https://www.youtube.com/embed/C2OCmsdcZTg)
+
+---
 ## Ajakava
 
 Nädal |  | Tegevus
