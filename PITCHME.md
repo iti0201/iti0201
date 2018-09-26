@@ -268,7 +268,7 @@ Praktikum on eelkõige mõeldud päris robotil testimiseks ja töö kaitsmiseks.
 ---?image=assets/image/upload.png&size=auto 60%
 
 ---
-## Väljakute kasutamine
+## Silumine
 
 Roboti väljatrüki saab laadida oma Gitlab-i kasutades laadimisarvuti skripti (*fetch.sh*)
 
