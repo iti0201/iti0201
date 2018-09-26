@@ -301,6 +301,11 @@ Põhieesmärk on jagada roboti alamkomponendid eraldi mooduliteks
 ---?image=assets/image/shakey.jpg&size=auto 90%
 
 ---
+## STRIPS planeerija
+
+[https://en.wikipedia.org/wiki/STRIPS](https://en.wikipedia.org/wiki/STRIPS)
+
+---
 ## Alamkihtide arhitektuur
 
 "Subsumption architecture" - Rodney Brooks
