@@ -304,6 +304,7 @@ Põhieesmärk on jagada roboti alamkomponendid eraldi mooduliteks
 ## STRIPS planeerija
 
 [https://en.wikipedia.org/wiki/STRIPS](https://en.wikipedia.org/wiki/STRIPS)
+[https://github.com/tansey/strips](https://github.com/tansey/strips)
 
 ---
 ## Alamkihtide arhitektuur
