@@ -124,8 +124,10 @@ Koodisalved asuvad
 ---
 ## Komponendid
 
-@size[smaller](Sim: Algoritm (Python) @fa[arrows-h] PyBot (API) @fa[arrows-h] ROS @fa[arrows-h] Gazebo)
-@size[smaller](Robot: Algoritm (Python) @fa[arrows-h] PyBot (API) @fa[arrows-h] Robot (UART))
+@ul
+- @size[smaller](Sim: Algoritm (Python) @fa[arrows-h] PyBot (API) @fa[arrows-h] ROS @fa[arrows-h] Gazebo)
+- @size[smaller](Robot: Algoritm (Python) @fa[arrows-h] PyBot (API) @fa[arrows-h] Robot (UART))
+@ulend
 
 ---
 ## Roboti juhtimismeetodid
