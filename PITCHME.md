@@ -215,6 +215,7 @@ Robot kasutab planeerimist, et valida milline käitumine on antud hetkel sobivai
 @ulend
 
 ---
+## Näide
 @ul
 - variable_to_count_number_of_objects?
 - counter?
