@@ -125,8 +125,8 @@ Koodisalved asuvad
 ## Komponendid
 
 @ul
-- @size[smaller](Sim: Algoritm <(Python)> @fa[arrows-h] PyBot \(API\) @fa[arrows-h] ROS @fa[arrows-h] Gazebo)
-- @size[smaller](Robot: Algoritm (Python) @fa[arrows-h] PyBot (API) @fa[arrows-h] Robot (UART))
+- Sim: Algoritm (Python) @fa[arrows-h] PyBot (API) @fa[arrows-h] ROS @fa[arrows-h] Gazebo
+- Robot: Algoritm (Python) @fa[arrows-h] PyBot (API) @fa[arrows-h] Robot (UART)
 @ulend
 
 ---
