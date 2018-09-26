@@ -329,7 +329,7 @@ Põhieesmärk on jagada roboti alamkomponendid eraldi mooduliteks
 ## Tasemed vs ülesanded
 
 @ul
-- Joonejärgija - reaktiivne juhtimine (umbes 1 tase)
+- Joonejärgija - reaktiivne juhtimine (1(+2) tase)
 - Objektid - reaktiivne/proaktiivne juhtimine (1+2 tase)
 - Labürint - reaktiivne/proaktiivne juhtimine (1+2+3 tase)
 @ulend
