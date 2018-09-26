@@ -348,10 +348,20 @@ Arhitektuuri ülesanne on muuta roboti tarkvara ja arendamine:
 ## Arhitektuuri kriteeriumite küsimused
 
 ---
-Milliseid ülesandeid robot hakkab täitma? Pikaajalised? Lühiajalised? Kasutajapoolt alustatud? Roboti enda poolt alustatud? Kas ülesanded on korduvad või erinevad?
+@ul
+- Milliseid ülesandeid robot hakkab täitma?
+- Pikaajalised? Lühiajalised?
+- Kasutajapoolt alustatud? Roboti enda poolt alustatud?
+- Kas ülesanded on korduvad või erinevad?
+@ulend
 
 ---
-Millised tegevused on vajalikud ülesannete täitmiseks? Kuidas neid tegevusi modelleeritakse? Kuidas tegevusi koordineeritakse? Kui kiiresti peab robot neid tegevusi tegema?
+@ul
+- Millised tegevused on vajalikud ülesannete täitmiseks?
+- Kuidas neid tegevusi modelleeritakse?
+- Kuidas tegevusi koordineeritakse?
+- Kui kiiresti peab robot neid tegevusi tegema?
+@ulend
 
 ---
 ## Implementatsioonid
