@@ -14,10 +14,10 @@
 
 Nädal |  | Tegevus
 ------|--|--------
-**6** | @size[large](@color[goldenrod](Loeng)) | @size[large](Sensorid, reaktiivne käitumine, olekumasinad)
+@size[large](**6**) | @size[large](@color[goldenrod](Loeng)) | @size[large](Sensorid, reaktiivne käitumine, olekumasinad)
   | @size[large](@color[darkgreen](Praktikum)) | @size[large]("Joonejärgija" arendamine ja kaitsmine)
   | @size[large](@color[cornflowerblue](Kodutöö)) | @size[large]("Joonejärgija" arendamine)
-**7** | @size[large](@color[goldenrod](Loeng)) | ---
+@size[large](**7**) | @size[large](@color[goldenrod](Loeng)) | ---
   | @size[large](@color[darkgreen](Praktikum)) | @size[large]("Joonejärgija" arendamine ja kaitsmine)
   | @size[large](@color[cornflowerblue](Kodutöö)) | @size[large]("Joonejärgija" arendamine)
 
