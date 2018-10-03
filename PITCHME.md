@@ -19,7 +19,7 @@ Nädal |  | Tegevus
   | @size[large](@color[cornflowerblue](Kodutöö)) | @size[large]("Joonejärgija" arendamine)
 @size[large](**7**) | @size[large](@color[goldenrod](Loeng)) | ---
   | @size[large](@color[darkgreen](Praktikum)) | @size[large]("Joonejärgija" arendamine ja kaitsmine)
-  | @size[large](@color[cornflowerblue](Kodutöö)) | @size[large]("Joonejärgija" arendamine)
+  | @size[large](@color[cornflowerblue](Kodutöö)) | @size[large]("Objektid" arendamine)
 
 ---
 ### Joonejärgija (2 nädalat)
