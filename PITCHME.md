@@ -14,12 +14,12 @@
 
 Nädal |  | Tegevus
 ------|--|--------
-**6** | @size[smaller](@color[goldenrod](Loeng)) | @size[smaller](Sensorid, reaktiivne käitumine, olekumasinad)
-  | @size[smaller](@color[darkgreen](Praktikum)) | @size[smaller]("Joonejärgija" arendamine ja kaitsmine)
-  | @size[smaller](@color[cornflowerblue](Kodutöö)) | @size[smaller]("Joonejärgija" arendamine)
-**7** | @size[smaller](@color[goldenrod](Loeng)) | ---
-  | @size[smaller](@color[darkgreen](Praktikum)) | @size[smaller]("Joonejärgija" arendamine ja kaitsmine)
-  | @size[smaller](@color[cornflowerblue](Kodutöö)) | @size[smaller]("Joonejärgija" arendamine)
+**6** | @size[smallest](@color[goldenrod](Loeng)) | @size[smallest](Sensorid, reaktiivne käitumine, olekumasinad)
+  | @size[smallest](@color[darkgreen](Praktikum)) | @size[smallest]("Joonejärgija" arendamine ja kaitsmine)
+  | @size[smallest](@color[cornflowerblue](Kodutöö)) | @size[smallest]("Joonejärgija" arendamine)
+**7** | @size[smallest](@color[goldenrod](Loeng)) | ---
+  | @size[smallest](@color[darkgreen](Praktikum)) | @size[smallest]("Joonejärgija" arendamine ja kaitsmine)
+  | @size[smallest](@color[cornflowerblue](Kodutöö)) | @size[smallest]("Joonejärgija" arendamine)
 
 ---
 ### Joonejärgija (2 nädalat)
