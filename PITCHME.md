@@ -57,6 +57,16 @@ Tase | Kirjeldus
 ...
 
 ---
+## Reaktiivne käitumine
+
+...
+
+---
+## Olekumasinad (FSM)
+
+...
+
+---
 ## Lisamaterjalid
 
 Võite huvi korral lugeda "õpikust" (Elements of Robotics)
