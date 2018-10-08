@@ -136,7 +136,7 @@ Näiteks
 ---?image=assets/image/warehouse.png&size=auto 60%
 ---?image=assets/image/linefollowing.png&size=auto 60%
 ---?image=assets/image/lf_algo.png&size=auto 80%
----?image=assets/image/lf_gradient.png&size=auto 60%
+---?image=assets/image/lf_gradient.png&size=auto 40%
 
 
 ---
