@@ -58,7 +58,53 @@ Tase | Kirjeldus
 ---
 ## Sensorid
 
-...
+---
+Sensorid jagunevad kaheks
+@ul
+- Propriotseptiivsed (ingl proprioceptive) - roboti sisemist olekut mõõtvad andurid
+- Eksterotseptiivsed (ingl exteroceptive) - robotit ümbritseva maailma mõõtvad andurid
+@ulend
+
+---
+## Propriotseptiivsed andurid
+
+---
+Näiteks
+@ul
+- robotmanipulaatori lülide servomootorite hetkeasendid, hetkkiirused, jõumomendid
+- robotplatvormi servomootorite hetkkiirused, asendid
+- toiteaku pinge
+- güroskoop
+- kompass
+@ulend
+
+---
+## Eksterotseptiivsed andurid
+
+---
+Näiteks
+@ul
+- taktiilsed andurid (puuteandurid)
+- infrapunaandurid
+- ultraheliandurid
+- lidarid (laserkaugusmõõtjad)
+@ulend
+
+---
+## IR karakteristik
+
+---?image=assets/image/ir_characteristics.png&size=auto 80%
+
+---
+## Müra
+
+---?image=assets/image/std_deviation.png&size=auto 80%
+---?image=assets/image/noise_filter.jpg&size=auto 80%
+
+---
+## Keskmistamine
+
+---?image=assets/image/average.png&size=auto 80%
 
 ---
 ## Reaktiivne käitumine
@@ -73,6 +119,8 @@ Tase | Kirjeldus
 ---
 ## Lisamaterjalid
 
-Võite huvi korral lugeda "õpikust" (Elements of Robotics)
+Võite huvi korral lugeda "õpikust" (Elements of Robotics) juurde
 
-2. peatüki - **Sensors**
+2. peatükk - **Sensors**
+3. peatükk - **Reactive Behavior**
+4. peatükk - **Finite State Machines**
