@@ -145,9 +145,9 @@ Näiteks
 ---
 ## Olekumasinad (FSM)
 
----?image=assets/image/state_diagram.png&size=auto 40%
+---?image=assets/image/state_diagram.png&size=auto 20%
 ---?image=assets/image/fsm_persistent_braitenberg.png&size=auto 50%
----?image=assets/image/fsm_search_approach.png&size=auto 70%
+---?image=assets/image/fsm_search_approach.png&size=auto 80%
 ---?image=assets/image/algo_persistent.png&size=auto 80%
 ---?image=assets/image/algo_search_approach.png&size=auto 80%
 
