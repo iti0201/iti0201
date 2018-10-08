@@ -117,11 +117,13 @@ Näiteks
 ---
 ## Käitumine: arglik
 
----?image=assets/image/timid.png&size=auto 80%
+---?image=assets/image/timid.png&size=auto 60%
+
+---
 
 ## Käitumine: paranoiline
 
----?image=assets/image/paranoid.png&size=auto 80%
+---?image=assets/image/paranoid.png&size=auto 60%
 
 ---
 ## Pööramine
