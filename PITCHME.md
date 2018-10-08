@@ -140,7 +140,7 @@ Näiteks
 
 ## Braitenbergi käitumised
 
----?image=assets/image/braitenberg_vehicles.png&size=auto 40%
+---?image=assets/image/braitenberg_vehicles.png&size=auto 80%
 
 ---
 ## Olekumasinad (FSM)
