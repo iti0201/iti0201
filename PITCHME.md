@@ -93,7 +93,7 @@ Näiteks
 ---
 ## IR karakteristik
 
----?image=assets/image/ir_characterics.png&size=auto 80%
+---?image=assets/image/ir_characteristics.png&size=auto 80%
 
 ---
 ## Müra
