@@ -121,6 +121,6 @@ Näiteks
 
 Võite huvi korral lugeda "õpikust" (Elements of Robotics) juurde
 
-2\. peatükk - **Sensors**
-3\. peatükk - **Reactive Behavior**
-4\. peatükk - **Finite State Machines**
+- 2\. peatükk - **Sensors**
+- 3\. peatükk - **Reactive Behavior**
+- 4\. peatükk - **Finite State Machines**
