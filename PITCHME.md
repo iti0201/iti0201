@@ -109,7 +109,33 @@ Näiteks
 ---
 ## Reaktiivne käitumine
 
-...
+---
+## Braitenbergi sõiduk
+
+---?image=assets/image/braitenberg.png&size=auto 80%
+
+---
+## Käitumine: arglik
+
+---?image=assets/image/timid.png&size=auto 80%
+
+## Käitumine: paranoiline
+
+---?image=assets/image/paranoid.png&size=auto 80%
+
+---
+## Pööramine
+
+---?image=assets/image/turning.png&size=auto 80%
+
+---
+## Joonejärgija
+
+---?image=assets/image/warehouse.png&size=auto 80%
+---?image=assets/image/linefollowing.png&size=auto 80%
+---?image=assets/image/lf_algo.png&size=auto 80%
+---?image=assets/image/lf_gradient.png&size=auto 80%
+
 
 ---
 ## Olekumasinad (FSM)
