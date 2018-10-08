@@ -138,6 +138,9 @@ Näiteks
 ---?image=assets/image/lf_algo.png&size=auto 80%
 ---?image=assets/image/lf_gradient.png&size=auto 40%
 
+## Braitenbergi käitumised
+
+---?image=assets/image/lf_gradient.png&size=auto 40%
 
 ---
 ## Olekumasinad (FSM)
