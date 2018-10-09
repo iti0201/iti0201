@@ -7,7 +7,7 @@
 ## Meeleolu tekitamiseks...
 
 ---
-![Cocktail Bot 4.0](https://www.youtube.com/embed/C2OCmsdcZTg)
+![Self-solving Rubik's cube](https://www.youtube.com/embed/xCoH2AORcEQ)
 
 ---
 ## Ajakava
