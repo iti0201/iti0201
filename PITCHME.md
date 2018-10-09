@@ -7,7 +7,10 @@
 ## Meeleolu tekitamiseks...
 
 ---
-![Self-solving Rubik's cube](https://www.youtube.com/embed/xCoH2AORcEQ)
+![Self solving Rubik's cube](https://www.youtube.com/embed/xCoH2AORcEQ)
+
+---?image=assets/image/self-solving-rubiks-cube-robot-designboom-5.jpg&size=auto 60%
+
 
 ---
 ## Ajakava
