@@ -1,7 +1,7 @@
 ## ITI0201<br />Robotite Programmeerimine
 
 ---
-## Robotite programmeerimise alused
+### Sensorid, müra, reaktiivne käitumine, olekumasinad
 
 ---
 ## Meeleolu tekitamiseks...
