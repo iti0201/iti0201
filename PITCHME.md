@@ -100,6 +100,12 @@ Näiteks
 ---?image=assets/image/ir_sensor_work.gif&size=auto 60%
 
 ---
+## IR kitsaskohad
+
+---?image=assets/image/sonar.png&size=auto 80%
+---?image=assets/image/sonar2.png&size=auto 80%
+
+---
 ## Müra
 
 ---?image=assets/image/std_deviation.png&size=auto 80%
