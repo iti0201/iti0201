@@ -121,13 +121,13 @@ Näiteks
 
 ---
 @ul
-- @size[smaller](t=0: input=100  buffer=[100, 100, 100], avg=100  =>  output=100)
-- @size[smaller](t=1: input=103  buffer=[103, 100, 100], avg=101  =>  output=103)
-- @size[smaller](t=2: input=106  buffer=[106, 103, 100], avg=103  =>  output=106)
-- @size[smaller](t=3: input=2550  buffer=[2550, 106, 103], avg=920  =>  output=106)
-- @size[smaller](t=4: input=112  buffer=[112, 2550, 106], avg=923  =>  output=106)
-- @size[smaller](t=5: input=115  buffer=[115, 112, 2550], avg=926  =>  output=106)
-- @size[smaller](t=6: input=118  buffer=[118, 115, 112], avg=115  =>  output=118)
+- @size[x-large](t=0: input=100  buffer=[100, 100, 100], avg=100  =>  output=100)
+- @size[x-large](t=1: input=103  buffer=[103, 100, 100], avg=101  =>  output=103)
+- @size[x-large](t=2: input=106  buffer=[106, 103, 100], avg=103  =>  output=106)
+- @size[x-large](t=3: input=2550  buffer=[2550, 106, 103], avg=920  =>  output=106)
+- @size[x-large](t=4: input=112  buffer=[112, 2550, 106], avg=923  =>  output=106)
+- @size[x-large](t=5: input=115  buffer=[115, 112, 2550], avg=926  =>  output=106)
+- @size[x-large](t=6: input=118  buffer=[118, 115, 112], avg=115  =>  output=118)
 @ulend
 
 ---
