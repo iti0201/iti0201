@@ -121,7 +121,7 @@ Näiteks
 
 ---
 @ul
-- t=0: input=100  buffer=[100, 100, 100], avg=100  =>  output=100
+- @size[smaller](t0: input=100  buffer=[100, 100, 100], avg=100  =>  output=100)
 - t=1: input=103  buffer=[103, 100, 100], avg=101  =>  output=103
 - t=2: input=106  buffer=[106, 103, 100], avg=103  =>  output=106
 - t=3: input=2550  buffer=[2550, 106, 103], avg=920  =>  output=106
