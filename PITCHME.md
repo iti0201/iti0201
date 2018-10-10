@@ -173,6 +173,7 @@ Näiteks
 ---?image=assets/image/lf_algo.png&size=auto 80%
 ---?image=assets/image/lf_gradient.png&size=auto 40%
 
+---
 ## Braitenbergi käitumised
 
 ---?image=assets/image/braitenberg_vehicles.png&size=auto 80%
