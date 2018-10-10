@@ -12,7 +12,6 @@
 ---?image=assets/image/self-solving-rubiks-cube-robot-designboom-5.jpg&size=auto 60%
 ---?image=assets/image/solve.jpg&size=auto 60%
 
-
 ---
 ## Ajakava
 
@@ -98,6 +97,7 @@ Näiteks
 ## IR karakteristik
 
 ---?image=assets/image/ir_characteristics.png&size=auto 80%
+---?image=assets/image/ir_sensor_work.gif&size=auto 60%
 
 ---
 ## Müra
