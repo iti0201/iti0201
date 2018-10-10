@@ -102,8 +102,8 @@ Näiteks
 ---
 ## IR kitsaskohad
 
----?image=assets/image/sonar.png&size=auto 50%
----?image=assets/image/sonar2.png&size=auto 50%
+---?image=assets/image/sonar.png&size=auto 40%
+---?image=assets/image/sonar2.png&size=auto 40%
 
 ---
 ## Müra
