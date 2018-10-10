@@ -117,6 +117,20 @@ Näiteks
 ---?image=assets/image/average.png&size=auto 80%
 
 ---
+## Filtreerimine
+
+---
+@ul
+- t=0: input=100  buffer=[100, 100, 100], avg=100  =>  output=100
+- t=1: input=103  buffer=[103, 100, 100], avg=101  =>  output=103
+- t=2: input=106  buffer=[106, 103, 100], avg=103  =>  output=106
+- t=3: input=2550  buffer=[2550, 106, 103], avg=920  =>  output=106
+- t=4: input=112  buffer=[112, 2550, 106], avg=923  =>  output=106
+- t=5: input=115  buffer=[115, 112, 2550], avg=926  =>  output=106
+- t=6: input=118  buffer=[118, 115, 112], avg=115  =>  output=118
+@ulend
+
+---
 ## Reaktiivne käitumine
 
 ---
