@@ -175,6 +175,13 @@ Hea juhtimisalgoritm
 @ulend
 
 ---
+## Näide: püsikiirusehoidja
+
+---?image=assets/image/cruise_diagram.png&size=auto 60%
+---?image=assets/image/cruise_slope.png&size=auto 60%
+
+
+---
 Tagasisidestatud süsteemide kohta on värske allikas
 
 [http://www.cds.caltech.edu/~murray/amwiki/index.php/Second_Edition](http://www.cds.caltech.edu/~murray/amwiki/index.php/Second_Edition)
