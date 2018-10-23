@@ -71,6 +71,14 @@ y koordinaat (meetrites)
 $\theta$ lengerdusnurk (yaw) (radiaanides)
 
 ---
+Kui on oluline ka kõrgus ja nurk 3-mõõtmelises maailmas, siis kirjeldatakse poosi nii:
+x, y, z koordinaat
+pöörde- (roll), kallutus- (pitch) ja lengerdusnurk (yaw)
+
+---?image=assets/image/state.png&size=auto 70%
+---?image=assets/image/state_vector.png&size=auto 70%
+
+---
 ## Juhtimine (PID)
 
 ---
