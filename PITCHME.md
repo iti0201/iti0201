@@ -106,7 +106,11 @@ pöörde- (roll), kallutus- (pitch) ja lengerdusnurk (yaw)
 ## Juhtimine (PID)
 
 ---
-Tagasisideta (open loop) *versus* tagasisidega (closed loop) juhtimine.
+Tagasisideta (open loop)
+
+*versus*
+
+tagasisidega (closed loop) juhtimine.
 
 ---
 Näiteid tagasisideta juhtimisest?
