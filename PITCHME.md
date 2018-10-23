@@ -100,6 +100,7 @@ pöörde- (roll), kallutus- (pitch) ja lengerdusnurk (yaw)
 @ulend
 
 ---?image=assets/image/state_derivative_wheelspeed.png&size=auto 70%
+---?image=assets/image/state_derivative_wheelspeed2.png&size=auto 70%
 
 ---
 ## Juhtimine (PID)
