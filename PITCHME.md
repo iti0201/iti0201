@@ -34,8 +34,22 @@ Tase | Kirjeldus
 ---
 ## Olekuautomaadid meeldetuletus
 
+---?image=assets/image/fsm_elevator.png&size=auto 40%
+
 ---
 ## Liikumine
+
+---
+Roboti liikumist mõjutavad paljud tegurid
+@ul
+- ükski elektriline või mehaaniline komponent ei ole täiesti identne teisega
+- keskkond (pind, millel robot sõidab) mõjutab tegelikku kiirust
+- konarused ja muud takistused mõjutavad kiirust
+@ulend
+
+---
+
+$$s=vt$$
 
 ---
 ## Odomeetria
