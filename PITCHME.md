@@ -153,6 +153,11 @@ PID = proportsionaal-integraal-diferentsiaalregulaator ehk PID-kontroller
 ---?image=assets/image/p_controller_neg_08.png&size=auto 70%
 ---?image=assets/image/p_gain.png&size=auto 70%
 
+---
+## Proportsionaalne-integraal (PI) kontroller, PI-regulaator
+
+---?image=assets/image/pi_controller.png&size=auto 50%
+---?image=assets/image/pi_algo.png&size=auto 50%
 
 ---
 ## Koordinaatsüsteemid
