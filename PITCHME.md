@@ -82,9 +82,24 @@ pöörde- (roll), kallutus- (pitch) ja lengerdusnurk (yaw)
 ---?image=assets/image/90deg.png&size=auto 70%
 
 ---
-### Pöördemaatriks (rotation matrix)
+### Pöördemaatriks (rotation matrix) 2D
 
 ---?image=assets/image/rotation.png&size=auto 30%
+---
+
+### Forward kinematic model
+---?image=assets/image/state_derivative.png&size=auto 30%
+
+---
+@ul
+l - ratta kaugus telje keskkohast
+r - ratta diameeter
+θ - roboti nurk
+φ1 - vasaku ratta kiirus
+φ2 - parema ratta kiirus
+@ulend
+
+---?image=assets/image/state_derivative_wheelspeed&size=auto 70%
 
 ---
 ## Juhtimine (PID)
