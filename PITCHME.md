@@ -168,6 +168,7 @@ PID = proportsionaal-integraal-diferentsiaalregulaator ehk PID-kontroller
 ---?image=assets/image/pid_plot.png&size=auto 60%
 
 ---
+Hea juhtimisalgoritm
 @ul
 - Hea juhtimisalgoritm peaks kiiresti koonduma ja vältima järske muutusi.
 - Juhtimisalgoritm tuleb kohandada vastavalt süsteemile.
