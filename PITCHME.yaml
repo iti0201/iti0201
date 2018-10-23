@@ -12,3 +12,4 @@ highlight : hybrid
 transition : none
 published : true
 footnote : "gert.kanter@ttu.ee"
+mathjax : TeX-MML-AM_HTMLorMML-full
