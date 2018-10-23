@@ -145,6 +145,7 @@ Kasutame tagasiside saamiseks rataste enkoodreid.
 
 ---?image=assets/image/p_controller.png&size=auto 50%
 ---?image=assets/image/p_controller_neg_08.png&size=auto 70%
+---?image=assets/image/p_gain.png&size=auto 70%
 
 
 ---
