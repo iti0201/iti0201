@@ -79,6 +79,12 @@ pöörde- (roll), kallutus- (pitch) ja lengerdusnurk (yaw)
 
 ---?image=assets/image/state.png&size=auto 70%
 ---?image=assets/image/state_vector.png&size=auto 30%
+---?image=assets/image/90deg.png&size=auto 70%
+
+---
+### Pöördemaatriks (rotation matrix)
+
+---?image=assets/image/rotation.png&size=auto 30%
 
 ---
 ## Juhtimine (PID)
