@@ -141,6 +141,12 @@ Kasutame tagasiside saamiseks rataste enkoodreid.
 ---?image=assets/image/on_off_plot.png&size=auto 50%
 
 ---
+## PID juhtimine
+
+---
+PID = proportsionaal-integraal-diferentsiaalregulaator ehk PID-kontroller
+
+---
 ## Proportsionaalne (P) kontroller, P-regulaator
 
 ---?image=assets/image/p_controller.png&size=auto 50%
