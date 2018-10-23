@@ -179,6 +179,7 @@ Hea juhtimisalgoritm
 
 ---?image=assets/image/cruise_diagram.png&size=auto 60%
 ---?image=assets/image/cruise_slope.png&size=auto 60%
+---?image=assets/image/cruise_fsm.png&size=auto 60%
 
 
 ---
