@@ -110,7 +110,7 @@ Tagasisideta (open loop)
 
 *versus*
 
-tagasisidega (closed loop) juhtimine.
+tagasisidestatud (closed loop) juhtimine.
 
 ---
 Näiteid tagasisideta juhtimisest?
@@ -139,6 +139,12 @@ Kasutame tagasiside saamiseks rataste enkoodreid.
 ---?image=assets/image/feedback_algo.png&size=auto 60%
 ---?image=assets/image/on_off_controller.png&size=auto 60%
 ---?image=assets/image/on_off_plot.png&size=auto 50%
+
+---
+## Proportsionaalne (P) kontroller, P-regulaator
+
+---?image=assets/image/p_controller.png&size=auto 50%
+
 
 ---
 ## Koordinaatsüsteemid
