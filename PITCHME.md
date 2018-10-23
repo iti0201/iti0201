@@ -135,7 +135,8 @@ Kasutame tagasiside saamiseks rataste enkoodreid.
 
 [https://github.com/iti0201/robot](https://github.com/iti0201/robot)
 
----?image=assets/image/closed_loop.png&size=auto 50%
+---?image=assets/image/closed_loop.png&size=auto 40%
+---?image=assets/image/feedback_algo.png&size=auto 40%
 
 ---
 ## Koordinaatsüsteemid
