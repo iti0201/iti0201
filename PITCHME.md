@@ -108,6 +108,8 @@ pöörde- (roll), kallutus- (pitch) ja lengerdusnurk (yaw)
 ---?image=assets/image/frames.png&size=auto 70%
 ---?image=assets/image/frames2.png&size=auto 30%
 ---?image=assets/image/frames3.png&size=auto 70%
+---?image=assets/image/frames_cyclic.png&size=auto 70%
+
 
 ---
 ## Juhtimine (PID)
