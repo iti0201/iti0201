@@ -34,7 +34,7 @@ Tase | Kirjeldus
 ---
 ## Olekuautomaadid meeldetuletus
 
----?image=assets/image/fsm_elevator.png&size=auto 60%
+---?image=assets/image/fsm_elevator.png&size=auto 80%
 
 ---
 ## Liikumine
