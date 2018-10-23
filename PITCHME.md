@@ -40,20 +40,20 @@ Tase | Kirjeldus
 ## Liikumine
 
 ---
-Roboti liikumist mõjutavad mitmed tegurid
-@ul
-- ükski elektriline või mehaaniline komponent ei ole täiesti identne teisega
-- keskkond (pind, millel robot sõidab) mõjutab tegelikku kiirust
-- konarused ja muud takistused mõjutavad kiirust
-@ulend
-
----
 $$s=vt$$
 
 Teepikkus on võrdne kiiruse ja aja korrutisega.
 
 ---
 Millised probleemid on selle valemiga robootika kontekstis?
+
+---
+Roboti liikumist mõjutavad mitmed tegurid
+@ul
+- ükski elektriline või mehaaniline komponent ei ole täiesti identne teisega
+- keskkond (pind, millel robot sõidab) mõjutab tegelikku kiirust
+- konarused ja muud takistused mõjutavad kiirust
+@ulend
 
 ---
 Tuletame roboti oleku hindamise protsessi tahvlile...
@@ -65,7 +65,7 @@ Tuletame roboti oleku hindamise protsessi tahvlile...
 Roboti poosi (koordinaate ja orientatsiooni) kirjeldatakse 2D robotite korral kolme väärtusega:
 x koordinaat (meetrites)
 y koordinaat (meetrites)
-$$\theta$$ lengerdusnurk (yaw) (radiaanides)
+\(\theta\) lengerdusnurk (yaw) (radiaanides)
 
 ---
 ## Juhtimine (PID)
