@@ -7,7 +7,13 @@
 ## Meeleolu tekitamiseks...
 
 ---
-![Self solving Rubik's cube](https://www.youtube.com/embed/xCoH2AORcEQ)
+![Robots teaching themselves to see](https://www.youtube.com/embed/OplLXzxxmdA)
+
+---
+![Parkour Atlas](https://www.youtube.com/embed/LikxFZZO2sk)
+
+---
+![Precise Hopping with Salto-1P](https://www.youtube.com/embed/ZFGxnF9SqDE)
 
 ---
 ## Ajakava
