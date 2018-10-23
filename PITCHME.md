@@ -99,7 +99,7 @@ pöörde- (roll), kallutus- (pitch) ja lengerdusnurk (yaw)
 - φ2 - parema ratta kiirus
 @ulend
 
----?image=assets/image/state_derivative_wheelspeed&size=auto 70%
+---?image=assets/image/state_derivative_wheelspeed.png&size=auto 70%
 
 ---
 ## Juhtimine (PID)
