@@ -106,6 +106,18 @@ pöörde- (roll), kallutus- (pitch) ja lengerdusnurk (yaw)
 ## Juhtimine (PID)
 
 ---
+Tagasisideta (open loop) *versus* tagasisidega (closed loop) juhtimine.
+
+---
+Näiteid tagasisideta juhtimisest?
+@ul
+- pesumasin
+- röster
+- pesukuivati
+- ...
+@ulend
+
+---
 Kuidas sõita "täpselt"?
 
 ---
@@ -118,6 +130,8 @@ Kuidas seda teha?
 Kasutame tagasiside saamiseks rataste enkoodreid.
 
 [https://github.com/iti0201/robot](https://github.com/iti0201/robot)
+
+---?image=assets/image/closed_loop.png&size=auto 50%
 
 ---
 ## Koordinaatsüsteemid
