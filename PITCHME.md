@@ -106,7 +106,7 @@ pöörde- (roll), kallutus- (pitch) ja lengerdusnurk (yaw)
 ## Koordinaatsüsteemid
 
 ---?image=assets/image/frames.png&size=auto 70%
----?image=assets/image/frames2.png&size=auto 40%
+---?image=assets/image/frames2.png&size=auto 30%
 ---?image=assets/image/frames3.png&size=auto 70%
 
 ---
