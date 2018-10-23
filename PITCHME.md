@@ -138,6 +138,7 @@ Kasutame tagasiside saamiseks rataste enkoodreid.
 ---?image=assets/image/closed_loop.png&size=auto 40%
 ---?image=assets/image/feedback_algo.png&size=auto 60%
 ---?image=assets/image/on_off_controller.png&size=auto 60%
+---?image=assets/image/on_off_plot.png&size=auto 50%
 
 ---
 ## Koordinaatsüsteemid
