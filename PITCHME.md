@@ -34,13 +34,13 @@ Tase | Kirjeldus
 ---
 ## Olekuautomaadid meeldetuletus
 
----?image=assets/image/fsm_elevator.png&size=auto 40%
+---?image=assets/image/fsm_elevator.png&size=auto 60%
 
 ---
 ## Liikumine
 
 ---
-Roboti liikumist mõjutavad paljud tegurid
+Roboti liikumist mõjutavad mitmed tegurid
 @ul
 - ükski elektriline või mehaaniline komponent ei ole täiesti identne teisega
 - keskkond (pind, millel robot sõidab) mõjutab tegelikku kiirust
@@ -48,11 +48,24 @@ Roboti liikumist mõjutavad paljud tegurid
 @ulend
 
 ---
-
 $$s=vt$$
+
+Teepikkus on võrdne kiiruse ja aja korrutisega.
+
+---
+Millised probleemid on selle valemiga robootika kontekstis?
+
+---
+Tuletame roboti oleku hindamise protsessi tahvlile...
 
 ---
 ## Odomeetria
+
+---
+Roboti poosi (koordinaate ja orientatsiooni) kirjeldatakse 2D robotite korral kolme väärtusega:
+x koordinaat (meetrites)
+y koordinaat (meetrites)
+$$\theta$$ lengerdusnurk (yaw) (radiaanides)
 
 ---
 ## Juhtimine (PID)
