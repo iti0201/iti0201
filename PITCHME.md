@@ -168,6 +168,11 @@ PID = proportsionaal-integraal-diferentsiaalregulaator ehk PID-kontroller
 ---?image=assets/image/pid_plot.png&size=auto 60%
 
 ---
+Tagasisidestatud süsteemide kohta on värske allikas
+
+[http://www.cds.caltech.edu/~murray/amwiki/index.php/Second_Edition](http://www.cds.caltech.edu/~murray/amwiki/index.php/Second_Edition)
+
+---
 ## Koordinaatsüsteemid
 
 ---?image=assets/image/frames.png&size=auto 70%
