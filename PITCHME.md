@@ -78,7 +78,7 @@ x, y, z koordinaat
 pöörde- (roll), kallutus- (pitch) ja lengerdusnurk (yaw)
 
 ---?image=assets/image/state.png&size=auto 70%
----?image=assets/image/state_vector.png&size=auto 70%
+---?image=assets/image/state_vector.png&size=auto 30%
 
 ---
 ## Juhtimine (PID)
