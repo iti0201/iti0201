@@ -92,11 +92,11 @@ pöörde- (roll), kallutus- (pitch) ja lengerdusnurk (yaw)
 
 ---
 @ul
-l - ratta kaugus telje keskkohast
-r - ratta diameeter
-θ - roboti nurk
-φ1 - vasaku ratta kiirus
-φ2 - parema ratta kiirus
+- l - ratta kaugus telje keskkohast
+- r - ratta diameeter
+- θ - roboti nurk
+- φ1 - vasaku ratta kiirus
+- φ2 - parema ratta kiirus
 @ulend
 
 ---?image=assets/image/state_derivative_wheelspeed&size=auto 70%
