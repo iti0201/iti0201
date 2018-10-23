@@ -73,18 +73,18 @@ Tuletame roboti oleku hindamise protsessi tahvlile...
 ---
 Roboti poosi (koordinaate ja orientatsiooni) kirjeldatakse 2D robotite korral kolme väärtusega:
 
-x koordinaat (meetrites)
+**x koordinaat** *(meetrites)*
 
-y koordinaat (meetrites)
+**y koordinaat** *(meetrites)*
 
-$\theta$ lengerdusnurk (yaw) (radiaanides)
+**$\theta$ lengerdusnurk (yaw)** *(radiaanides)*
 
 ---
 Kui on oluline ka kõrgus ja nurk 3-mõõtmelises maailmas, siis kirjeldatakse poosi nii:
 
-x, y, z koordinaat
+**x, y, z koordinaat**
 
-pöörde- (roll), kallutus- (pitch) ja lengerdusnurk (yaw)
+**pöörde- (roll), kallutus- (pitch) ja lengerdusnurk (yaw)**
 
 ---?image=assets/image/state.png&size=auto 70%
 ---?image=assets/image/state_vector.png&size=auto 30%
