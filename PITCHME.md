@@ -103,6 +103,23 @@ pöörde- (roll), kallutus- (pitch) ja lengerdusnurk (yaw)
 ---?image=assets/image/state_derivative_wheelspeed2.png&size=auto 70%
 
 ---
+## Juhtimine (PID)
+
+---
+Kuidas sõita "täpselt"?
+
+---
+Juhime mootorite kiirust dünaamiliselt vastavalt hetkkiirusele.
+
+---
+Kuidas seda teha?
+
+---
+Kasutame tagasiside saamiseks rataste enkoodreid.
+
+[https://github.com/iti0201/robot](https://github.com/iti0201/robot)
+
+---
 ## Koordinaatsüsteemid
 
 ---?image=assets/image/frames.png&size=auto 70%
@@ -112,7 +129,9 @@ pöörde- (roll), kallutus- (pitch) ja lengerdusnurk (yaw)
 
 
 ---
-## Juhtimine (PID)
+## Kuidas tuvastada objekte?
+
+---?image=assets/image/object_detection.png&size=auto 70%
 
 ---
 ## Lisamaterjalid
