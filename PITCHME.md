@@ -62,6 +62,9 @@ Roboti liikumist mõjutavad mitmed tegurid
 @ulend
 
 ---
+Kiirus ei ole konstantne.
+
+---
 Tuletame roboti oleku hindamise protsessi tahvlile...
 
 ---
