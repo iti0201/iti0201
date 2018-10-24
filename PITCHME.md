@@ -131,7 +131,7 @@ Näiteid tagasisideta juhtimisest?
 @ulend
 
 ---
-Kuidas sõita "täpselt"?
+Kuidas sõita **täpselt**?
 
 ---
 Juhime mootorite kiirust dünaamiliselt vastavalt hetkkiirusele.
@@ -140,7 +140,7 @@ Juhime mootorite kiirust dünaamiliselt vastavalt hetkkiirusele.
 Kuidas seda teha?
 
 ---
-Kasutame tagasiside saamiseks rataste enkoodreid.
+Kasutame tagasiside saamiseks rataste koodreid.
 
 [https://github.com/iti0201/robot](https://github.com/iti0201/robot)
 
