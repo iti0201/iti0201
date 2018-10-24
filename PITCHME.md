@@ -189,7 +189,7 @@ PID-kontrolleri puhul on kõige olulisem valida sobiv komplekt võimendustegurei
 Hea juhtimisalgoritm
 @ul
 - Hea juhtimisalgoritm peaks kiiresti koonduma ja vältima järske muutusi.
-- Juhtimisalgoritm tuleb kohandada vastavalt süsteemile.
+- Juhtimisalgoritm tuleb valida ja kohandada vastavalt süsteemile.
 @ulend
 
 ---
