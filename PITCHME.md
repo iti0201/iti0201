@@ -115,7 +115,7 @@ Kui on oluline ka kõrgus ja nurk 3-mõõtmelises maailmas, siis kirjeldatakse p
 ## Juhtimine (PID)
 
 ---
-Tagasisideta (open loop)
+Avatud juhtimisahelaga (open loop)
 
 *versus*
 
