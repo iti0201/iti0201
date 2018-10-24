@@ -94,9 +94,10 @@ Kui on oluline ka kõrgus ja nurk 3-mõõtmelises maailmas, siis kirjeldatakse p
 ### Pöördemaatriks (rotation matrix) 2D
 
 ---?image=assets/image/rotation.png&size=auto 30%
----
 
+---
 ### Forward kinematic model
+
 ---?image=assets/image/state_derivative.png&size=auto 30%
 
 ---
