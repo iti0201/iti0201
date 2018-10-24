@@ -179,6 +179,7 @@ PID = proportsionaal-integraal-diferentsiaalregulaator ehk PID-kontroller
 ---
 PID-kontrolleri puhul on kõige olulisem valida sobiv komplekt võimendustegureid (*gain*).
 @ul
+- kui P võimendustegur on liiga väike, siis võib reguleerimine jääda ka liiga väikeseks, kui süsteemile mõjuvad häiringud
 - kui P võimendustegur on liiga suur, siis tekivad ostsillatsioonid (ebastabiilne juhtimine)
 - kui I võimendustegur on liiga suur, siis tekivad ostsillatsioonid
 - kui D võimendustegur on liiga suur, siis kontroller reageerib kergesti mürale
