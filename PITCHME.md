@@ -29,7 +29,7 @@ Tase | Kirjeldus
 @color[goldenrod](Pronks<br />@size[smaller]([1. tase])) | U-kujuliste pööretega labürindi läbimine
 @color[silver](Hõbe<br />@size[smaller]([2. tase])) | Labürindi väljapääsu leidmine
 @color[gold](Kuld<br />@size[smaller]([3. tase])) | Labürindi kaardistamine (kõikide ruutude külastamine)
-@color[firebrick](Eliit<br />@size[smaller]([4. tase])) | Labürindis lokaliseerimine (kaardistamine ja seejärel lokaliseerimine)
+@color[firebrick](Eliit<br />@size[smaller]([4. tase])) | Labürindis lokaliseerimine (peale kaardistamist)
 
 ---
 ## Lisamaterjalid
