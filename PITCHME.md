@@ -156,7 +156,7 @@ Edukaks navigeerimiseks on vaja nelja (toimivat) komponenti:
 ---
 ## Asendi määramine vs odomeetria
 
----?image=assets/image/odomvsperception.png&size=auto 60%
+---?image=assets/image/odomvsperception.png&size=auto 40%
 ---?image=assets/image/odomvsperception2.png&size=auto 60%
 
 ---
