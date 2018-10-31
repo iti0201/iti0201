@@ -175,6 +175,14 @@ Edukaks navigeerimiseks on vaja nelja (toimivat) komponenti:
 @ulend
 
 ---
+## Kokkuvõtlikult
+
+@ul
+- Kaardistamine ja lokaliseerimine on mobiilsete robotite jaoks kriitilise tähtsusega funktsionaalsus. Ilma kaardita ei ole võimalik navigeerida.
+- Kaartide kvaliteet sõltub sensorite täpsusest ja arvutusvõimsusest. Kui soovitakse kaardistada reaalajas, siis arvutusvõimsus mängib rolli "isegi tänapäeval".
+@ulend
+
+---
 ## Lisamaterjalid
 
 Võite huvi korral lugeda "õpikust" (Elements of Robotics) juurde
