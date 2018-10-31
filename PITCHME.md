@@ -35,12 +35,20 @@ Tase | Kirjeldus
 ## Navigatsioon
 
 Edukaks navigeerimiseks on vaja nelja (toimivat) komponenti:
+@ul
 - Tajumine (perception)
 - Lokaliseerimine (localization)
 - Tunnetus ehk kognitsioon (cognition)
 - Liikumise juhtimine (motion control)
+@ulend
+
+---
+## Lokaliseerimine
 
 ---?image=assets/image/localization.png&size=auto 60%
+
+---
+## Odomeetria viga
 
 ---?image=assets/image/errorprop.png&size=auto 60%
 ---?image=assets/image/errorprop2.png&size=auto 60%
