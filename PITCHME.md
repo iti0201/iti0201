@@ -58,6 +58,7 @@ Edukaks navigeerimiseks on vaja nelja (toimivat) komponenti:
 
 ---?image=assets/image/mapping.png&size=auto 60%
 
+---
 ## Miks kaarti üldse koostada?
 
 ---
@@ -90,6 +91,7 @@ Edukaks navigeerimiseks on vaja nelja (toimivat) komponenti:
 - Kaardi esituse keerukus mõjutab otseselt kaardistamise, lokaliseerimise ja navigeerimise arvutuslikku keerukust.
 @ulend
 
+---
 ## Pidevkoordinaatidega kaart
 
 ---?image=assets/image/mapcontinuous.png&size=auto 60%
