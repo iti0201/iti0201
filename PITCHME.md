@@ -101,6 +101,7 @@ Edukaks navigeerimiseks on vaja nelja (toimivat) komponenti:
 
 ---?image=assets/image/maplines.png&size=auto 60%
 
+---
 ## Dekompositsioonil põhinev kaart
 
 ---?image=assets/image/mapdecomp.png&size=auto 60%
@@ -120,10 +121,12 @@ Edukaks navigeerimiseks on vaja nelja (toimivat) komponenti:
 
 ---?image=assets/image/occupancy.png&size=auto 60%
 
+---
 ## Topoloogiline esitus
 
 ---?image=assets/image/topological.png&size=auto 60%
 
+---
 ## Probleemid
 
 @ul
