@@ -195,6 +195,10 @@ Kui arvestada sensorite määramatusega, siis võime muuta tõenäosusi näiteks
 
 ---?image=assets/image/localization_9.png&size=auto 60%
 ---?image=assets/image/localization_10.png&size=auto 60%
+---?image=assets/image/localization_11.png&size=auto 60%
+---?image=assets/image/localization_12.png&size=auto 60%
+---?image=assets/image/localization_13.png&size=auto 60%
+---?image=assets/image/localization_14.png&size=auto 60%
 
 ---
 ## Pronks labürint
