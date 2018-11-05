@@ -201,6 +201,12 @@ Kui arvestada sensorite määramatusega, siis võime muuta tõenäosusi näiteks
 ---?image=assets/image/localization_14.png&size=auto 60%
 
 ---
+## Liikumise määramatus
+
+---
+$$b^{'}_{i}=p_{i}b_{i}$$
+
+---
 ## Pronks labürint
 
 ---?image=assets/image/siksak.png&size=auto 60%
