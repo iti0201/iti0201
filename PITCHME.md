@@ -231,6 +231,11 @@ Antud näites liigub robot 80% tõenäosusega korrektselt, seega `\(q_1 = 0.8\)`
 ---?image=assets/image/siksak.png&size=auto 60%
 
 ---
+## Pronks labürint
+
+---?image=assets/image/maze_silver.png&size=auto 60%
+
+---
 ## Labürint
 
 @ul
