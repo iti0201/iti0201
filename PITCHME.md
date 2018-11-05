@@ -204,13 +204,11 @@ Kui arvestada sensorite määramatusega, siis võime muuta tõenäosusi näiteks
 ## Liikumise määramatus
 
 ---
-$$b^{´}_{i} = p_i b_i$$ ,
+$$b^{´}_{i} = p_i b_i$$
 
-kus b on veendumuse järjend (belief array)
+b on veendumuse järjend (belief array)
 
-\(b_i^´\) on \(b_i\) uus väärtus ja \(p_i\) on tõenäosus, et tuvastatakse uks
-(\(p_i\) on 0.9 kui \(i = 0,1,4,5,6\) ja 0.1 kui \(i = 2, 3, 7\))
-
+\(b_i^´\) on 
 
 ---
 ## Pronks labürint
