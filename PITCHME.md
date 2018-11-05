@@ -160,6 +160,18 @@ Edukaks navigeerimiseks on vaja nelja (toimivat) komponenti:
 ---?image=assets/image/odomvsperception2.png&size=auto 60%
 
 ---
+## Seina järgimine
+
+---?image=assets/image/wallfollowing.png&size=auto 60%
+---?image=assets/image/wallfollowing_algo.png&size=auto 60%
+---?image=assets/image/wallfollowing_loop.png&size=auto 60%
+---?image=assets/image/wallfollowing_dir.png&size=auto 60%
+---?image=assets/image/wallfollowing_dir_algo.png&size=auto 60%
+---?image=assets/image/wallfollowing_dir_fail.png&size=auto 60%
+---?image=assets/image/wallfollowing_pledge.png&size=auto 60%
+---?image=assets/image/wallfollowing_pledge_algo.png&size=auto 60%
+
+---
 ## Pronks labürint
 
 ---?image=assets/image/siksak.png&size=auto 60%
