@@ -211,6 +211,12 @@ b on veendumuse järjend (belief array)
 `\(b_i^´\)` on `\(b_i\)` uus väärtus ja `\(p_i\)` on tõenäosus, et tuvastatakse uks
 (`\(p_i\)` on 0.9 kui `\(i = 0,1,4,5,6\)` ja 0.1 kui `\(i = 2, 3, 7\)`)
 
+See kehtib juhul kui liikumisel puudub määramatus.
+
+---
+
+$$b^{´}_{i} = p_i (b_{i-2} q_2 + b_{i-1} q_1 + b_i q_0)$$
+
 
 ---
 ## Pronks labürint
