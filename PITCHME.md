@@ -204,7 +204,7 @@ Kui arvestada sensorite määramatusega, siis võime muuta tõenäosusi näiteks
 ## Liikumise määramatus
 
 ---
-$$b^{´}_{i}=p_{i}$$
+$$b^{´}_{i} \eq p_{i}$$
 
 ---
 ## Pronks labürint
