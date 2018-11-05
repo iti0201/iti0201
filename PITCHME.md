@@ -188,10 +188,10 @@ Edukaks navigeerimiseks on vaja nelja (toimivat) komponenti:
 
 ---
 Kui arvestada sensorite määramatusega, siis võime muuta tõenäosusi näiteks järgmiselt:
-- Tuvastab uksena, kui on uks: 0.9
-- Tuvastab seinana, kui on uks: 0.1
-- Tuvastab seinana, kui on sein: 0.9
-- Tuvastab uksena, kui on sein: 0.1
+- Uks tuvastatakse korrektselt uksena: 0.9
+- Uks tuvastatakse valesti seinana: 0.1
+- Sein tuvastatakse korrektselt seinana: 0.9
+- Sein tuvastatakse valesti uksena: 0.1
 
 ---?image=assets/image/localization_9.png&size=auto 60%
 
