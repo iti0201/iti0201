@@ -215,7 +215,7 @@ See kehtib juhul kui liikumisel puudub määramatus.
 
 ---
 
-$$b^{´}_{i} = p_i (b_{i-2} q_2 + b_{i-1} q_1 + b_i q_0)$$
+`$$b^{´}_{i} = p_i (b_{i-2} q_{2} + b_{i-1} q_{1} + b_{i} q_{0})$$`
 
 
 ---
