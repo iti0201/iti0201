@@ -172,6 +172,19 @@ Edukaks navigeerimiseks on vaja nelja (toimivat) komponenti:
 ---?image=assets/image/wallfollowing_pledge_algo.png&size=auto 60%
 
 ---
+## Lokaliseerimine
+
+---?image=assets/image/localization_1.png&size=auto 60%
+---?image=assets/image/localization_2.png&size=auto 60%
+---?image=assets/image/localization_3.png&size=auto 60%
+---?image=assets/image/localization_4.png&size=auto 60%
+---?image=assets/image/localization_5.png&size=auto 60%
+---?image=assets/image/localization_6.png&size=auto 60%
+---?image=assets/image/localization_7.png&size=auto 60%
+---?image=assets/image/localization_8.png&size=auto 60%
+---?image=assets/image/localization_9.png&size=auto 60%
+
+---
 ## Pronks labürint
 
 ---?image=assets/image/siksak.png&size=auto 60%
