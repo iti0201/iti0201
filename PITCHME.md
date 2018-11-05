@@ -182,6 +182,9 @@ Edukaks navigeerimiseks on vaja nelja (toimivat) komponenti:
 ---?image=assets/image/localization_6.png&size=auto 60%
 ---?image=assets/image/localization_7.png&size=auto 60%
 ---?image=assets/image/localization_8.png&size=auto 60%
+
+## Sensorite ebakindlus
+
 ---?image=assets/image/localization_9.png&size=auto 60%
 
 ---
