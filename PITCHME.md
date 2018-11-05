@@ -183,7 +183,14 @@ Edukaks navigeerimiseks on vaja nelja (toimivat) komponenti:
 ---?image=assets/image/localization_7.png&size=auto 60%
 ---?image=assets/image/localization_8.png&size=auto 60%
 
-## Sensorite ebakindlus
+## Sensorite määramatus (uncertainty)
+---
+
+Kui arvestada sensorite määramatusega, siis võime muuta tõenäosusi näiteks järgmiselt:
+- Tuvastab uksena, kui on uks: 0.9
+- Tuvastab seinana, kui on uks: 0.1
+- Tuvastab seinana, kui on sein: 0.9
+- Tuvastab uksena, kui on sein: 0.1
 
 ---?image=assets/image/localization_9.png&size=auto 60%
 
