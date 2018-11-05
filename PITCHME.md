@@ -174,8 +174,8 @@ Edukaks navigeerimiseks on vaja nelja (toimivat) komponenti:
 ---
 ## Lokaliseerimine
 
----?image=assets/image/localization_1.png&size=auto 30%
----?image=assets/image/localization_2.png&size=auto 30%
+---?image=assets/image/localization_1.png&size=auto 20%
+---?image=assets/image/localization_2.png&size=auto 20%
 ---?image=assets/image/localization_3.png&size=auto 60%
 ---?image=assets/image/localization_4.png&size=auto 60%
 ---?image=assets/image/localization_5.png&size=auto 60%
