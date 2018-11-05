@@ -208,7 +208,7 @@ $$b^{´}_{i} = p_i b_i$$
 
 b on veendumuse järjend (belief array)
 
-\( b_i \) on 
+`\( b_i \)` on 
 
 ---
 ## Pronks labürint
