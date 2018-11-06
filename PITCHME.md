@@ -10,6 +10,12 @@
 ![Robat](https://www.youtube.com/embed/LzGGuzvYSH8)
 
 ---
+![Spot robot construction site inspection](https://www.youtube.com/embed/wND9goxDVrY)
+
+---
+![ANYmal offshore inspection](https://www.youtube.com/embed/DzTvIPrt0DY)
+
+---
 ## Ajakava
 
 Nädal |  | Tegevus
