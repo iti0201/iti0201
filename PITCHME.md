@@ -214,7 +214,9 @@ $$b^{´}_{i} = p_i b_i$$
 
 `\(b\)` on veendumuse massiiv (belief array)
 
-`\(b_i^´\)` on `\(b_i\)` uus väärtus ja `\(p_i\)` on tõenäosus, et tuvastatakse uks
+`\(b_i^´\)` on `\(b_i\)` uus väärtus.
+
+`\(p_i\)` on tõenäosus, et tuvastatakse uks
 (`\(p_i=0.9\)` kui `\(i = 0,1,4,5,6\)` ja (`\(p_i=0.1\)` kui `\(i = 2, 3, 7\)`)
 
 @ul
