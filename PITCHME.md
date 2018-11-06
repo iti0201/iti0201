@@ -230,7 +230,7 @@ $$b^{´}_{i} = p_i b_i$$
 siin on `\(q\)` tõenäosus, et robot liigub `\(j = 0,1,2\)` ühikut.
 
 @ul
-- Antud näites liigub robot 0.8 tõenäosusega korrektselt, seega `\(q_1 = 0.8\)`, `\(q_0 = q_2 = 0.1\)`
+- Antud näites `\(q_1 = 0.8\)`, `\(q_0 = q_2 = 0.1\)`
 @ulend
 
 ---?image=assets/image/localization_15.png&size=auto 60%
