@@ -223,9 +223,11 @@ See kehtib juhul kui liikumisel puudub määramatus.
 
 `$$b^{´}_{i} = p_i (b_{i-2} q_{2} + b_{i-1} q_{1} + b_{i} q_{0})$$`
 
-siin on q tõenäosus, et robot liigub `\(j = 0,1,2\)` ühikut.
+siin on `\(q\)` tõenäosus, et robot liigub `\(j = 0,1,2\)` ühikut.
 
-Antud näites liigub robot 80% tõenäosusega korrektselt, seega `\(q_1 = 0.8\)`, `\(q_0 = q_2 = 0.1\)`
+@ul
+- Antud näites liigub robot 0.8 tõenäosusega korrektselt, seega `\(q_1 = 0.8\)`, `\(q_0 = q_2 = 0.1\)`
+@ulend
 
 ---?image=assets/image/localization_15.png&size=auto 60%
 ---?image=assets/image/localization_16.png&size=auto 60%
