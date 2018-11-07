@@ -1,7 +1,7 @@
 ## ITI0201<br />Robotite Programmeerimine
 
 ---
-### Lokaliseerimine ja 
+### Planeerimine ja navigatsioon
 
 ---
 ## Meeleolu tekitamiseks...
