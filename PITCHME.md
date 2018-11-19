@@ -50,25 +50,10 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ## Tõenäosuslik kaart rinnetega
 
 ---?image=assets/image/occupancy_probabilistic.png&size=auto 90%
-
----
-
 ---?image=assets/image/occupancy_probabilistic2.png&size=auto 90%
-
----
-
 ---?image=assets/image/occupancy_probabilistic3.png&size=auto 90%
-
----
-
 ---?image=assets/image/occupancy_probabilistic4.png&size=auto 90%
-
----
-
 ---?image=assets/image/occupancy_probabilistic5.png&size=auto 90%
-
----
-
 ---?image=assets/image/occupancy_probabilistic6.png&size=auto 90%
 
 ---
@@ -114,6 +99,7 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---?image=assets/image/mapping7.png&size=auto 90%
 ---?image=assets/image/mapping8.png&size=auto 90%
 ---?image=assets/image/mapping9.png&size=auto 90%
+---?image=assets/image/slam.png&size=auto 90%
 
 ---
 ## Lisamaterjalid
