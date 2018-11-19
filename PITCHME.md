@@ -37,10 +37,83 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---?gist=GertKanter/8b0b43fd7ee6086659475b9884f90637&lang=python
 
 ---
-## Ainus-hüpotees veendumus (single-hypothesis belief) vs multi
+## Diskreetne vs pidev kaart
+
+---?image=assets/image/discrete.png&size=auto 90%
 
 ---
+## Tõenäosuslik kaart
+
+---?image=assets/image/probabilistic.png&size=auto 90%
+
+---
+## Tõenäosuslik kaart rinnetega
+
+---?image=assets/image/occupancy_probabilistic.png&size=auto 90%
+
+---
+
+---?image=assets/image/occupancy_probabilistic2.png&size=auto 90%
+
+---
+
+---?image=assets/image/occupancy_probabilistic3.png&size=auto 90%
+
+---
+
+---?image=assets/image/occupancy_probabilistic4.png&size=auto 90%
+
+---
+
+---?image=assets/image/occupancy_probabilistic5.png&size=auto 90%
+
+---
+
+---?image=assets/image/occupancy_probabilistic6.png&size=auto 90%
+
+---
+## Rinde avastamisalgoritm
+
+---?image=assets/image/frontier_algo.png&size=auto 90%
+
+---
+## Labürindi avastamine
+
+---?image=assets/image/maze_exploration.png&size=auto 90%
+
+---
+## Kaardistamine koos kitsendustega arvestamisega
+
+---?image=assets/image/knowledge.png&size=auto 90%
+
+---
+## Laadimisjaamaga rakendus
+
+---?image=assets/image/lawnmower.png&size=auto 90%
+---?image=assets/image/lawnmower2.png&size=auto 90%
+
+---
+## Ülekattega kaardistamine
+
+---?image=assets/image/mapping_overlap.png&size=auto 90%
+
+---
+## Ainus-hüpotees veendumus (single-hypothesis belief) vs multi
+
 ---?image=assets/image/multibelief.png&size=auto 90%
+
+---
+## Kaardistamine
+
+---?image=assets/image/mapping1.png&size=auto 90%
+---?image=assets/image/mapping2.png&size=auto 90%
+---?image=assets/image/mapping3.png&size=auto 90%
+---?image=assets/image/mapping4.png&size=auto 90%
+---?image=assets/image/mapping5.png&size=auto 90%
+---?image=assets/image/mapping6.png&size=auto 90%
+---?image=assets/image/mapping7.png&size=auto 90%
+---?image=assets/image/mapping8.png&size=auto 90%
+---?image=assets/image/mapping9.png&size=auto 90%
 
 ---
 ## Lisamaterjalid
