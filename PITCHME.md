@@ -24,13 +24,16 @@ Nädal |  | Tegevus
 ---
 ## Navigatsioon
 
-Edukaks navigeerimiseks on vaja nelja (toimivat) komponenti:
-@ul
-- Tajumine (perception)
-- Lokaliseerimine (localization)
-- Tunnetus ehk kognitsioon (cognition)
-- Liikumise juhtimine (motion control)
-@ulend
+
+---
+## Protseduuriline
+
+---?gist=GertKanter/d5e7f69eb45ca6f10a76a8e229c22e75&lang=python
+
+---
+## OOP
+
+---?gist=GertKanter/8b0b43fd7ee6086659475b9884f90637&lang=python
 
 ---
 ## Lisamaterjalid
