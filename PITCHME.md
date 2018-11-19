@@ -22,8 +22,9 @@ Nädal |  | Tegevus
   | @size[large](@color[cornflowerblue](Kodutöö)) | @size[large]("Labürint" arendamine)
 
 ---
-## Navigatsioon
+## Protseduuriline vs OOP
 
+Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 
 ---
 ## Protseduuriline
@@ -41,3 +42,4 @@ Nädal |  | Tegevus
 Võite huvi korral lugeda "õpikust" (Elements of Robotics) juurde
 
 - 9\. peatükk - **Mapping**
+- 10\. peatükk - **Mapping-Based Navigation**
