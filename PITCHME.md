@@ -37,6 +37,12 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---?gist=GertKanter/8b0b43fd7ee6086659475b9884f90637&lang=python
 
 ---
+## Ainus-hüpotees veendumus (single-hypothesis belief) vs multi
+
+---
+---?image=assets/image/multibelief.png&size=auto 90%
+
+---
 ## Lisamaterjalid
 
 Võite huvi korral lugeda "õpikust" (Elements of Robotics) juurde
