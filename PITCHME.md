@@ -138,6 +138,9 @@ Soovitud liikumine
 Tegelik liikumine
 @snapend
 ---?image=assets/image/mapping4.png&size=auto 70%
+@snap[north]
+Soovitud vs tegelik tuvastus
+@snapend
 ---?image=assets/image/mapping5.png&size=auto 90%
 ---?image=assets/image/mapping6.png&size=auto 90%
 ---?image=assets/image/mapping7.png&size=auto 90%
