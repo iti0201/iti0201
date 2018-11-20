@@ -56,7 +56,7 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---
 ## Diskreetne vs pidev kaart
 
----?image=assets/image/discrete.png&size=auto 90%
+---?image=assets/image/discrete.png&size=auto 60%
 
 ---
 ## Tõenäosuslik kaart
