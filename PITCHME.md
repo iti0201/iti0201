@@ -131,8 +131,8 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---
 ## A\* algoritm
 
----?image=assets/image/astar.png&size=auto 90%
----?image=assets/image/astar2.png&size=auto 90%
+---?image=assets/image/astar.png&size=auto 80%
+---?image=assets/image/astar2.png&size=auto 80%
 
 ---
 ## Pisut keerulisem näide
