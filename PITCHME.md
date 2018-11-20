@@ -129,7 +129,7 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---?image=assets/image/dijkstra7.png&size=auto 80%
 
 ---
-## A*
+## A\* algoritm
 
 ---?image=assets/image/astar.png&size=auto 90%
 ---?image=assets/image/astar2.png&size=auto 90%
