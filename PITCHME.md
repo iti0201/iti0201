@@ -141,7 +141,10 @@ Tegelik liikumine
 @snap[north]
 Soovitud vs tegelik tuvastus
 @snapend
----?image=assets/image/mapping5.png&size=auto 90%
+---?image=assets/image/mapping5.png&size=auto 70%
+@snap[north]
+Võimalikud poosid
+@snapend
 ---?image=assets/image/mapping6.png&size=auto 90%
 ---?image=assets/image/mapping7.png&size=auto 90%
 ---?image=assets/image/mapping8.png&size=auto 30%
