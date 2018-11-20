@@ -108,7 +108,7 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 @ul
 - Teekonna planeerimiseks kasutatakse robootikas paljusid erinevaid algoritme.
 - Üks lihtsamatest algoritmidest, mis annab lühima tee, on Dijkstra algoritm.
-- Väga populaarsed on ka näiteks A* ja D* algoritmid.
+- Väga populaarsed on ka näiteks A\* ja D\* algoritmid.
 @ulend
 
 ---?image=assets/image/dijkstra.png&size=auto 90%
