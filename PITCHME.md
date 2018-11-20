@@ -99,6 +99,10 @@ Otsingurinded punasega märgitud
 
 ---?image=assets/image/knowledge.png&size=auto 50%
 
+@snap[north]
+Sirgete seintega ruumi kaardistamine
+@snapend
+
 ---
 ## Laadimisjaamaga rakendus
 
