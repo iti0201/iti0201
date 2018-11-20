@@ -126,7 +126,7 @@ Lisatud maamärgid aitavad navigeerida
 ---?image=assets/image/mapping_overlap.png&size=auto 90%
 
 ---
-## Kaardistamine
+## Kaardistamine (SLAM)
 
 ---?image=assets/image/mapping1.png&size=auto 70%
 ---?image=assets/image/mapping2.png&size=auto 70%
