@@ -97,7 +97,7 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---?image=assets/image/mapping5.png&size=auto 90%
 ---?image=assets/image/mapping6.png&size=auto 90%
 ---?image=assets/image/mapping7.png&size=auto 90%
----?image=assets/image/mapping8.png&size=auto 40%
+---?image=assets/image/mapping8.png&size=auto 30%
 ---?image=assets/image/mapping9.png&size=auto 60%
 ---?image=assets/image/slam_algo.png&size=auto 90%
 
