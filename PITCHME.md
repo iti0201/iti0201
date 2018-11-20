@@ -171,7 +171,7 @@ Lühim tee S->G
 ---?image=assets/image/dijkstra4.png&size=auto 90%
 
 ---
-## Muutuva hinnaga kaardid
+## Kaaludega kaardid
 
 ---?image=assets/image/dijkstra5.png&size=auto 50%
 
