@@ -84,7 +84,7 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---?image=assets/image/maze_exploration.png&size=auto 90%
 
 ---
-## Kaardistamine koos kitsendustega arvestamisega
+## Kaardistamine kasutades eelteadmisi
 
 ---?image=assets/image/knowledge.png&size=auto 50%
 
