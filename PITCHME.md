@@ -103,10 +103,12 @@ Otsingurinded punasega märgitud
 Sirgete seintega ruumi kaardistamine
 @snapend
 
----
-## Laadimisjaamaga rakendus
-
 ---?image=assets/image/lawnmower.png&size=auto 50%
+
+@snap[north]
+Robot peab "silmuse sulgema" laadimisjaama minnes
+@snapend
+
 ---?image=assets/image/lawnmower2.png&size=auto 50%
 
 ---
