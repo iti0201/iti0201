@@ -56,7 +56,7 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---
 ## Kaardistamine
 
----?image=assets/image/tln_map.png&size=auto 60%
+---?image=assets/image/tln_map.png&size=auto 80%
 
 ---
 ## Diskreetne vs pidev kaart
