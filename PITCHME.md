@@ -131,9 +131,12 @@ Lisatud maamärgid aitavad navigeerida
 ---?image=assets/image/mapping1.png&size=auto 70%
 ---?image=assets/image/mapping2.png&size=auto 70%
 @snap[north]
-Robot liigub üles (N)
+Soovitud liikumine
 @snapend
 ---?image=assets/image/mapping3.png&size=auto 70%
+@snap[north]
+Tegelik liikumine
+@snapend
 ---?image=assets/image/mapping4.png&size=auto 70%
 ---?image=assets/image/mapping5.png&size=auto 90%
 ---?image=assets/image/mapping6.png&size=auto 90%
