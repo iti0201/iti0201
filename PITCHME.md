@@ -25,6 +25,7 @@ Nädal |  | Tegevus
 ## Kauguse skaneerimine
 
 ---?gist=GertKanter/97a6dca93af5c107dc5ec20db2556f79&lang=python
+---?gist=GertKanter/1d9a07f1931707fe9a7c7289cc463954&lang=python
 
 ---?image=assets/image/15.png&size=auto 60%
 ---?image=assets/image/10.png&size=auto 60%
