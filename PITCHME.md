@@ -91,8 +91,8 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---
 ## Laadimisjaamaga rakendus
 
----?image=assets/image/lawnmower.png&size=auto 90%
----?image=assets/image/lawnmower2.png&size=auto 90%
+---?image=assets/image/lawnmower.png&size=auto 50%
+---?image=assets/image/lawnmower2.png&size=auto 50%
 
 ---
 ## Ülekattega kaardistamine
