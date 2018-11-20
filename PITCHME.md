@@ -162,6 +162,9 @@ Võimalikud poosid
 @ulend
 
 ---?image=assets/image/dijkstra.png&size=auto 60%
+@snap[north]
+Lühim tee S->G
+@snapend
 ---?image=assets/image/dijkstra2.png&size=auto 60%
 ---?image=assets/image/dijkstra_algo.png&size=auto 90%
 ---?image=assets/image/dijkstra3.png&size=auto 60%
