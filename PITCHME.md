@@ -86,7 +86,7 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---
 ## Kaardistamine koos kitsendustega arvestamisega
 
----?image=assets/image/knowledge.png&size=auto 90%
+---?image=assets/image/knowledge.png&size=auto 50%
 
 ---
 ## Laadimisjaamaga rakendus
