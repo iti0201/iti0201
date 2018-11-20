@@ -7,7 +7,9 @@
 ## Meeleolu tekitamiseks...
 
 ---
-![Robat](https://www.youtube.com/embed/V8utFzn7DJk)
+![Ethical behaviour](https://www.youtube.com/embed/V8utFzn7DJk)
+
+---?image=assets/image/trolley_problem.png&size=auto 60%
 
 ---
 ## Ajakava
