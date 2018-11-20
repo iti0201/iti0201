@@ -111,6 +111,10 @@ Robot peab "silmuse sulgema" laadimisjaama minnes
 
 ---?image=assets/image/lawnmower2.png&size=auto 50%
 
+@snap[north]
+Lisatud maamärgid aitavad navigeerida
+@snapend
+
 ---
 ## Ülekattega kaardistamine
 
