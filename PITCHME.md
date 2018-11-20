@@ -68,10 +68,10 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 
 ---?image=assets/image/occupancy_probabilistic.png&size=auto 60%
 ---?image=assets/image/occupancy_probabilistic2.png&size=auto 60%
----?image=assets/image/occupancy_probabilistic3.png&size=auto 90%
----?image=assets/image/occupancy_probabilistic4.png&size=auto 90%
----?image=assets/image/occupancy_probabilistic5.png&size=auto 90%
----?image=assets/image/occupancy_probabilistic6.png&size=auto 90%
+---?image=assets/image/occupancy_probabilistic3.png&size=auto 60%
+---?image=assets/image/occupancy_probabilistic4.png&size=auto 60%
+---?image=assets/image/occupancy_probabilistic5.png&size=auto 60%
+---?image=assets/image/occupancy_probabilistic6.png&size=auto 60%
 
 ---
 ## Rinde avastamisalgoritm
