@@ -7,9 +7,9 @@
 ## Meeleolu tekitamiseks...
 
 ---
-![Ethical behaviour](https://www.youtube.com/embed/V8utFzn7DJk)
+![A value driven agent](https://www.youtube.com/embed/V8utFzn7DJk)
 
----?image=assets/image/trolley_problem.png&size=auto 60%
+---?image=assets/image/trolley_problem.png&size=auto 40%
 
 ---
 ## Ajakava
