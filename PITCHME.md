@@ -174,6 +174,9 @@ Lühim tee S->G
 ## Kaaludega kaardid
 
 ---?image=assets/image/dijkstra5.png&size=auto 50%
+@snap[north]
+Vasak (/=4), Parem (/=2)
+@snapend
 
 ---
 ## Dekompositsioonil põhinevad kaardid
