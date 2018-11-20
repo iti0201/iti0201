@@ -90,15 +90,15 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---
 ## Kaardistamine
 
----?image=assets/image/mapping1.png&size=auto 90%
----?image=assets/image/mapping2.png&size=auto 90%
----?image=assets/image/mapping3.png&size=auto 90%
----?image=assets/image/mapping4.png&size=auto 90%
+---?image=assets/image/mapping1.png&size=auto 70%
+---?image=assets/image/mapping2.png&size=auto 70%
+---?image=assets/image/mapping3.png&size=auto 70%
+---?image=assets/image/mapping4.png&size=auto 70%
 ---?image=assets/image/mapping5.png&size=auto 90%
 ---?image=assets/image/mapping6.png&size=auto 90%
 ---?image=assets/image/mapping7.png&size=auto 90%
----?image=assets/image/mapping8.png&size=auto 90%
----?image=assets/image/mapping9.png&size=auto 90%
+---?image=assets/image/mapping8.png&size=auto 50%
+---?image=assets/image/mapping9.png&size=auto 70%
 ---?image=assets/image/slam_algo.png&size=auto 90%
 
 ---
