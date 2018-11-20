@@ -175,7 +175,7 @@ Lühim tee S->G
 
 ---?image=assets/image/dijkstra5.png&size=auto 50%
 @snap[north]
-Vasak (/=4), Parem (/=2)
+Vasakul "/" == 4, paremal "/" == 2
 @snapend
 
 ---
