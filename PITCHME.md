@@ -9,7 +9,7 @@
 ---
 ![A value driven agent](https://www.youtube.com/embed/V8utFzn7DJk)
 
----?image=assets/image/trolley_problem.png&size=auto 40%
+---?image=assets/image/trolley_problem.png&size=auto 35%
 
 ---
 ## Ajakava
