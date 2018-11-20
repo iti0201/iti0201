@@ -92,6 +92,7 @@ Otsingurinded punasega märgitud
 ## Labürindi avastamine
 
 ---?image=assets/image/maze_exploration.png&size=auto 90%
+---?image=assets/image/frontier_prio.png&size=auto 80%
 
 ---
 ## Kaardistamine kasutades eelteadmisi
