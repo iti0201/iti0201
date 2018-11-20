@@ -61,7 +61,7 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---
 ## Tõenäosuslik kaart
 
----?image=assets/image/probabilistic.png&size=auto 90%
+---?image=assets/image/probabilistic.png&size=auto 50%
 
 ---
 ## Tõenäosuslik kaart rinnetega
