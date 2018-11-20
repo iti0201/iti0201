@@ -115,7 +115,7 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---?image=assets/image/dijkstra2.png&size=auto 70%
 ---?image=assets/image/dijkstra_algo.png&size=auto 90%
 ---?image=assets/image/dijkstra3.png&size=auto 70%
----?image=assets/image/dijkstra4.png&size=auto 90%
+---?image=assets/image/dijkstra4.png&size=auto 70%
 
 ---
 ## Muutuva hinnaga kaardid
