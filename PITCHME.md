@@ -120,13 +120,13 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---
 ## Muutuva hinnaga kaardid
 
----?image=assets/image/dijkstra5.png&size=auto 60%
+---?image=assets/image/dijkstra5.png&size=auto 50%
 
 ---
 ## Dekompositsioonil põhinevad kaardid
 
----?image=assets/image/dijkstra6.png&size=auto 90%
----?image=assets/image/dijkstra7.png&size=auto 90%
+---?image=assets/image/dijkstra6.png&size=auto 80%
+---?image=assets/image/dijkstra7.png&size=auto 80%
 
 ---
 ## A*
