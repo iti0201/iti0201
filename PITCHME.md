@@ -11,6 +11,10 @@
 
 ---?image=assets/image/trolley_problem.png&size=auto 35%
 
+@snap[north]
+The trolley problem
+@snapend
+
 ---
 ## Ajakava
 
