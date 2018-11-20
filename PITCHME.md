@@ -54,6 +54,11 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---?gist=GertKanter/8b0b43fd7ee6086659475b9884f90637&lang=python
 
 ---
+## Kaardistamine
+
+---?image=assets/image/tln_map.png&size=auto 60%
+
+---
 ## Diskreetne vs pidev kaart
 
 ---?image=assets/image/discrete.png&size=auto 60%
