@@ -138,8 +138,8 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---
 ## Pisut keerulisem näide
 
----?image=assets/image/astar3.png&size=auto 90%
----?image=assets/image/astar4.png&size=auto 90%
+---?image=assets/image/astar3.png&size=auto 70%
+---?image=assets/image/astar4.png&size=auto 70%
 
 ---
 ## Lisamaterjalid
