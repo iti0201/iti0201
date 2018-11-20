@@ -22,13 +22,14 @@ Nädal |  | Tegevus
   | @size[large](@color[cornflowerblue](Kodutöö)) | @size[large]("Labürint" arendamine)
 
 ---
-## Skaneerimine
+## Kauguse skaneerimine
+
+---?gist=GertKanter/97a6dca93af5c107dc5ec20db2556f79&lang=python
 
 ---?image=assets/image/15.png&size=auto 60%
 ---?image=assets/image/10.png&size=auto 60%
 ---?image=assets/image/9.png&size=auto 60%
 ---?image=assets/image/8.png&size=auto 60%
-
 
 ---
 ## Protseduuriline vs OOP
