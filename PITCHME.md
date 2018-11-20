@@ -137,7 +137,7 @@ Soovitud liikumine
 @snap[north]
 Tegelik liikumine
 @snapend
----?image=assets/image/mapping4.png&size=auto 70%
+---?image=assets/image/mapping4.png&size=auto 60%
 @snap[north]
 Soovitud vs tegelik tuvastus
 @snapend
