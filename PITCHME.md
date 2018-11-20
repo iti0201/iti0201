@@ -102,6 +102,45 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---?image=assets/image/slam_algo.png&size=auto 90%
 
 ---
+## Planeerimine
+
+---
+Teekonna planeerimiseks kasutatakse robootikas paljusid erinevaid algoritme.
+
+Üks lihtsamatest algoritmidest, mis annab lühima tee, on Dijkstra algoritm.
+
+Väga populaarsed on ka näiteks A* ja D* algoritmid.
+
+---?image=assets/image/dijkstra.png&size=auto 90%
+---?image=assets/image/dijkstra2.png&size=auto 90%
+---?image=assets/image/dijkstra_algo.png&size=auto 90%
+---?image=assets/image/dijkstra3.png&size=auto 90%
+---?image=assets/image/dijkstra4.png&size=auto 90%
+
+---
+## Muutuva hinnaga kaardid
+
+---?image=assets/image/dijkstra5.png&size=auto 90%
+
+---
+## Dekompositsioonil põhinevad kaardid
+
+---?image=assets/image/dijkstra6.png&size=auto 90%
+---?image=assets/image/dijkstra7.png&size=auto 90%
+
+---
+## A*
+
+---?image=assets/image/astar.png&size=auto 90%
+---?image=assets/image/astar2.png&size=auto 90%
+
+---
+## Pisut keerulisem näide
+
+---?image=assets/image/astar3.png&size=auto 90%
+---?image=assets/image/astar4.png&size=auto 90%
+
+---
 ## Lisamaterjalid
 
 Võite huvi korral lugeda "õpikust" (Elements of Robotics) juurde
