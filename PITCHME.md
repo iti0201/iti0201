@@ -22,6 +22,15 @@ Nädal |  | Tegevus
   | @size[large](@color[cornflowerblue](Kodutöö)) | @size[large]("Labürint" arendamine)
 
 ---
+## Skaneerimine
+
+---?image=assets/image/15.png&size=auto 60%
+---?image=assets/image/10.png&size=auto 60%
+---?image=assets/image/9.png&size=auto 60%
+---?image=assets/image/8.png&size=auto 60%
+
+
+---
 ## Protseduuriline vs OOP
 
 Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
