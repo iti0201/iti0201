@@ -64,6 +64,11 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---?image=assets/image/discrete.png&size=auto 60%
 
 ---
+## Ainus-hüpotees veendumus (single-hypothesis belief) vs multi
+
+---?image=assets/image/multibelief.png&size=auto 90%
+
+---
 ## Tõenäosuslik kaart
 
 ---?image=assets/image/probabilistic.png&size=auto 70%
@@ -119,11 +124,6 @@ Lisatud maamärgid aitavad navigeerida
 ## Ülekattega kaardistamine
 
 ---?image=assets/image/mapping_overlap.png&size=auto 90%
-
----
-## Ainus-hüpotees veendumus (single-hypothesis belief) vs multi
-
----?image=assets/image/multibelief.png&size=auto 90%
 
 ---
 ## Kaardistamine
