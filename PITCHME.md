@@ -120,7 +120,7 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ---
 ## Muutuva hinnaga kaardid
 
----?image=assets/image/dijkstra5.png&size=auto 90%
+---?image=assets/image/dijkstra5.png&size=auto 60%
 
 ---
 ## Dekompositsioonil põhinevad kaardid
