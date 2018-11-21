@@ -41,7 +41,7 @@ Kasutage pronkstaseme lahendamisel simulaatoris võtit `--blind`
 @snapend
 ---?gist=GertKanter/1d9a07f1931707fe9a7c7289cc463954&lang=python
 @snap[north span-100]
-@size[18px](Andmed kujul {(left_encoder, right_encoder): distance, ...})
+@size[18px](Andmed kujul {(left_encoder, right_encoder\): distance, ...})
 @snapend
 
 ---?image=assets/image/15.png&size=auto 60%
