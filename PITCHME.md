@@ -88,6 +88,9 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 ## Tõenäosuslik kaart
 
 ---?image=assets/image/probabilistic.png&size=auto 70%
+@snap[north span-100]
+@size[18px](1.0 = 100% takistus, 0.0 = 100% vaba)
+@snapend
 
 ---
 ## Tõenäosuslik kaart rinnetega
