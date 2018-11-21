@@ -47,6 +47,11 @@ http://gist.github.com/GertKanter/97a6dca93af5c107dc5ec20db2556f79
 ---?image=assets/image/8.png&size=auto 60%
 
 ---
+## Kalibreerimine
+
+Roboti miinimumkiiruse saab enne skaneerimist välja selgitada.
+
+---
 ## Protseduuriline vs OOP
 
 Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
