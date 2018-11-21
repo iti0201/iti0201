@@ -93,12 +93,12 @@ Klassidel põhinev lahendus sobib robotite programmeerimiseks suurepäraselt.
 @snapend
 
 ---
-## Tõenäosuslik kaart rinnetega
+## Tõenäosuslik kaart frontidega
 
 ---?image=assets/image/occupancy_probabilistic.png&size=auto 60%
 
 @snap[north]
-Otsingurinded punasega märgitud
+Otsingufrondid punasega märgitud
 @snapend
 
 ---?image=assets/image/occupancy_probabilistic2.png&size=auto 60%
@@ -108,7 +108,7 @@ Otsingurinded punasega märgitud
 ---?image=assets/image/occupancy_probabilistic6.png&size=auto 60%
 
 ---
-## Rinde avastamisalgoritm
+## Frondi otsingualgoritm
 
 ---?image=assets/image/frontier_algo.png&size=auto 90%
 
