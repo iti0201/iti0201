@@ -36,8 +36,8 @@ Kasutage pronkstaseme lahendamisel simulaatoris võtit `--blind`
 ## Kauguse skaneerimine
 
 ---?gist=GertKanter/97a6dca93af5c107dc5ec20db2556f79&lang=python
-@snap[north]
-@size[14px](http://gist.github.com/GertKanter/97a6dca93af5c107dc5ec20db2556f79)
+@snap[north span-100]
+@size[16px](http://gist.github.com/GertKanter/97a6dca93af5c107dc5ec20db2556f79)
 @snapend
 ---?gist=GertKanter/1d9a07f1931707fe9a7c7289cc463954&lang=python
 
