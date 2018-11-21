@@ -28,6 +28,11 @@ Nädal |  | Tegevus
   | @size[large](@color[cornflowerblue](Kodutöö)) | @size[large]("Labürint" arendamine)
 
 ---
+## Labürint
+
+Kasutage pronkstaseme lahendamisel simulaatoris võtit `--blind`
+
+---
 ## Kauguse skaneerimine
 
 ---?gist=GertKanter/97a6dca93af5c107dc5ec20db2556f79&lang=python
