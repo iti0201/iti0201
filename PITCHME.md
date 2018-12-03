@@ -69,6 +69,12 @@ Trapetsi pindala, mille kõrgus on piiratud joonega kõrgusel `\(h´\)` on antud
 $$wh´(1 - \frac{h´}{2h})$$
 
 ---
+Kui `\(w=50, h=1, h´_{c}=0.4\)` (cruise) `\(h´_{f}=0.2\)` (fast), siis
+
+$$a_{c}=50 \times 0.4 (1- \frac{0.4}{2})=16$$
+$$a_{f}=50 \times 0.2 (1- \frac{0.2}{2})=9$$
+
+---
 ## Lisamaterjalid
 
 _Elements of Robotics_
