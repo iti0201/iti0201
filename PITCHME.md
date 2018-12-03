@@ -66,7 +66,7 @@ Olgu `\(w\)` ja `\(h\)` kolmnurga laius ja kõrgus.
 
 Trapetsi pindala, mille kõrgus on piiratud joonega kõrgusel `\(h´\)` on antud valemiga
 
-$$wh´(1 - \frac{h´}{2h} $$
+$$wh´(1 - \frac{h´}{2h})$$
 
 ---
 ## Lisamaterjalid
