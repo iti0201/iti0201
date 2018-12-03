@@ -81,6 +81,7 @@ Konkreetse väärtuse leidmiseks arvutatakse massikese.
 
 Selleks summeeritakse trapetsite aluste keskpunktide kaalutud pindalad ja jagatakse pindalade summaga.
 
+
 `$$ \frac{16 \times 50 + 9 \times 75}{16 + 9} = 59 $$`
 
 ---
