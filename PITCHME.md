@@ -77,6 +77,13 @@ Kui `\(w=50, h=1, h´_{c}=0.4\)` (cruise) `\(,h´_{f}=0.2\)` (fast), siis
 `$$ a_{f} = 50 \times 0.2 (1 - \frac{0.2}{2}) = 9 $$`
 
 ---
+Konkreetse väärtuse leidmiseks arvutatakse massikese.
+
+Selleks summeeritakse trapetsite aluste keskpunktide kaalutud pindalad ja jagatakse pindalade summaga.
+
+`$$ \frac{16 \times 50 + 9 \times 75}{16 + 9} = 59 $$`
+
+---
 ## Lisamaterjalid
 
 _Elements of Robotics_
