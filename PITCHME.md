@@ -24,7 +24,7 @@ Nädal |  | Tegevus
 ---
 ## Hägusloogika
 
----?image=assets/image/fuzzy_rules.png&size=auto 55%
+---?image=assets/image/fuzzy_rules.png&size=auto 15%
 ---?image=assets/image/fuzzify.png&size=auto 55%
 @snap[north]
 Hägustamine
