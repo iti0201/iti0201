@@ -25,8 +25,9 @@ Nädal |  | Tegevus
 ## Hägusloogika (fuzzy logic)
 
 ---
+Hägusloogika
 @ul
-- Hariliku (Boole'i) loogikaga on võimalik kirjeldada väärtusi "jah"/"ei".
+- Hariliku (Boole'i) loogikaga on võimalik kirjeldada väärtusi jah/ei, tõene/väär.
 - Hägus loogikaga on võimalik kirjeldada ka vahepealseid väärtusi nagu nt "väga soe" ja "päris jahe" ning neid matemaatiliselt formuleerida.
 @ulend
 
