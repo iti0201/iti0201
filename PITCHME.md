@@ -24,7 +24,7 @@ Nädal |  | Tegevus
 ---
 ## Hägusloogika
 
----?image=assets/image/fuzzy_rules.png&size=auto 15%
+---?image=assets/image/fuzzy_rules.png&size=auto 10%
 ---?image=assets/image/fuzzify.png&size=auto 55%
 @snap[north]
 Hägustamine
@@ -34,11 +34,11 @@ Hägustamine
 Lähenemine objektile
 
 @ul
-1. If **far** then **very fast**
-2. If **far** and **closing** then **fast**
-3. If **closing** then **cruise**
-4. If **closing** and **near** then **slow**
-5. If **near** then **stop**
+- If **far** then **very fast**
+- If **far** and **closing** then **fast**
+- If **closing** then **cruise**
+- If **closing** and **near** then **slow**
+- If **near** then **stop**
 @ulend
 
 
