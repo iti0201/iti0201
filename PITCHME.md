@@ -22,9 +22,18 @@ Nädal |  | Tegevus
   | @size[large](@color[cornflowerblue](Kodutöö)) | @size[large]("Labürint" arendamine)
 
 ---
-## Hägusloogika
+## Hägusloogika (fuzzy logic)
+
+---
+@ul
+- Hariliku (Boole'i) loogikaga on võimalik kirjeldada väärtusi "jah"/"ei".
+- Hägus loogikaga on võimalik kirjeldada ka vahepealseid väärtusi nagu nt "väga soe" ja "päris jahe" ning neid matemaatiliselt formuleerida.
+@ulend
 
 ---?image=assets/image/fuzzy_rules.png&size=auto 10%
+@snap[north]
+Kiirushoidja loogika
+@snapend
 ---?image=assets/image/fuzzify.png&size=auto 55%
 @snap[north]
 Hägustamine
@@ -40,6 +49,11 @@ Lähenemine objektile
 - If **closing** and **near** then **slow**
 - If **near** then **stop**
 @ulend
+
+---?image=assets/image/defuzzify.png&size=auto 55%
+@snap[north]
+Selgendamine
+@snapend
 
 
 ---
