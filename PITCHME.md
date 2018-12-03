@@ -1,7 +1,7 @@
 ## ITI0201<br />Robotite Programmeerimine
 
 ---
-### Hägusloogika, pilditöötlus ja varia
+### Hägus loogika, pilditöötlus ja varia
 
 ---
 ## Meeleolu tekitamiseks...
@@ -14,7 +14,7 @@
 
 Nädal |  | Tegevus
 ------|--|--------
-@size[large](**14**) | @size[large](@color[goldenrod](Loeng)) | @size[large](Hägusloogika, pilditöötlus ja varia)
+@size[large](**14**) | @size[large](@color[goldenrod](Loeng)) | @size[large](Hägus loogika, pilditöötlus ja varia)
   | @size[large](@color[darkgreen](Praktikum)) | @size[large]("Labürint" arendamine ja kaitsmine)
   | @size[large](@color[cornflowerblue](Kodutöö)) | @size[large]("Labürint" arendamine)
 @size[large](**15**) | @size[large](@color[goldenrod](Loeng)) | @size[large](---)
@@ -22,10 +22,10 @@ Nädal |  | Tegevus
   | @size[large](@color[cornflowerblue](Kodutöö)) | @size[large]("Labürint" arendamine)
 
 ---
-## Hägusloogika (fuzzy logic)
+## Hägus loogika (fuzzy logic)
 
 ---
-### Hägusloogika
+### Hägus loogika
 @ul
 - Hariliku (Boole'i) loogikaga on võimalik kirjeldada väärtusi jah/ei (tõene/väär jne).
 - Hägus loogikaga on võimalik kirjeldada ka vahepealseid väärtusi nagu nt "väga soe" ja "päris jahe" ning neid matemaatiliselt formuleerida.
@@ -53,9 +53,20 @@ Lähenemine objektile
 
 ---?image=assets/image/defuzzify.png&size=auto 55%
 @snap[north]
-Selgendamine
+Selgendamine (konkreetse väärtuse leidmine)
 @snapend
 
+---?image=assets/image/certainty_areas.png&size=auto 55%
+@snap[north]
+Järeldamine (0.4 = cruise, 0.2 = fast)
+@snapend
+
+---
+Olgu `\(w\)` ja `\(h\)` kolmnurga laius ja kõrgus.
+
+Trapetsi pindala, mille kõrgus on piiratud joonega kõrgusel `\(h´\)` on antud valemiga
+
+$$wh´(1 - \frac{h´}{2h} $$
 
 ---
 ## Lisamaterjalid
