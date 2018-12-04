@@ -180,7 +180,7 @@ Negatiivsed
 Positiivsed
 @ul
 - Põnevad ja huvitavad ülesanded!
-- Vahva koodi näha päris robotil töötamas!
+- Vahva näha koodi päris robotil töötamas!
 - Programmeerimisele lisaks ka praktiline külg!
 - Tiimitöö!
 - Kõik on abivalmid!!
