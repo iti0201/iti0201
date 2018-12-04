@@ -178,7 +178,7 @@ Negatiivsed
 ---
 Positiivsed
 @ul
-Põnevad ülesanded
-Vahva päris robotiga ja simulatsiooniga töötada
-Tiimikaaslased
+- Põnevad ülesanded
+- Vahva päris robotiga ja simulatsiooniga töötada
+- Tiimikaaslased
 @ulend
