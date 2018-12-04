@@ -157,7 +157,9 @@ for each pixel p
 @snapend
 
 ---
-Sobel filter:
+@snap[north span-100]
+Sobel filter
+@snapend
 
 `\( \begin{bmatrix} -1 & -2 & -1 \\ 0 & 0 & 0 \\ 1 & 2 & 1 \end{bmatrix} \)` (horisontaalne)
 
