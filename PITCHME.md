@@ -31,10 +31,13 @@ Nädal |  | Tegevus
 - Hägus loogikaga on võimalik kirjeldada ka vahepealseid väärtusi nagu nt "väga soe" ja "päris jahe" ning neid matemaatiliselt formuleerida.
 @ulend
 
----?image=assets/image/fuzzy_rules.png&size=auto 10%
+---
+Juhul kui, eesolev auto on _kaugel eemal_ või kui taga on auto _lähedal_, siis säti kiirus _""tempokalt"_ peale.
+Juhul kui, eesolev auto on _lähedal_, siis säti kiirus _"aeglaselt"_ peale.
 @snap[north]
 Kiirushoidja loogika
 @snapend
+
 ---?image=assets/image/fuzzify.png&size=auto 55%
 @snap[north]
 Hägustamine
