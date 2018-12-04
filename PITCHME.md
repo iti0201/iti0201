@@ -89,7 +89,7 @@ Selleks summeeritakse trapetsite aluste keskpunktide kaalutud pindalad ja jagata
 
 ---?image=assets/image/image_matrices.png&size=auto 35%
 @snap[north]
-Pildimaatriksid
+Binaarsete piltide maatriksid
 @snapend
 
 ---?image=assets/image/histogram.png&size=auto 35%
