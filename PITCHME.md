@@ -87,6 +87,16 @@ Selleks summeeritakse trapetsite aluste keskpunktide kaalutud pindalad ja jagata
 ---
 ## Pilditöötlus
 
+---?image=assets/image/noisy_image.png&size=auto 35%
+@snap[north]
+Müraga pildid
+@snapend
+
+---?image=assets/image/intensity_avg.png&size=auto 35%
+@snap[north]
+Pikslite keskmistamine
+@snapend
+
 ---?image=assets/image/image_matrices.png&size=auto 35%
 @snap[north]
 Binaarsete piltide maatriksid
@@ -123,3 +133,17 @@ _Elements of Robotics_
 - Manipulaatori kinemaatika (ptk 16)
 @ulend
 
+---
+## Tagasiside
+
+---
+Negatiivsed
+@ul
+- Probleemid robotitega (puudulikud andurid)
+- Raske aine
+- "1" saamine liiga raske
+- Probleemid tiimikaaslastega
+- Vähe materjale
+- Simulatsioonile halb ligipääs
+- Aine võiks olla 2. või 3. semestril
+@ulend
