@@ -105,7 +105,11 @@ Box filter
 ---
 nn kast-filter: `$$ \begin{bmatrix} 1 & 1 & 1 \\ 1 & 1 & 1 \\ 1 & 1 & 1 \end{bmatrix} $$`
 
-`$$ g(r,c) = (f(r-1, c-1) + f(r - 1, c) + f(r - 1, c + 1) + f(r, c-1) + f(r, c) + f(r,c+1) + f(r+1,c-1) + f(r+1,c) + f(r+1,c+1)) / 9 $$`
+`$$ \begin{multiline} g(r,c) = ( \\
+     f(r-1, c-1) + f(r - 1, c) + f(r - 1, c + 1) + \\
+     f(r, c-1) + f(r, c) + f(r,c+1) + \\
+     f(r+1,c-1) + f(r+1,c) + f(r+1,c+1)) / 9
+     \end{multiline} $$`
 
 ---?image=assets/image/image_matrices.png&size=auto 35%
 @snap[north]
