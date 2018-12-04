@@ -111,6 +111,19 @@ nn kast-filter: `$$ \begin{bmatrix} 1 & 1 & 1 \\ 1 & 1 & 1 \\ 1 & 1 & 1 \end{bma
      f(r+1,c-1) + f(r+1,c) + f(r+1,c+1)) / 9
      \end{multline} $$`
 
+---?image=assets/image/weighted_filter.png&size=auto 35%
+@snap[north]
+Weighted filter
+@snapend
+
+---
+Kaaludega filter: `$$ \begin{bmatrix} 1 & 1 & 1 \\ 1 & 8 & 1 \\ 1 & 1 & 1 \end{bmatrix} $$`
+`$$ \begin{multline} g(r,c) = ( \\
+     f(r-1, c-1) + f(r - 1, c) + f(r - 1, c + 1) + \\
+     f(r, c-1) + 8 \cdot f(r, c) + f(r,c+1) + \\
+     f(r+1,c-1) + f(r+1,c) + f(r+1,c+1)) / 16
+     \end{multline} $$`
+
 ---?image=assets/image/image_matrices.png&size=auto 35%
 @snap[north]
 Binaarsete piltide maatriksid
