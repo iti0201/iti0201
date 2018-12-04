@@ -174,3 +174,11 @@ Negatiivsed
 - Simulatsioonile halb ligipääs
 - Aine võiks olla 2. või 3. semestril
 @ulend
+
+---
+Positiivsed
+@ul
+Põnevad ülesanded
+Vahva päris robotiga ja simulatsiooniga töötada
+Tiimikaaslased
+@ulend
