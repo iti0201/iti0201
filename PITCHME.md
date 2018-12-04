@@ -146,6 +146,23 @@ for each pixel p
     bins[bin_number] = bins[bin_number] + 1
 ```
 
+---?image=assets/image/edge_intensity.png&size=auto 35%
+@snap[north span-100]
+@size[30px](Servaga pilt (b=serva intensiivsus&#41;)
+@snapend
+
+---?image=assets/image/edge_derivatives.png&size=auto 35%
+@snap[north span-100]
+@size[30px](Serva intensiivsuse tuletised (a=esimene tuletis, b=teine tuletis&#41;)
+@snapend
+
+---
+Sobel filter:
+`\( \begin{bmatrix} -1 & -2 & -1 \\ 0 & 0 & 0 \\ 1 & 2 & 1 \end{bmatrix} \)` (horisontaalne)
+
+`\( \begin{bmatrix} -1 & 0 & 1 \\ -2 & 0 & 2 \\ -1 & 0 & -1 \end{bmatrix} \)` (vertikaalne)
+
+
 ---
 ## Lisamaterjalid
 
