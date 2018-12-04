@@ -57,8 +57,8 @@ Lähenemine objektile
 @ulend
 
 ---?image=assets/image/defuzzify.png&size=auto 55%
-@snap[north]
-Selgendamine (konkreetse väärtuse leidmine)
+@snap[north][north span-100]
+@size[18px](Selgendamine (konkreetse väärtuse leidmine&#41;)
 @snapend
 
 ---?image=assets/image/certainty_areas.png&size=auto 55%
