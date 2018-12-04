@@ -85,6 +85,19 @@ Selleks summeeritakse trapetsite aluste keskpunktide kaalutud pindalad ja jagata
 `$$ \frac{16 \times 50 + 9 \times 75}{16 + 9} = 59 $$`
 
 ---
+## Pilditöötlus
+
+---?image=assets/image/image_matrices.png&size=auto 55%
+@snap[north]
+Pildimaatriksid
+@snapend
+
+---?image=assets/image/histogram.png&size=auto 55%
+@snap[north]
+Histogramm
+@snapend
+
+---
 ## Lisamaterjalid
 
 _Elements of Robotics_
