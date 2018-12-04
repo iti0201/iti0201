@@ -166,19 +166,26 @@ _Elements of Robotics_
 ---
 Negatiivsed
 @ul
-- Probleemid robotitega (puudulikud andurid)
-- Raske aine
-- "1" saamine liiga raske
-- Probleemid tiimikaaslastega
-- Vähe materjale
-- Simulatsioonile halb ligipääs
-- Aine võiks olla 2. või 3. semestril
+- Probleemid robotitega (puudulikud andurid)!
+- Raske aine!
+- "1" saamine liiga raske!
+- Probleemid tiimikaaslastega!
+- Vähe materjale!
+- Simulatsioonile halb ligipääs!
+- Pikad järjekorrad päris robotile!
+- Aine võiks olla 2. või 3. semestril!
 @ulend
 
 ---
 Positiivsed
 @ul
-- Põnevad ülesanded
-- Vahva päris robotiga ja simulatsiooniga töötada
-- Tiimikaaslased
+- Põnevad ja huvitavad ülesanded!
+- Vahva koodi näha päris robotil töötamas!
+- Programmeerimisele lisaks ka praktiline külg!
+- Tiimitöö!
+- Kõik on abivalmid!!
+- Eksamit pole!
 @ulend
+
+---
+"Robootika on nagu filter, mis eemaldab ebakompetentsed õpilased õpilaste nimekirjast." - Anonymous (2018)
