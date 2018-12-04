@@ -225,3 +225,6 @@ Positiivsed
 
 ---
 "Robootika on nagu filter, mis eemaldab ebakompetentsed õpilased õpilaste nimekirjast." - Anonymous (2018)
+
+---
+Järgmisel korral ROS (Robot Operating System) ülevaade.
