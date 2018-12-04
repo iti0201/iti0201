@@ -98,7 +98,7 @@ Histogramm
 @snapend
 
 ---
-```python
+```
 for each pixel p
     bin_number = intensity(p) / number_of_bins
     bins[bin_number] = bins[bin_number] + 1
