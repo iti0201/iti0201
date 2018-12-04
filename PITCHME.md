@@ -170,7 +170,7 @@ Sobel filter
 @size[30px](Sobel filtri tulemused (a=horisontaalne, b=vertikaalne&#41;)
 @snapend
 
----?image=assets/image/sobel_diagonal.png&size=auto 35%
+---?image=assets/image/sobel_diagonal.png&size=auto 65%
 @snap[north span-100]
 @size[30px](Kaldservaga pildil rakendamine (a=horisontaalne, b=vertikaalne&#41;)
 @snapend
