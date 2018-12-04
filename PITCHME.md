@@ -166,7 +166,7 @@ _Elements of Robotics_
 ---
 Negatiivsed
 @ul
-- Probleemid robotitega (puudulikud andurid)!
+- Probleemid robotitega (puudulikud andurid, sõitmine jne)!
 - Raske aine!
 - "1" saamine liiga raske!
 - Probleemid tiimikaaslastega!
@@ -183,7 +183,7 @@ Positiivsed
 - Vahva näha koodi päris robotil töötamas!
 - Programmeerimisele lisaks ka praktiline külg!
 - Tiimitöö!
-- Kõik on abivalmid!!
+- Kõik on abivalmid!
 - Eksamit pole!
 @ulend
 
