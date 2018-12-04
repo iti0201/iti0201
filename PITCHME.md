@@ -175,6 +175,9 @@ Sobel filter
 @size[30px](Kaldservaga pildil rakendamine (a=horisontaalne, b=vertikaalne&#41;)
 @snapend
 
+---?image=assets/image/valve_original.png&size=auto 35%
+---?image=assets/image/valve_sobel.png&size=auto 35%
+
 ---
 ## Lisamaterjalid
 
