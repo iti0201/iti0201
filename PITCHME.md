@@ -165,6 +165,15 @@ Sobel filter
 
 `\( \begin{bmatrix} -1 & 0 & 1 \\ -2 & 0 & 2 \\ -1 & 0 & -1 \end{bmatrix} \)` (vertikaalne)
 
+---?image=assets/image/sobel_edge.png&size=auto 35%
+@snap[north span-100]
+@size[30px](Sobel filtri tulemused (a=horisontaalne, b=vertikaalne&#41;)
+@snapend
+
+---?image=assets/image/sobel_diagonal.png&size=auto 35%
+@snap[north span-100]
+@size[30px](Kaldservaga pildil rakendamine (a=horisontaalne, b=vertikaalne&#41;)
+@snapend
 
 ---
 ## Lisamaterjalid
