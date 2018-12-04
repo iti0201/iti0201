@@ -97,6 +97,14 @@ Müraga pildid
 Pikslite keskmistamine
 @snapend
 
+---?image=assets/image/box_filter.png&size=auto 35%
+@snap[north]
+Box filter
+@snapend
+
+---
+nn kast-filter: `$$ \begin{bmatrix} 1 & 1 & 1 \\ 1 & 1 & 1 \\ 1 & 1 & 1 \end{bmatrix} $$`
+
 ---?image=assets/image/image_matrices.png&size=auto 35%
 @snap[north]
 Binaarsete piltide maatriksid
