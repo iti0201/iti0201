@@ -33,6 +33,7 @@ Nädal |  | Tegevus
 
 ---
 Juhul kui, eesolev auto on _kaugel eemal_ või kui taga on auto _lähedal_, siis säti kiirus _""tempokalt"_ peale.
+
 Juhul kui, eesolev auto on _lähedal_, siis säti kiirus _"aeglaselt"_ peale.
 @snap[north]
 Kiirushoidja loogika
