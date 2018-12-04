@@ -57,7 +57,7 @@ Lähenemine objektile
 @ulend
 
 ---?image=assets/image/defuzzify.png&size=auto 55%
-@snap[north][north span-100]
+@snap[north span-100]
 @size[30px](Selgendamine (konkreetse väärtuse leidmine&#41;)
 @snapend
 
