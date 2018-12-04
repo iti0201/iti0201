@@ -184,9 +184,8 @@ _Elements of Robotics_
 - 12\. peatükk - **Image Processing**
 
 ---
-## Teemad, mis jäid aines käsitlemata
+### Teemad, mis jäid aines käsitlemata
 
----
 @ul
 - Närvivõrgud (ptk 13)
 - Masinõpe (ptk 14)
