@@ -16,6 +16,9 @@
 ![Adversarial patch examples](https://www.youtube.com/embed/c_5EH3CBtD0)
 
 ---
+![Adversarial stop sign](https://www.youtube.com/embed/dPnytKJslzc)
+
+---
 ![Robotic skins](https://www.youtube.com/embed/uuAY5Y_INYQ)
 
 ---
