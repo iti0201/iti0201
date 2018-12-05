@@ -202,7 +202,7 @@ _Elements of Robotics_
 ---
 Negatiivsed
 @ul
-- Probleemid robotitega (puudulikud andurid, sõitmine jne)!
+- Probleemid robotitega (puudulikud andurid, mootorid jne)!
 - Raske aine!
 - "1" saamine liiga raske!
 - Probleemid tiimikaaslastega!
