@@ -208,7 +208,7 @@ Negatiivsed
 - Probleemid tiimikaaslastega!
 - Vähe näitekoodi!
 - Simulatsioonile halb ligipääs!
-- Pikad järjekorrad päris robotile!
+- Pikad järjekorrad päris robotitele!
 - Aine võiks olla 2. või 3. semestril!
 @ulend
 
