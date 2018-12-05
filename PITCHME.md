@@ -13,6 +13,9 @@
 ![Adversarial patch](https://www.youtube.com/embed/i1sp4X57TL4)
 
 ---
+![Robotic skins](https://www.youtube.com/embed/uuAY5Y_INYQ)
+
+---
 ## Ajakava
 
 Nädal |  | Tegevus
