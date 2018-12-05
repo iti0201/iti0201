@@ -206,7 +206,7 @@ Negatiivsed
 - Raske aine!
 - "1" saamine liiga raske!
 - Probleemid tiimikaaslastega!
-- Vähe materjale!
+- Vähe näitekoodi!
 - Simulatsioonile halb ligipääs!
 - Pikad järjekorrad päris robotile!
 - Aine võiks olla 2. või 3. semestril!
