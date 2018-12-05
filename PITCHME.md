@@ -206,6 +206,12 @@ _Elements of Robotics_
 @ulend
 
 ---
+![Collaborative manipulation](https://www.youtube.com/embed/kxRu426UVdM)
+
+---
+![Swarm robots cooperate with AR dronw](https://www.youtube.com/embed/i3ernrkZ91E)
+
+---
 ## Tagasiside
 
 ---
