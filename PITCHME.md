@@ -10,6 +10,9 @@
 ![Robot catches itself before it falls](https://www.youtube.com/embed/VYPqxfzc15g)
 
 ---
+![Adversarial patch](https://www.youtube.com/embed/i1sp4X57TL4)
+
+---
 ## Ajakava
 
 Nädal |  | Tegevus
