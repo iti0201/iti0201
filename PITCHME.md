@@ -13,6 +13,9 @@
 ![Adversarial patch](https://www.youtube.com/embed/i1sp4X57TL4)
 
 ---
+![Adversarial patch examples](https://www.youtube.com/embed/c_5EH3CBtD0)
+
+---
 ![Robotic skins](https://www.youtube.com/embed/uuAY5Y_INYQ)
 
 ---
