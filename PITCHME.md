@@ -38,7 +38,7 @@ Nädal |  | Tegevus
 ---
 ROS1 ehitati PR2 roboti kasutusmalli jaoks
 
----?image=assets/image/pr2.jpg&size=auto 45%
+---?image=assets/image/pr2.jpg&size=auto 75%
 
 ---
 @ul
