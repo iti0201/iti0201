@@ -41,6 +41,7 @@ ROS1 ehitati PR2 roboti kasutusmalli jaoks
 ---?image=assets/image/pr2.jpg&size=auto 75%
 
 ---
+ROS1 algne kasutusmall
 @ul
 - üksainus robot
 - tööjaam pardaarvuti
