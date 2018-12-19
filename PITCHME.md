@@ -60,3 +60,10 @@ ROS2 põhilised panused
 - tootestamisega arvestamine
 @ulend
 
+---
+ROS2 omadused
+@ul
+- C++11
+- Python3
+- DDS (väga ulatuslikud seadistusvõimalused)
+@ulend
