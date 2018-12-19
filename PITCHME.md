@@ -67,3 +67,6 @@ ROS2 omadused
 - Python3
 - DDS (väga ulatuslikud seadistusvõimalused)
 @ulend
+
+---?image=assets/image/api_levels.png&size=auto 75%
+---?image=assets/image/dds_vendors.png&size=auto 75%
