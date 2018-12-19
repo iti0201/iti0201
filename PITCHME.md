@@ -64,8 +64,8 @@ ROS2 põhilised panused
 ROS2 omadused
 @ul
 - Puudub _roscore_ (ROS Master)
-- C++11
-- Python3
+- C++11 (osaliselt C++14 ja tulevikus plaanis C++17)
+- Python3.5+
 - DDS (väga ulatuslikud seadistusvõimalused)
 - Turvalisus (hea ühilduvus algusest peale Secure ROS laiendusega)
 @ulend
