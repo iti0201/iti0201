@@ -70,3 +70,5 @@ ROS2 omadused
 
 ---?image=assets/image/api_levels.png&size=auto 75%
 ---?image=assets/image/dds_vendors.png&size=auto 75%
+---?image=assets/image/net_spectrum.png&size=auto 75%
+---?image=assets/image/bridge.png&size=auto 75%
