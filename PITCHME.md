@@ -76,7 +76,7 @@ Iga ülesanne tuleb lahendada uues meeskonnas.
 
 ---
 
-### Simulatsioon (1 nädal) (mittearvestuslik)
+### Simulatsioon (1 nädal)
 
 Tase | Kirjeldus
 -----|----------
