@@ -76,7 +76,7 @@ Iga ülesanne tuleb lahendada uues meeskonnas.
 
 ---
 
-### Simulatsioon (1 nädal)
+### Simulatsioon (1 nädal) (mittearvestuslik)
 
 Tase | Kirjeldus
 -----|----------
@@ -84,6 +84,11 @@ Tase | Kirjeldus
 @color[silver](Hõbe<br />@size[smaller]([2. tase])) | Sõida robotiga seina juurde, pööra ja sõida ümber seina.
 @color[gold](Kuld<br />@size[smaller]([3. tase])) | -
 @color[firebrick](Eliit<br />@size[smaller]([4. tase])) | -
+
+---
+Simulatsiooni ülesannet ei pea kaitsma ja see ei mõjuta hinde kujunemist.
+
+Ülesanne annab vajalikud teadmised, et edukalt järgnevaid ülesandeid läbida.
 
 ---
 
