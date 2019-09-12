@@ -400,9 +400,9 @@ AGV-sid kasutatakse materjalide liigutamiseks tehastes, ladudes, sadamates, raud
 ## ITI0201
 Millist robotit kasutame käesolevas aines?
 
----?image=assets/image/pibot2_1.jpg&size=auto 90%
----?image=assets/image/pibot2_2.jpg&size=auto 90%
----?image=assets/image/pibot2_3.jpg&size=auto 90%
+---?image=assets/image/pibot2_1.jpg&size=auto 80%
+---?image=assets/image/pibot2_2.jpg&size=auto 80%
+---?image=assets/image/pibot2_3.jpg&size=auto 80%
 
 ---
 ## Kontekst
