@@ -60,17 +60,16 @@ Kolm arvestuslikku teemat
 
 ---
 ## Meeskonnatöö
-Iga ülesanne lahendatakse kaheliikmelises meeskonnas.
+Iga ülesanne lahendatakse kaheliikmelises meeskonnas. Informaatika õppekava meeskonnad moodustatakse "Erialatutvustuse" aine tiimide põhjal.
 
 Iga ülesanne tuleb lahendada uues meeskonnas.
 
 ---
 ## Tasemed
 
----?image=assets/image/gerd_bronze.jpg&size=auto 90%
----?image=assets/image/gerd_silver.jpg&size=auto 90%
----?image=assets/image/gerd_gold.jpg&size=auto 90%
----?image=assets/image/kanter_elite.jpg&size=auto 90%
+Ülesanded on omakorda jagatud tasemeteks: pronks, hõbe, kuld ja eliit. 
+
+Iga tase baseerub eelmisele ja tasemed tuleb lahendada järjest (nt ei saa teha kuld-taset kui hõbe-tase on tegemata jne)
 ---
 ## Hindamine
 
@@ -147,15 +146,13 @@ Kõikide ülesandeklasside ülesanded 1. tasemel
 ## Praktikumide korraldus
 Kõikide ülesannete (peale simulatsiooni) lähtekoodi peab õppejõule kaitsma.
 
-Lähtekood peab vastama konventsioonidele (PEP8, PEP257, max keerukuspiirang jne). Sarnased nõuded on ka ITI0102 algkursusel.
+Lähtekood peab vastama konventsioonidele (PEP8, PEP257, maksimaalne keerukuspiirang jne). Sarnased nõuded on ka ITI0102 algkursusel.
 
 ---
 ## Tähtajad
-Hindamisväljaku seadistus on järgnev:
-
-Joonejärgija + Objektid = 5-10 nädal
-
-Labürint = 11-16 nädal
+- Tähtajad on olulised!
+- Peale tähtaega saab ülesandeid kaitsta ainult kõrgemale kui pronks-tasemele ja seda alles semestri lõpus peale viimast ülesannet.
+- Pronks-tase peab kindlasti õigeks ajaks tehtud olema.
 
 ---
 ## Robotex
@@ -233,9 +230,11 @@ Robotite hoolduskulud võivad olla palju odavamad kui inimjuhitud masinate hoold
 ## Miks robootika on oluline?
 
 Tractica
-- Kiire robootikasektori kasv 2016 ja 2022 aasta vahemikus
-- Kogu sektor kasvab $31 miljardi pealt $237 miljardi peale
+- Kiire robootikasektori kasv 2018 ja 2025 aasta vahemikus
+- Kogu sektor kasvab $50 miljardi pealt $250 miljardi peale
 - Põhiline kasv tuleb **mitte-tööstusrobotite** valdkonnas
+
+---?image=assets/image/tractica.jpg&size=auto 90%
 
 ---
 Prognoosid on väga erinevad, aga praktiliselt kõikides prognoosides on robootika **CAGR (Compound Annual Growth Rate)** kahekohaline (üle **10%** aastas).
@@ -245,15 +244,8 @@ Prognoosid on väga erinevad, aga praktiliselt kõikides prognoosides on robooti
 ---
 ## Prognoosid (IDC)
 @ul
-- 2019, 35% suurorganisatsioonidest uurib kuidas saaks roboteid kasutada automatiseerimiseks.
-- 2019, valitsused hakkavad seadusandlust muutma ja täiendama tingituna robotite levikust (töökohad, ohutus, privaatsus).
-@ulend
-
----
-## Prognoosid (IDC)
-@ul
-- 2020, 60% robotitest on ühendatud pilve (cloud-based software) ja saavad pidevaid uuendusi ja oskusi.
-- **2020, robootika kiirenev areng põhjustab sektoris 35%-lise tööjõupuuduse samal ajal kui palgatase tõuseb vähemalt 60%!**
+- 2020 - 60% robotitest on ühendatud pilve (cloud-based software) ja saavad pidevaid uuendusi ja oskusi.
+- **2020 - robootika kiirenev areng suurendab sektoris tööjõupuudust 35% ja palgatase tõuseb vähemalt 60%!**
 @ulend
 
 ---
@@ -408,11 +400,9 @@ AGV-sid kasutatakse materjalide liigutamiseks tehastes, ladudes, sadamates, raud
 ## ITI0201
 Millist robotit kasutame käesolevas aines?
 
----?image=assets/image/pibot_side.jpg&size=auto 90%
----?image=assets/image/pibot_bottom.jpg&size=auto 90%
----?image=assets/image/pibot_front.jpg&size=auto 90%
----?image=assets/image/pibot_front_ir.jpg&size=auto 90%
----?image=assets/image/pibot_rear.jpg&size=auto 90%
+---?image=assets/image/pibot2_1.jpg&size=auto 90%
+---?image=assets/image/pibot2_2.jpg&size=auto 90%
+---?image=assets/image/pibot2_3.jpg&size=auto 90%
 
 ---
 ## Kontekst
@@ -473,12 +463,12 @@ Robootika võib jagada laias laastus kolme teadusvaldkonna vahel
 @ulend
 
 ---
-## PiBot
+## PiBot (v2)
 PiBot robot on ehitatud TTÜ Robotiklubi poolt "eritellimusena".
 
 Raspberry Pi 3 Model B+ (1 GB RAM, 1.4 GHz 64-bit quad-core processor)
 
-Python 3
+Robotitel on kasutusel Python 3.7.3
 
 ---
 ## Simulatsioon
