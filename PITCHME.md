@@ -131,8 +131,8 @@ Koodisalved asuvad
 ## Komponendid
 
 @ul
-- Sim: Algoritm (Python) @fa[arrows-h] PyBot (API) @fa[arrows-h] ROS @fa[arrows-h] Gazebo
-- Robot: Algoritm (Python) @fa[arrows-h] PyBot (API) @fa[arrows-h] Robot (UART)
+- Sim: Algoritm (Python) @fa[arrows-h] PiBot (API) @fa[arrows-h] ROS @fa[arrows-h] Gazebo
+- Robot: Algoritm (Python) @fa[arrows-h] PiBot (API) @fa[arrows-h] Robot (UART)
 @ulend
 
 ---
