@@ -240,7 +240,7 @@ Kuidas praktikas programmeerimine välja näeb?
 
 ---
 ## PiBot
-Programmeerimisjuhend on (API)
+Programmeerimisjuhend (API) asub
 
 [https://github.com/iti0201/robot](https://github.com/iti0201/robot)
 
@@ -265,7 +265,7 @@ Praktikum on eelkõige mõeldud päris robotil testimiseks ja töö kaitsmiseks.
 - Lahenduse lähtekood on Gitlab-is üleval.
 - Võtate vaba roboti ja vaatate, mis roboti kood on (roboti peal kirjas).
 - Panete roboti platsile algasendisse.
-- Kasutate laadimisarvutil skripti (*load.sh*), mis laeb teie lahenduse lähtekoodi robotisse (skriptil määrate parameetritega oma uni-id, ülesande koodi ja roboti koodi).
+- Kasutate laadimisarvuti programmi, mis laeb teie lahenduse lähtekoodi robotisse (määrate parameetritega oma uni-id, ülesande koodi ja roboti koodi).
 - Robot hakkab teie lähtekoodile vastavalt ülesannet lahendama.
 @ulend
 
@@ -274,7 +274,7 @@ Praktikum on eelkõige mõeldud päris robotil testimiseks ja töö kaitsmiseks.
 ---
 ## Silumine
 
-Roboti väljatrüki saab laadida oma Gitlab-i kasutades laadimisarvuti skripti (*fetch.sh*)
+Roboti väljatrüki saab laadida oma Gitlab-i kasutades laadimisarvutit.
 
 ---
 ## Kaine mõistus
