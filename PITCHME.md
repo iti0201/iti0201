@@ -15,6 +15,9 @@ keskkonnas!
 ## Meeleolu tekitamiseks...
 
 ---
+![Spot Launch](https://www.youtube.com/embed/wlkCQXHEgjA)
+
+---
 ![Cocktail Bot 4.0](https://www.youtube.com/embed/C2OCmsdcZTg)
 
 ---
