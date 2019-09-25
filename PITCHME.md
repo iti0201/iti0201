@@ -231,9 +231,9 @@ Robot kasutab planeerimist, et valida milline käitumine on antud hetkel sobivai
 ---
 ## PiBot programmeerimine
 
----?image=assets/image/pibot2_1.jpg&size=auto 90%
----?image=assets/image/pibot2_2.jpg&size=auto 90%
----?image=assets/image/pibot2_3.jpg&size=auto 90%
+---?image=assets/image/pibot2_1.jpg&size=auto 70%
+---?image=assets/image/pibot2_2.jpg&size=auto 70%
+---?image=assets/image/pibot2_3.jpg&size=auto 70%
 
 ---
 Kuidas praktikas programmeerimine välja näeb?
