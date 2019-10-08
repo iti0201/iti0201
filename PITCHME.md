@@ -182,6 +182,11 @@ Näiteks
 ## Olekumasinad (FSM)
 
 ---?image=assets/image/state_diagram.png&size=auto 20%
+
+---?gist=GertKanter/0358f059c69296d61c422cbc48c166a9&lang=py
+---?gist=GertKanter/d570522f3c2a1410f463228461e6c46d&lang=py
+---?gist=GertKanter/172763f3f730269a0b6b47b83bb76527&lang=py
+
 ---?image=assets/image/fsm_persistent_braitenberg.png&size=auto 50%
 ---?image=assets/image/fsm_search_approach.png&size=auto 80%
 ---?image=assets/image/algo_persistent.png&size=auto 80%
