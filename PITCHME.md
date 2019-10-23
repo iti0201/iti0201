@@ -104,12 +104,12 @@ Ettevaatav kinemaatikamudel (forward kinematic model)
 @snapend
 
 @snap[south]
-Võimaldab ennustada roboti kiirust globaalses teljestikus
+@size[18px](Võimaldab ennustada roboti kiirust globaalses teljestikus)
 @snapend
 
 ---
-@snap[north]
-![Model](assets/image/state_derivative.png&size=auto 20%)
+@snap[north span-30]
+![](assets/image/state_derivative.png)
 @snapend
 @ul
 - l - ratta kaugus telje keskkohast
