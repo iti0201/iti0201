@@ -166,10 +166,10 @@ Kasutame tagasiside saamiseks rataste koodreid.
 ---
 PID = proportsionaal-integraal-diferentsiaalregulaator ehk PID-kontroller
 
----
-## Proportsionaalne (P) kontroller, P-regulaator
-
 ---?image=assets/image/p_controller.png&size=auto 50%
+@snap[north]
+Proportsionaalne (P) kontroller, P-regulaator
+@snapend
 ---?image=assets/image/p_controller_neg_08.png&size=auto 70%
 ---?image=assets/image/p_gain.png&size=auto 70%
 
