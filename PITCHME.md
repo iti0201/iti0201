@@ -108,7 +108,7 @@ Ettevaatav kinemaatikamudel (forward kinematic model)
 @snapend
 
 ---
-@snap[north span-30]
+@snap[north span-60]
 ![](assets/image/state_derivative.png)
 @snapend
 @ul
