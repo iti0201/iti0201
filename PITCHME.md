@@ -99,11 +99,11 @@ Kui on oluline ka kõrgus ja nurk 3-mõõtmelises maailmas, siis kirjeldatakse p
 
 ---?image=assets/image/state_derivative.png&size=auto 30%
 
-@snap[north]
+@snap[north span-80]
 Ettevaatav kinemaatikamudel (forward kinematic model)
 @snapend
 
-@snap[south]
+@snap[south span-80]
 @size[18px](Võimaldab ennustada roboti kiirust globaalses teljestikus)
 @snapend
 
@@ -181,7 +181,7 @@ Proportsionaalne (P) kontroller, P-regulaator
 
 ---?image=assets/image/pi_algo.png&size=auto 60%
 @snap[north]
-Proportsionaalne-integraal (PI) kontroller, PI-regulaator
+@size[18px](Proportsionaalne-integraal (PI) kontroller, PI-regulaator)
 @snapend
 ---?image=assets/image/pi_controller.png&size=auto 40%
 ---?image=assets/image/pi_plot.png&size=auto 60%
