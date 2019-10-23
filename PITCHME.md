@@ -181,7 +181,7 @@ Proportsionaalne (P) kontroller, P-regulaator
 
 ---?image=assets/image/pi_algo.png&size=auto 60%
 @snap[north]
-@size[18px](Proportsionaalne-integraal (PI) kontroller, PI-regulaator)
+@size[18px](Proportsionaalne-integraal kontroller ehk PI-kontroller, PI-regulaator)
 @snapend
 ---?image=assets/image/pi_controller.png&size=auto 40%
 ---?image=assets/image/pi_plot.png&size=auto 60%
