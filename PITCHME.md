@@ -10,7 +10,10 @@
 ![Robots teaching themselves to see](https://www.youtube.com/embed/OplLXzxxmdA)
 
 ---
-![Parkour Atlas](https://www.youtube.com/embed/LikxFZZO2sk)
+![Parkour Atlas (2018)](https://www.youtube.com/embed/LikxFZZO2sk)
+
+---
+![Parkour Atlas (2019)](https://www.youtube.com/embed/_sBBaNYex3E)
 
 ---
 ![Precise Hopping with Salto-1P](https://www.youtube.com/embed/ZFGxnF9SqDE)
@@ -32,10 +35,10 @@ Nädal |  | Tegevus
 
 Tase | Kirjeldus
 -----|----------
-@color[goldenrod](Pronks<br />@size[smaller]([1. tase])) | Ühe objekti tuvastamine ja lähedale sõitmine
-@color[silver](Hõbe<br />@size[smaller]([2. tase])) | Kujundi keskele sõitmine
-@color[gold](Kuld<br />@size[smaller]([3. tase])) | Kompaktse kujundi keskele sõitmine
-@color[firebrick](Eliit<br />@size[smaller]([4. tase])) | Objekti transportimine määratud alasse
+@color[goldenrod](Pronks<br />@size[smaller]([1. tase])) | 1 objekti leidmine ja juurde sõitmine.
+@color[silver](Hõbe<br />@size[smaller]([2. tase])) | 2 objektiga võrdkülgse kolmnurga moodustamine (robot on kolmas tipp)
+@color[gold](Kuld<br />@size[smaller]([3. tase])) | 3 objektiga ristküliku moodustamine
+@color[firebrick](Eliit<br />@size[smaller]([4. tase])) | Objekti haaramine ja transportimine määratud kohta
 
 ---
 ## Olekuautomaadid meeldetuletus
@@ -125,9 +128,9 @@ tagasisidestatud (closed loop) juhtimine.
 ---
 Näiteid tagasisideta juhtimisest?
 @ul
-- pesumasin
 - röster
-- pesukuivati
+- veekeetja
+- blender
 - ...
 @ulend
 
@@ -202,7 +205,7 @@ Hea juhtimisalgoritm
 
 
 ---
-Tagasisidestatud süsteemide kohta on värske allikas
+Tagasisidestatud süsteemide kohta võit juurde lugeda siit:
 
 [http://www.cds.caltech.edu/~murray/amwiki/index.php/Second_Edition](http://www.cds.caltech.edu/~murray/amwiki/index.php/Second_Edition)
 
