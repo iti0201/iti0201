@@ -91,18 +91,17 @@ Kui on oluline ka kõrgus ja nurk 3-mõõtmelises maailmas, siis kirjeldatakse p
 ---?image=assets/image/state_vector.png&size=auto 30%
 ---?image=assets/image/90deg.png&size=auto 70%
 
----
-### 
 ---?image=assets/image/rotation.png&size=auto 30%
 
 @snap[north]
 2D-pöördemaatriks (rotation matrix)
 @snapend
 
----
-### Forward kinematic model
-
 ---?image=assets/image/state_derivative.png&size=auto 30%
+
+@snap[north]
+Ettevaatav kinemaatikamudel (forward kinematic model)
+@snapend
 
 ---
 @ul
