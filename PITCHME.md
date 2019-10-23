@@ -62,13 +62,11 @@ Roboti liikumist mõjutavad mitmed tegurid
 - ükski elektriline või mehaaniline komponent ei ole täiesti identne teisega
 - keskkond (pind, millel robot sõidab) mõjutab tegelikku kiirust
 - konarused ja muud takistused mõjutavad kiirust
+- mootorite toitepinge võib mõjutada pöörlemise kiirust
 @ulend
 
 ---
-Kiirus ei ole konstantne.
-
----
-Tuletame roboti oleku hindamise protsessi tahvlile...
+See tähendab, et tegelik sõidukiirus ei ole päris elus konstantne.
 
 ---
 ## Odomeetria
@@ -94,9 +92,9 @@ Kui on oluline ka kõrgus ja nurk 3-mõõtmelises maailmas, siis kirjeldatakse p
 ---?image=assets/image/90deg.png&size=auto 70%
 
 ---
-### Pöördemaatriks (rotation matrix) 2D
-
+### 
 ---?image=assets/image/rotation.png&size=auto 30%
+@snap[north] 2D-pöördemaatriks (rotation matrix) @snapend
 
 ---
 ### Forward kinematic model
