@@ -159,9 +159,9 @@ Kasutame tagasiside saamiseks rataste koodreid.
 ---?image=assets/image/feedback_algo.png&size=auto 60%
 
 ---
-## Näited "kauguse hoidja" ülesande põhjal
+### Näited "kauguse hoidja" ülesande põhjal
 
-Algoritm peab hoidma roboti seinast kaugusel $$r$$ meetrit.
+Algoritm peab hoidma roboti seinast kaugusel `r` meetrit.
 
 ---?image=assets/image/on_off_controller.png&size=auto 60%
 ---?image=assets/image/on_off_plot.png&size=auto 50%
