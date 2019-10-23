@@ -94,7 +94,7 @@ Kui on oluline ka kõrgus ja nurk 3-mõõtmelises maailmas, siis kirjeldatakse p
 ---?image=assets/image/rotation.png&size=auto 30%
 
 @snap[north]
-2D-pöördemaatriks (rotation matrix)
+2D-rotatsioonimaatriks (rotation matrix)
 @snapend
 
 ---?image=assets/image/state_derivative.png&size=auto 30%
@@ -103,7 +103,14 @@ Kui on oluline ka kõrgus ja nurk 3-mõõtmelises maailmas, siis kirjeldatakse p
 Ettevaatav kinemaatikamudel (forward kinematic model)
 @snapend
 
+@snap[south]
+Võimaldab ennustada roboti kiirust globaalses teljestikus
+@snapend
+
 ---
+@snap[north]
+![Model](assets/image/state_derivative.png&size=auto 20%)
+@snapend
 @ul
 - l - ratta kaugus telje keskkohast
 - r - ratta diameeter
