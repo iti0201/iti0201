@@ -98,7 +98,7 @@ Kui on oluline ka kõrgus ja nurk 3-mõõtmelises maailmas, siis kirjeldatakse p
 @snapend
 
 @snap[south span-80]
-@size[18px](Teisendus globaalsest teljestikust {`X_I, Y_I`} roboti teljestikku {`X_R, Y_R`})
+@size[18px](Teisendus globaalsest teljestikust {$$X_I, Y_I$$} roboti teljestikku {`X_R, Y_R`})
 @snapend
 
 ---?image=assets/image/state_derivative.png&size=auto 30%
