@@ -66,7 +66,7 @@ Roboti liikumist mõjutavad mitmed tegurid
 @ulend
 
 ---
-See tähendab, et tegelik sõidukiirus ei ole päris elus konstantne.
+Sellest tulenevalt roboti tegelik sõidukiirus (mootorite kiirused) ei ole päris elus sama juhtimiskäsuga püsivalt sama.
 
 ---
 ## Odomeetria
@@ -97,6 +97,10 @@ Kui on oluline ka kõrgus ja nurk 3-mõõtmelises maailmas, siis kirjeldatakse p
 2D-rotatsioonimaatriks (rotation matrix)
 @snapend
 
+@snap[south span-80]
+@size[18px](Teisendus globaalsest teljestikust {`X_I, Y_I`} roboti teljestikku {`X_R, Y_R`})
+@snapend
+
 ---?image=assets/image/state_derivative.png&size=auto 30%
 
 @snap[north span-80]
@@ -104,7 +108,7 @@ Ettevaatav kinemaatikamudel (forward kinematic model)
 @snapend
 
 @snap[south span-80]
-@size[18px](Võimaldab ennustada roboti kiirust globaalses teljestikus)
+@size[18px](Võimaldab ennustada roboti liikumist globaalses teljestikus)
 @snapend
 
 ---
