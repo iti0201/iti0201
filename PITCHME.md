@@ -190,6 +190,9 @@ Note:
 
 - Otse mootori kiirust juhtida ei ole regulaatoriga mõistlik (kaootiline ja lõhkuv)
 - Juhtima peab "gaasipedaali" ja "piduripedaali" (kiiruse inkrementi)
+- P=0.1, sp=100, pv=0, err=sp-pv, o=P*err=0.1*100=10 (% ??)
+- P=0.01, sp=100, pv=0, err=sp-pv, o=0, u=P*err=0.01*100=1 (% !)
+- P=0.01, sp=100, pv=200, err=sp-pv, o=15, u=P*err=0.01*-100=-1 (%)
 
 ---?image=assets/image/pi_algo.png&size=auto 60%
 @snap[north]
