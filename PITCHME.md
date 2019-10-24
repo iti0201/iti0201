@@ -183,6 +183,14 @@ Proportsionaalne (P) kontroller, P-regulaator
 ---?image=assets/image/p_controller_neg_08.png&size=auto 70%
 ---?image=assets/image/p_gain.png&size=auto 70%
 
+---
+## Kuidas rakendada meie aine robotiga?
+
+Note:
+
+- Otse mootori kiirust juhtida ei ole regulaatoriga mõistlik (kaootiline ja lõhkuv)
+- Juhtima peab "gaasipedaali" ja "piduripedaali" (kiiruse inkrementi)
+
 ---?image=assets/image/pi_algo.png&size=auto 60%
 @snap[north]
 @size[18px](Proportsionaalne-integraal kontroller ehk PI-kontroller, PI-regulaator)
