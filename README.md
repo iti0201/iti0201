@@ -86,4 +86,6 @@ while True:
     # Act
     robot.set_left_wheel_speed(motor_controller(.......))
     robot.set_right_wheel_speed(motor_controller(.......))
+    
+    robot.sleep(0.05) # 20 Hz loop
 ```
