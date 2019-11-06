@@ -137,8 +137,7 @@ Näiteks
 - @size[xx-large](t=2: input=106  buffer=[106, 103, 100], avg=103  =>  output=106)
 - @size[xx-large](t=3: input=2550  buffer=[2550, 106, 103], avg=920  =>  output=106)
 - @size[xx-large](t=4: input=2550  buffer=[2550, 2550, 106], avg=1735  =>  output=106)
-- @size[xx-large](t=5: input=2550  buffer=[2550, 2550, 2550], avg=2550  =>  output=106)
-- @size[xx-large](t=6: input=2550  buffer=[2550, 2550, 2550], avg=2550  =>  output=2550)
+- @size[xx-large](t=5: input=2550  buffer=[2550, 2550, 2550], avg=2550  =>  output=2550)
 @ulend
 
 ---
