@@ -1,6 +1,7 @@
-# Töökindla lahenduse "checklist"
+# Töökindla lahenduse kontrollnimekiri
 
-## Müraga toimetulek 
+# [x] Kas müraga tegeletakse?
+## Müraga toimetulek
 
 Kuivõrd andurid on mürarikkad, siis tuleb sisendandmeid filtreerida (näiteks kasutada puhvrit). Filtreerima peab ainult kaugusandurite väärtuseid. Koodrite ja kompassi väärtused filtreeritakse "madalamas" kihis meie eest juba ära.
 
@@ -16,9 +17,11 @@ Sisendjada [0.1 0.1 0.1 0.9 0.1 0.1 0.1 0.1 0.1] => peale filtreerimist [0.1 0.1
 ### Testimine müraga simulaatoris
 Müraga testimiseks kasutage võtit `--noise`.
 
-## Nägemisulatus on piiratud
-Kuna robotil on päriselus piiratud nägemisulatus, siis tuleks arvestada ainult nt 0.5 meetrise nägemisulatusega [testimiseks `--blind`].
+# [x] Kas on arvestatud piiratud nägemiskaugusega?
+## Nägemiskaugus on piiratud
+Kuna robotil on päriselus piiratud nägemiskaugus, siis tuleks arvestada ainult nt 0.5 meetrise nägemiskaugusega [testimiseks `--blind`].
 
+# [x] Kas on arvestatud mitteideaalsete mootoritega?
 ## Mootorite juhtimine
 Kuivõrd päriselus mootorid töötavad väga erinevalt (sõltub aku toitepingest jne), siis tuleb täpseks juhtimiseks kasutada tagasisidestatud juhtimist.
 See tähendab, et
@@ -34,6 +37,19 @@ Loengumaterjalides on kirjeldatud nt P-, PI-regulaator ja PID-regulaator, mida s
 ### Mootorite testimine
 Päriseluga rohkem sarnaste mootorite testimiseks saab kasutada võtit `--realmotors`
 
+## Testimine realistlikumalt simuleeritud robotiga
+
+Kuivõrd päriselus on roboti andurid mürarikkad ja mootorid mitteideaalsed, siis on mõistlik proovida enne roboti peal rakendamist oma algoritmi järjest keerukamate simulatsiooni "võtmetega".
+See tähendab, et käsk käivitamiseks on `robot_test uniid O1 1 --blind --noise --realmotors`
+
+Kõik korraga saab panna peale päriselu meenutavad sätted peale "--realism" võtmega.
+
+- `--blind` => max nägemiskaugus laseril piiratud 0.5 meetrile
+- `--noise` => kaugusanduritel müra
+- `--realmotors` => mootorid ei toimi ideaalselt
+
+
+# [x] Kas ülesehitus on loogiline ja hästi arusaadav mõlemale tiimiliikmele ja ka teistele?
 ## Olekumasin
 Ülesande loogika defineerimiseks olekumasinat (state machine) - kirjeldatud ja näide olemas loengumaterjalides
 
@@ -51,19 +67,7 @@ elif state == "approaching":
     if not object_in_front:
         state = "searching"
 ```
-
-## Testimine realistlikumalt simuleeritud robotiga
-
-Kuivõrd päriselus on roboti andurid mürarikkad ja mootorid mitteideaalsed, siis on mõistlik proovida enne roboti peal rakendamist oma algoritmi järjest keerukamate simulatsiooni "võtmetega".
-See tähendab, et käsk käivitamiseks on `robot_test uniid O1 1 --blind --noise --realmotors`
-
-Kõik korraga saab panna peale päriselu meenutavad sätted peale "--realism" võtmega.
-
-- `--blind` => max nägemiskaugus laseril piiratud 0.5 meetrile
-- `--noise` => kaugusanduritel müra
-- `--realmotors` => mootorid ei toimi ideaalselt
-
-## Loogiline ülesehitus
+### Loogiline ülesehitus
 
 Nagu loenguslaididel kirjeldatud, siis võiks järgida Sense-Plan-Act loogikat ja ehitada oma lahendus üles näiteks nii
 ```
