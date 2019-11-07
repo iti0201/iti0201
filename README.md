@@ -17,7 +17,7 @@ Sisendjada [0.1 0.1 0.1 0.9 0.1 0.1 0.1 0.1 0.1] => peale filtreerimist [0.1 0.1
 Müraga testimiseks kasutage võtit `--noise`.
 
 ## Nägemisulatus on piiratud
-Kuna robotil on päriselus piiratud nägemisulatus, siis tuleks arvestada ainult nt 0.5 meetrise nägemisulatusega [testimiseks `--blind`]
+Kuna robotil on päriselus piiratud nägemisulatus, siis tuleks arvestada ainult nt 0.5 meetrise nägemisulatusega [testimiseks `--blind`].
 
 ## Mootorite juhtimine
 Kuivõrd päriselus mootorid töötavad väga erinevalt (sõltub aku toitepingest jne), siis tuleb täpseks juhtimiseks kasutada tagasisidestatud juhtimist.
@@ -29,7 +29,7 @@ See tähendab, et
    kui tegelik kiirus on liiga väike, siis %-ile +1
    kui tegelik kiirus on liiga suur, siis %-ile -1
 
-Loengumaterjalides on kirjeldatud nt P-, PI-regulaator ja PID-regulaator, mida saab võtta aluseks oma juhtimi
+Loengumaterjalides on kirjeldatud nt P-, PI-regulaator ja PID-regulaator, mida saab võtta aluseks oma kontrolleri realiseerimisel.
 
 ### Mootorite testimine
 Päriseluga rohkem sarnaste mootorite testimiseks saab kasutada võtit `--realmotors`
