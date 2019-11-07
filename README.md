@@ -88,8 +88,10 @@ while True:
 	pass
 
     # Act
-    robot.set_left_wheel_speed(motor_controller(.......))
-    robot.set_right_wheel_speed(motor_controller(.......))
+    left_speed = motor_controller(.......)
+    right_speed = motor_controller(.......)
+    robot.set_left_wheel_speed(left_speed)
+    robot.set_right_wheel_speed(right_speed)
     
     robot.sleep(0.05) # 20 Hz loop
 ```
