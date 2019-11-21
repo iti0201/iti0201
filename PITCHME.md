@@ -28,9 +28,10 @@ Nädal |  | Tegevus
   | @size[large](@color[cornflowerblue](Kodutöö)) | @size[large]("Labürint" arendamine)
 
 ---
-## Kalibreerimine
+## Mootorite kalibreerimine
 
 Roboti miinimumkiiruse saab enne skaneerimist välja selgitada.
+Kalibreerimiseks võib kirjutada funktsiooni, mis tõstab aeglaselt kiirust ja jälgib koodri väärtust - kui ratas hakkab teatud mootori sisendiga pöörlema, siis on miinimumkiirus leitud.
 
 ---
 ## Protseduuriline vs OOP
