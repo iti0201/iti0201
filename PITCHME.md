@@ -28,28 +28,6 @@ Nädal |  | Tegevus
   | @size[large](@color[cornflowerblue](Kodutöö)) | @size[large]("Labürint" arendamine)
 
 ---
-## Labürint
-
-Kasutage pronkstaseme lahendamisel simulaatoris võtit `--blind`
-
----
-## Kauguse skaneerimine
-
----?gist=GertKanter/97a6dca93af5c107dc5ec20db2556f79&lang=python
-@snap[north span-100]
-@size[18px](http://gist.github.com/GertKanter/97a6dca93af5c107dc5ec20db2556f79)
-@snapend
----?gist=GertKanter/1d9a07f1931707fe9a7c7289cc463954&lang=python
-@snap[north span-100]
-@size[18px](Andmed kujul {(left_encoder, right_encoder&#41;: distance, ...})
-@snapend
-
----?image=assets/image/15.png&size=auto 60%
----?image=assets/image/10.png&size=auto 60%
----?image=assets/image/9.png&size=auto 60%
----?image=assets/image/8.png&size=auto 60%
-
----
 ## Kalibreerimine
 
 Roboti miinimumkiiruse saab enne skaneerimist välja selgitada.
