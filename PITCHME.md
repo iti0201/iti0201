@@ -157,7 +157,7 @@ Võimalikud poosid
 @ul
 - Teekonna planeerimiseks kasutatakse robootikas paljusid erinevaid algoritme.
 - Üks lihtsamatest algoritmidest, mis annab lühima tee, on Dijkstra algoritm.
-- Väga populaarsed on ka näiteks A\* ja D\* algoritmid.
+- Väga populaarsed on ka näiteks A\* (A-star) ja D\* (D-star) algoritmid.
 @ulend
 
 ---?image=assets/image/dijkstra.png&size=auto 60%
