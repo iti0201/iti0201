@@ -33,6 +33,9 @@ Nädal |  | Tegevus
 ![ROS](https://player.vimeo.com/video/245826128)
 
 ---
+Robots using ROS: [https://robots.ros.org](https://robots.ros.org)
+
+---
 [ETH Zurich slaidid](http://www.rsl.ethz.ch/education-students/lectures/ros.html)
 
 ---
