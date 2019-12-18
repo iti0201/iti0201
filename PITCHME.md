@@ -30,6 +30,9 @@ Nädal |  | Tegevus
 ## ROS
 
 ---
+![ROS](https://player.vimeo.com/video/245826128)
+
+---
 [ETH Zurich slaidid](http://www.rsl.ethz.ch/education-students/lectures/ros.html)
 
 ---
