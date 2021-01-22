@@ -3,4 +3,4 @@
 ---
 
 ## Loengumaterjalid
-- [Korraldus](https://github.com/iti0201/iti0201/tree/intro)
+- [Korraldus](https://github.com/iti0201/iti0201/tree/2021/01-intro.md)
