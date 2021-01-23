@@ -297,3 +297,10 @@ Joonejärgija on sooritatud T4 pronks tasemele ja ühtegi OT ülesannet pole teh
 
 - Kolmapäeviti kell 10.00 MS Teamsis
 - Ainult etteteatamisega (e-mail gert.kanter@taltech.ee) hiljemalt eelmisel päeval
+
+---
+## Järgmised sammud
+
+- Installeerida VirtualBox tarkvara: https://www.virtualbox.org/wiki/Downloads
+- Enne järgmist praktikumi alla laadida VirtualBox virtuaalmasina kujutis: http://dijkstra.cs.ttu.ee/~Gert.Kanter/iti0201/
+- Praktikumis teeme läbi virtuaalmasina importimise, misjärel on võimalik alustada T3-T4 ülesannete lahendamisega.
