@@ -27,6 +27,13 @@
 ## Korraldus
 
 ---
+## Moodle
+
+- Moodle aine "ITI0201 Robotite Programmeerimine (2021)"
+- Moodle link: https://moodle.taltech.ee/course/view.php?id=30652
+  - Enrol key: sleep(0.05)
+
+---
 ## Tunnid
 
 - Loeng - paaritutel nädalatel (kokku 8)
