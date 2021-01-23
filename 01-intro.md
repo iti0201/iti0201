@@ -114,6 +114,14 @@ Aine sisu on jagatud skoobi alusel neljaks rajaks.
 - T2-T4 ülesanded on plaanitud lahendamiseks kaheliikmeliste tiimidena.
 
 ---
+## Tiimid
+
+- Tiimid moodustate ise.
+- Iga tiim peab olema erineva tiimikaaslasega.
+  - Rohkem erinevat tiimitöökogemust ja uute inimestega koostööd.
+- Iga suur ülesanne lahendatakse erineva tiimiga (4 tiimi semestri jooksul).
+
+---
 ## T1 (Track 1)
 
 - Moodle quiz-id.
@@ -280,7 +288,7 @@ Joonejärgija on sooritatud T4 pronks tasemele ja ühtegi OT ülesannet pole teh
 ---
 ## Praktikumid
 
-- Kõige tähtsam on saada individuaalset tagasisidet!
+- Väga tähtis on saada individuaalset tagasisidet!
 - Olge aktiivsed ja küsige!
 
 ---
@@ -289,14 +297,14 @@ Joonejärgija on sooritatud T4 pronks tasemele ja ühtegi OT ülesannet pole teh
 - Küsige oma koodi kohta tagasisidet ja nõu ning saate punkte!
 - Iga T3-T4 ülesande iga taseme kohta saab küsida tagasisidet ja saada iga taseme kohta 2 punkti.
 - Tagasiside eesmärk on koodi paremaks tegemine ja/või nõu küsimine!
-- Tagasiside saab küsida ENNE kaitsmist (mitte samal päeval)
+- Tagasisidet saab küsida ENNE kaitsmist (mitte samal päeval)
 - Tahame, et kood oleks kaitsmisel võimalikult hea nii funktsionaalsuse kui ka efektiivsuse mõttes!
 
 ---
 ## Konsultatsioon
 
-- Kolmapäeviti kell 10.00 MS Teamsis
-- Ainult etteteatamisega (e-mail gert.kanter@taltech.ee) hiljemalt eelmisel päeval
+- Kolmapäeviti kell 10.00 MS Teamsis.
+- Ainult etteteatamisega (e-mail gert.kanter@taltech.ee) hiljemalt eelmisel päeval.
 
 ---
 ## Järgmised sammud
