@@ -14,7 +14,7 @@
 - Teadustegevuse põhirõhk peamiselt
   - robootika tarkvaraga seonduvatel teemadel
   - robotite tarkvara testimisel
-- Tegev mitmes robootika startupis
+- Mitmed robootika startupid (autonoomsed liikurrobotid)
 
 ---
 ## Aine filosoofia
