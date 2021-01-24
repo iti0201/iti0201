@@ -314,8 +314,32 @@ Joonejärgija on sooritatud T4 pronks tasemele ja ühtegi OT ülesannet pole teh
 - Ainult etteteatamisega (e-mail gert.kanter@taltech.ee) hiljemalt eelmisel päeval.
 
 ---
+## Õpik
+
+Open Access raamat "<a href="https://link.springer.com/book/10.1007/978-3-319-62533-1">Elements of Robotics</a>"
+
+<img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-62533-1">
+
+---
 ## Järgmised sammud
 
 - Installeerida VirtualBox tarkvara: https://www.virtualbox.org/wiki/Downloads
 - Enne järgmist praktikumi alla laadida VirtualBox virtuaalmasina kujutis: http://dijkstra.cs.ttu.ee/~Gert.Kanter/iti0201/
 - Praktikumis teeme läbi virtuaalmasina importimise, misjärel on võimalik alustada T3-T4 ülesannete lahendamisega.
+
+---
+## Käesolev nädal
+
+- T1: Töötage indiviuaalselt läbi T1 materjal ja sooritage quizid
+- Valige tiimikaaslane joonejärgija (L) ülesande jaoks
+- T2: Lahendage OT01 ja OT02 koos tiimikaaslasega
+- T3-T4: See nädal ei ole, praktikumides seadistame simulatsioonikeskkonda
+
+---
+## Järgmine nädal
+
+- Paaris nädalatel loengut ei ole
+- Praktikumides Joonejärgija (L) ülesanne
+- T1: jälle, töötage läbi materjal ja tehke quiz
+- T2: Lahendage OT03 ja OT04 tiimikaaslasega
+- T3-T4: Joonejärgija (L) ülesanne koos tiimikaaslasega
