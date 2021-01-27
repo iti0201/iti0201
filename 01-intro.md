@@ -343,3 +343,10 @@ Open Access raamat "<a href="https://link.springer.com/book/10.1007/978-3-319-62
 - T1: jälle, töötage läbi materjal ja tehke quiz
 - T2: Lahendage OT03 ja OT04 tiimikaaslasega
 - T3-T4: Joonejärgija (L) ülesanne koos tiimikaaslasega
+
+---
+## Abiõppejõud
+
+- E: Lisanne Siniväli, Kristjan Kõiv, Timo Loomets
+- K: Robert Altmäe, Tavo Annus, Kristjan Kõiv
+- R: Robert Altmäe, Kristjan Kõiv, Timo Loomets
