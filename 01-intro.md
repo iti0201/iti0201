@@ -30,8 +30,8 @@
 ## Moodle
 
 - Moodle aine "ITI0201 Robotite Programmeerimine (2021)"
-- Moodle link: https://moodle.taltech.ee/course/view.php?id=30652
-  - Enrol key: sleep(0.05)
+- Moodle link: https://moodle.taltech.ee/course/view.php?id=31810
+  - Enrol key: SPA
 
 ---
 ## Tunnid
@@ -71,23 +71,23 @@ Punktisüsteem + pingereasüsteem
 ---
 ## Lõpphinne
 
-Lõpphindeks on mõlema süsteemi kõrgem hinne
+Lõpphindeks on mõlema süsteemi kõrgem hinne.
 
 ---
 ## Näide
 
-Punkte 650 (punktisüsteemi järgi oleks hinne 2)
+Punkte 650 (punktisüsteemi järgi oleks hinne 2).
 
-Pingereas top 40% miinimumnõuete täitjate hulgas (hinne 3)
+Pingereas top 40% miinimumnõuete täitjate hulgas (hinne 3).
 
 Lõpphinne: 3 (hea)
 
 ---
 ## Näide 2
 
-Punkte 650 (punktisüsteemi järgi oleks hinne 2)
+Punkte 650 (punktisüsteemi järgi oleks hinne 2).
 
-Pingereas top 60% (hinne 2)
+Pingereas top 60% (hinne 2).
 
 Lõpphinne: 2 (rahuldav)
 
@@ -95,6 +95,7 @@ Lõpphinne: 2 (rahuldav)
 ## Miinimumnõuded
 
 - Kõik T3-T4 ülesanded vaja lahendada miinimumtasemel (pronks).
+- Kõikide ülesannete peale sfääride (S) pronkstase tuleb lahendada päris robotiga.
 - Koguda vähemalt 501 punkti.
 
 ---
@@ -143,13 +144,14 @@ Aine sisu on jagatud skoobi alusel neljaks rajaks.
 ---
 ## T3 (Track 3)
 
-- Simulatsioonipõhine robotite programmeerimine.
+- Simulatsioonipõhine ideaalsete müravabade robotite programmeerimine.
 - Kokku ca 55% punktidest
 
 ---
 ## T4 (Track 4)
 
-- Mitteideaalsete robotite programmeerimine (realistlikus simulatsioonus või päris elus)
+- Mitteideaalsete robotite programmeerimine (realistlikus simulatsioonis või päris elus)
+- Päris robotiga lahendamisel kahekordsed punktid!
 - Kokku ca 15% punktidest
 
 ---
@@ -166,13 +168,14 @@ Kokku: 105 + 210 + 560 + 150 + 28 = 1053 punkti
 ---
 ## T4
 
-- T4 päris elus lahendamine sõltub COVID-ist - suure tõenäosusega see semester on kõik virtuaalne.
+- T4 päris elus lahendamine sõltub COVID piirangutest.
 - T4 päris elus on oluliselt raskem kui "realistlikum" simulatsioon.
 
 ---
-## Miks T4 nii vähe punkte annab?
+## Miks T4 nii vähe punkte annab kui nii raske on?
 
 - Laboriaeg on piiratud praktikumi aegadega, mistõttu ei saa EAP-de arvestuses T4 suurema osakaaluga hästi olla.
+- Aine on disainitud informaatikutele, mistõttu on põhirõhk ülesannete lahenduste programmeerimisel ja vähem robootika riistvara probleemidega toimetulekul.
 
 `$$ {{((1.5+3)/2) \times 16}\over{6 \times 26}} = 0.2308 \approx 23\% $$`
 - Laboriaeg on ühtlasi mõeldud ka kaitsmiseks, mistõttu katsetamiseks jääb veel vähem aega.
@@ -276,7 +279,7 @@ T1 -> T2 -> T3 -> T4
 ---
 ## Kaitsmise näide
 
-Objektid on sooritatud T4 kuld tasemele.
+Objektide ülesanne on sooritatud T4 kuld tasemele.
 
 - Kaitstakse T4 kuld
 - Kaitstakse T4 hõbe
@@ -305,13 +308,7 @@ Joonejärgija on sooritatud T4 pronks tasemele ja ühtegi OT ülesannet pole teh
 - Iga T3-T4 ülesande iga taseme kohta saab küsida tagasisidet ja saada iga taseme kohta 2 punkti.
 - Tagasiside eesmärk on koodi paremaks tegemine ja/või nõu küsimine!
 - Tagasisidet saab küsida ENNE kaitsmist (mitte samal päeval)
-- Tahame, et kood oleks kaitsmisel võimalikult hea nii funktsionaalsuse kui ka efektiivsuse mõttes!
-
----
-## Konsultatsioon
-
-- Kolmapäeviti kell 10.00 MS Teamsis.
-- Ainult etteteatamisega (e-mail gert.kanter@taltech.ee) hiljemalt eelmisel päeval.
+- Tahame, et kood oleks kaitsmisel võimalikult hea nii efektiivsuse kui ka loogilisuse mõttes!
 
 ---
 ## Õpik
@@ -347,6 +344,6 @@ Open Access raamat "<a href="https://link.springer.com/book/10.1007/978-3-319-62
 ---
 ## Abiõppejõud
 
-- E: Lisanne Siniväli, Kristjan Kõiv, Timo Loomets
-- K: Robert Altmäe, Tavo Annus, Kristjan Kõiv
-- R: Robert Altmäe, Kristjan Kõiv, Timo Loomets
+- K: Jan Kokla, Karl Mihkel Seenmaa, Peeter Maran
+- N: Anton Osvald Kuusk, Karl Mihkel Seenmaa, Timo Loomets
+- R: Anton Osvald Kuusk, Jan Kokla, Peeter Maran
