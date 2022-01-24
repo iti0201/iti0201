@@ -159,23 +159,27 @@ Aine sisu on jagatud skoobi alusel neljaks rajaks.
 
 - T1 = 10% (15 * 7  punti = 105 punkti)
 - T2 = 20% (18 ülesannet, kokku ca 210 punkti)
-- T3 = 55% (põhirõhk, kokku ca 560 punkti)
+- T3 = 55% (põhirõhk, kokku ca 590 punkti)
 - T4 = 15% (T3 lisadega, kokku ca 150 punkti)
-- Tagasiside (kokku max 14 * 2 = 28 punkti)
+- Tagasiside + refleksioon (kokku max 14 * 2 + 18 = 46 punkti)
 
-Kokku: 105 + 210 + 560 + 150 + 28 = 1053 punkti
+Kokku: 105 + 210 + 590 + 150 + 46 = 1111 punkti
 
 ---
 ## T4
 
 - T4 päris elus lahendamine sõltub COVID piirangutest.
-- T4 päris elus on oluliselt raskem kui "realistlikum" simulatsioon.
+- T4 päris elus on oluliselt raskem kui ka "realistlikum" simulatsioon.
 
 ---
 ## Miks T4 nii vähe punkte annab kui nii raske on?
 
 - Laboriaeg on piiratud praktikumi aegadega, mistõttu ei saa EAP-de arvestuses T4 suurema osakaaluga hästi olla.
 - Aine on disainitud informaatikutele, mistõttu on põhirõhk ülesannete lahenduste programmeerimisel ja vähem robootika riistvara probleemidega toimetulekul.
+- Kui ülesanne on T3 tasemel juba korrektsete võtetega lahendatud, siis T4 lahendamine pole nii ajamahukas (simulatsioonis).
+
+---
+## T4
 
 `$$ {{((1.5+3)/2) \times 16}\over{6 \times 26}} = 0.2308 \approx 23\% $$`
 - Laboriaeg on ühtlasi mõeldud ka kaitsmiseks, mistõttu katsetamiseks jääb veel vähem aega.
@@ -347,3 +351,52 @@ Open Access raamat "<a href="https://link.springer.com/book/10.1007/978-3-319-62
 - K: Jan Kokla, Karl Mihkel Seenmaa, Peeter Maran
 - N: Anton Osvald Kuusk, Karl Mihkel Seenmaa, Timo Loomets
 - R: Anton Osvald Kuusk, Jan Kokla, Peeter Maran
+
+---
+## Soovitused eelmise aasta tudengitelt...
+---
+- "Tee kõik ära nii vare, kui võimalik. Tehke märke koodis tiimikaaslasele ja tuleviku endale."
+- "Tugevaid närve ja töoseid reedeõhtuid!"
+---
+- "Don't be like me, don't put it aside if you are stuggling with robotics, It won't become easier with time, only harder, ask mentors for help ASAP if you have already spend more than 5-10 hours trying to cope with exercise and still can't, ask for help, mentors, other students, it's ok not to understand something, teachers are there for it, take every inch of information from them that you can use! Don't be shy to ask for a partner, dealing with robots in group probabbly would be much more fun than doing it solo, doing it solo is really tough and if you are struggling for too long, you will lose passion and give up, don't copy my mistake!!!!!!!"
+---
+- "Tuleks küsida abi kui ülesannet lahendada ei oska. Proovida leida tiimikaaslane, kellel on samad eesmärgid. Kindlasti ei tohiks jätta asju viimasele hetkele. See käib kõige kohta: tiimikaaslase leidmise, ülesannete lahendamise ja kaitsmise kohta"
+---
+- "Tahan öelda, et jah, see aine on raske ja väga ajakulukas, aga töötate omal tempol ja kõik tuleb välja."
+- "Olge valmis selleks, et midagi ei tööta ja te ei saa üldse aru miks. Samuti, kui ülesannete arv ja aine maht jääb samaks, good luck :D"
+---
+- "Ära jäta asju viimasele minutile:)"
+- "Lihtsalt tehke asjad kohe ära ning teamwork teeb elu kordades lihtsamaks."
+---
+- "Soovitaksin vaadata Gerdi loenguid, mis annavad väga palju selgust ainele ning alati probleemide esinemisel kirjutada, kuna Gert vastab väga kiiresti ja kenasti. Kui edasistel tudengitel tuleb samasugune väga raske semester, siis kindlasti püsida rahulik ja üritada keskenduda kõikidele ainetele, mis käsil."
+---
+- "Soovitaks uskuda ennasse, ja ei anna alla, kui midagi läheb halvasti. Samuti, kui juba tuhat korda räägitakse, ei tasu viimasele hetkele jätta!"
+- "Tulevastele tudengitele soovitan kindlasti otsida endale hea paariline ja hakata varakult ainet uurima ja ülesandeid lahendama."
+---
+- "Tulevastele tudengitele sooviksin kõigepealt edu. Kindlasti ei tohi ainet alahinnata ja arvata, et saab niisama aine läbi teha. Kui sellise suhtumisega peale lennata siis võib juhtuda, et järsku on paljud asjad tegemata. Samuti tuleb endale selgeks teha, et tiimikaaslasega koos töötades saab enda elu lihtsamaks teha ja üksi pingutades on kordades raskem. Tuleb ka vaadata, et quizid saaksid õigel ajal tehtud, sest nende eest saab korralikult punkte, mida võib lõpus vaja minna."
+---
+- "Ilmselt kõige kasulikum asi, et siin aines hakkama saada või toime tulla on hea PID. Soovitan soojalt uutel tudengitel panna sellele rõhku alla, kuna see teeb lahendamist kõvasti lihtsamaks, samuti sinu kood või lahendus võib olla lihtsam, kuna sinu robot suudab pädevalt ilma müra probleemideta navigeeruda. Samuti see on selline asi, mida saab alati kasutada, ehk teha juba esimeste ülesannete puhul PID valmis, üle aja seda täiendada, ning rakendada kõigi ülesannete puhul."
+---
+- "Alustage kindlasti aegsasti oma ülesannetega, mitte ärge tehke seda viimasel päeval. Ärge andke alla, kui olete kuhugi kinni jäänud, siis Discordis on alati abivalmis õppejõud, kes teid meelsasti aitavad vajadusel."
+---
+- "Minu suurim soovitus oleks, et leida endale tiimikaaslane, kellega sa suhtled tihti ja keda sa usaldad. Koos on kergem teha, eriti siis kui suhtlete omavahel. Näiteks selle aine teisel poolel, mul ei olnud tiimikaaslast kellega oli võimalik suhelda ja see koormas mind nii palju, et veel praeguseni pingutan ja loodan, et suudan selle aine läbida, samal ajal õppides teiste ainete eksamiteks."
+---
+- "OT ülesannete juures, kui millestki ei saa aru, siis pigem küsi discordis - vahepeal on veits infot puudu ülesande juures mida võibolla eeldatakse, et õpilased teavad/järgivad."
+---
+- "Proovige teha vähemalt hõbedani kõik ülesanded ära ja arvatavasti saate hoo sisse ja teete kulla ka ära."
+- "Tiimitöö (vähemalt minu kogemuse põhjal) töötab kõige paremini kui teha koos samal ajal tööd, näiteks me leidsime, et kõige parem on teha nii, et üks inimene kirjutab koodi ja jagab ekraani, teine jälgib tööd ja mõtleb kaasa, nii saab väga hästi mõtteid jagada ja tuleb sisse palju vähem näpuvigasid, sest kaks inimest jälgivad korraga koodi."
+---
+- "Soovitaksin neil mõelda läbi, et millised inimesed on neile esimese semestriga jätnud hea mulje just töökuse osas või küsida seda teiste käest. Lisaks hea ajaplaneerimine tuleb väga kasuks ja tasub suhelda oma paarilisega, et millist tulemust soovite, kuidas ja millal teha jne. Koostöö sõpradega, küsida õppejõududelt abi, anda märku, kui on raske. Üritada mitte maha jääda, aga samas ei juhtu ka midagi, kui ikkagi see juhtub. Mõistlik oleks pidevalt natuke ainega tegeleda, kui et lühikese aja jooksul intensiivselt."
+---
+- "Kõige tähtsam on kohe esimesest päevast alates pingutama, proovima ja kaasa mõtlema hakata, sest nii üldkokkuvõttes hoiab aega tunduvalt rohkem kokku kui kuskil hiljem semestri jooksul alustamine (isegi kui sihitakse ainult hinnet „1“, siis pigem saada see varem kui hiljem kätte), sest siis on töö oskuste puudumise tõttu väga ebaefektiivne. Ka tiimikaaslase valimine peaks olema niiöelda hästi läbi mõeldud ja tähtis protsess, sest hea tiimikaaslane on õnnistus, halb pigem koormaks"
+---
+- "Aega tasub varuda piisavalt, läbi lugeda vähemalt kohustuslikud õppematerjalid ja ülesandeid tuleks hakata kohe semestri algusest peale lahendama. Kindlasti tasub kõik OT ülesanded ära teha - need aitavad simulatsiooni ülesannete lahendamisel."
+- "Hakka ainega tegelema kohe ja tegele sellega iga päevaselt kasvõi mõned tunnid päevas"
+- "Programmeeri koos tiimikaaslasega, ärge tehke eraldi, töödake ühe koodi kallal."
+---
+- "Tehke endale väga hea PID kontroller."
+- "Kõige olulisem on pidevalt, igapäevaselt ainesse panustada. Ainult nii on see aine nauditav. Lisaks tuleb olla väga avatud suhtumisega meeskonnatööle. Inimestel on paratamatult varasemast väga negatiivsed kogemused seoses meeskonnatööga ja see kandub üle ka sellesse ainesse ning ka koostöösse endasse. Tuleb hoida optimismi ja olla avatud."
+---
+- "Alustage kohe aktiivselt ülesannete lahendamisega, sest ülesanded on mahukad ning ühe päevaga neid ära ei tee. Planeerige oma aega, et kõik ülesanded saaks sooritatud. Küsige julgelt abi, kui ei oska ülesannet lahendada või on mingi muu probleem. Valige hoolikalt endale tiimikaaslane, kellega teil oleksid ühised eesmärgid, et koostöö oleks sujuv. Suhelge aktiivselt oma tiimikaaslasega. Vaadake kindlati OT videoid, sest antud videotest on palju infot, mida teil läheb aine sujuvamaks läbimiseks vaja."
+---
+- "Jälgige oama meile ja Discordi. Discordi on kasulik jälgida, sest vahest võib olla ka kellegil teiselt sarnane küsimus sinuga ja temale antud vastust lugedes saada sa ka oma probleemi lahendada. Mõistlik oleks kohe semestri algusest teha endale plaan valmis, et milliseid ülesandeid tahad teha ja kui palju punkte koguda, siis on kergem ainet läbida. Ainel on ka ajakava, mida jälgides saab kindlasti kõik tehtud (iga nädal on uus OT, mida võiks sellel nädalal teha ja uus tase)."
