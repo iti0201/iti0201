@@ -2,6 +2,11 @@
 ## Robotite Programmeerimine
 
 ---
+## Intro video
+
+[Tutvustusvideo](https://www.youtube.com/watch?v=POhN4tqGQGM)
+
+---
 ## Miks?
 
 - Robootika on väga kiirelt arenev valdkond - robotid on tulevik, aga ka juba olevik!
