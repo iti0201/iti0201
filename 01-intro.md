@@ -10,7 +10,7 @@
 ## Virtuaalmasin
 
 Tõmmake alla .ova fail
-[http://dijkstra.cs.ttu.ee/~Gert.Kanter/iti0201](http://dijkstra.cs.ttu.ee/~Gert.Kanter/iti0201)
+[http://turing.cs.ttu.ee/~gert.kanter/iti0201](http://turing.cs.ttu.ee/~gert.kanter/iti0201)
 ---
 ## Miks?
 
