@@ -7,6 +7,11 @@
 [Tutvustusvideo](https://www.youtube.com/watch?v=POhN4tqGQGM)
 
 ---
+## Virtuaalmasin
+
+Tõmmake alla .ova fail
+[http://dijkstra.cs.ttu.ee/~Gert.Kanter/iti0201](http://dijkstra.cs.ttu.ee/~Gert.Kanter/iti0201)
+---
 ## Miks?
 
 - Robootika on väga kiirelt arenev valdkond - robotid on tulevik, aga ka juba olevik!
@@ -15,11 +20,11 @@
 ---
 ## Kes?
 
-- lektor Dr. Gert Kanter, arvutiteaduse doktor
+- vanemlektor Dr. Gert Kanter, arvutiteaduse doktor
 - Teadustegevuse põhirõhk peamiselt
   - robootika tarkvaraga seonduvatel teemadel
   - robotite tarkvara testimisel
-- Mitmed robootika startupid (autonoomsed liikurrobotid)
+- Robootika startupindus (autonoomsed liikurrobotid)
 
 ---
 ## Aine filosoofia
@@ -34,9 +39,9 @@
 ---
 ## Moodle
 
-- Moodle aine "ITI0201 Robotite Programmeerimine (2021)"
-- Moodle link: https://moodle.taltech.ee/course/view.php?id=31810
-  - Enrol key: SPA
+- Moodle aine "ITI0201 Robotite Programmeerimine (2023)"
+- Moodle link: https://moodle.taltech.ee/course/view.php?id=32593
+  - Enrol key: robot2023
 
 ---
 ## Tunnid
@@ -45,63 +50,6 @@
 - Praktikumid
   - paaritutel 1.5h (8 * 1.5h)
   - paaris (1.5h + 1.5h) = 3h (8 * 3h)
-
----
-## Hindamine
-
-Punktisüsteem + pingereasüsteem
-
----
-## Punktisüsteem
-
-1000+ punkti
-
-- “5” suurepärane,  90.1%+ (901 ja enam punkti)
-- “4” väga hea,  80.1% - 90.0% (801 - 900 punkti)
-- “3” hea,  70.1% - 80.0% (701 - 800 punkti)
-- “2” rahuldav,  60.1% - 70.0% (601 - 700 punkti)
-- “1” kasin,  50.1% - 60.0% (501 - 600 punkti)
-- “0” puudulik,  vähem kui 50.1% (alla 501 punkti)
-
----
-## Pingereasüsteem
-
-- “5” suurepärane, esimesed 5% (top 5%)
-- “4” väga hea, järgmised 25% (5.01%..30%)
-- “3” hea, järgmised 35% (30.01%..65%)
-- “2” rahuldav, järgmised 25% (65.01%..90%)
-- “1” kasin, järgmised 10% (90.01%..100%)
-- “0” puudulik, kui ei ole täidetud miinimumnõuded
-
----
-## Lõpphinne
-
-Lõpphindeks on mõlema süsteemi kõrgem hinne.
-
----
-## Näide
-
-Punkte 650 (punktisüsteemi järgi oleks hinne 2).
-
-Pingereas top 40% miinimumnõuete täitjate hulgas (hinne 3).
-
-Lõpphinne: 3 (hea)
-
----
-## Näide 2
-
-Punkte 650 (punktisüsteemi järgi oleks hinne 2).
-
-Pingereas top 60% (hinne 2).
-
-Lõpphinne: 2 (rahuldav)
-
----
-## Miinimumnõuded
-
-- Kõik T3-T4 ülesanded vaja lahendada miinimumtasemel (pronks).
-- Kõikide ülesannete peale sfääride (S) pronkstase tuleb lahendada päris robotiga.
-- Koguda vähemalt 501 punkti.
 
 ---
 ## Korraldus
@@ -143,8 +91,8 @@ Aine sisu on jagatud skoobi alusel neljaks rajaks.
 ---
 ## T2 (Track 2)
 
-- OT01..OT18 (Optional Task) automaattestidega ülesanded.
-- Kokku ca 20% punktidest
+- EX01..EX17 automaattestidega ülesanded.
+- Kokku ca 25% punktidest
 
 ---
 ## T3 (Track 3)
@@ -156,25 +104,23 @@ Aine sisu on jagatud skoobi alusel neljaks rajaks.
 ## T4 (Track 4)
 
 - Mitteideaalsete robotite programmeerimine (realistlikus simulatsioonis või päris elus)
-- Päris robotiga lahendamisel kahekordsed punktid!
-- Kokku ca 15% punktidest
+- Kokku ca 10% punktidest
 
 ---
 ## Rajad
 
-- T1 = 10% (15 * 7  punti = 105 punkti)
-- T2 = 20% (18 ülesannet, kokku ca 210 punkti)
-- T3 = 55% (põhirõhk, kokku ca 590 punkti)
-- T4 = 15% (T3 lisadega, kokku ca 150 punkti)
-- Tagasiside + refleksioon (kokku max 14 * 2 + 18 = 46 punkti)
+- T1 = 10.5% (15 * 7  punti = 105 punkti)
+- T2 = 23.5% (18 ülesannet, kokku 235 punkti)
+- T3 = 56% (põhirõhk, kokku 560 punkti)
+- T4 = 10% (T3 lisadega, kokku 100 punkti)
+- Tagasiside + refleksioon (kokku max 15 * 2 + 9 = 39 punkti)
 
-Kokku: 105 + 210 + 590 + 150 + 46 = 1111 punkti
+Kokku: 105 + 235 + 560 + 100 + 39 = 1039 punkti
 
 ---
 ## T4
 
-- T4 päris elus lahendamine sõltub COVID piirangutest.
-- T4 päris elus on oluliselt raskem kui ka "realistlikum" simulatsioon.
+- T4 päris elus on tihtipeale raskem kui ka "realistlikum" simulatsioon.
 
 ---
 ## Miks T4 nii vähe punkte annab kui nii raske on?
@@ -194,10 +140,33 @@ Kokku: 105 + 210 + 590 + 150 + 46 = 1111 punkti
 
 T1 -> T2 -> T3 -> T4
 
-- T1 annab eelteadmisi
+- T1 annab eelteadmisi ja laiendab silmaringi
 - T2 aitab arendada vajalikud komponendid (T1 toetab T2)
 - T3 rakendab T2 komponente ülesande lahendamiseks
 - T4 lisatakse T3-le veel mürafiltrid jne
+
+---
+## Hindamine
+
+Traditsiooniline punktisüsteem
+
+---
+## Punktisüsteem
+
+1000+ punkti
+
+- “5” suurepärane,  90.1%+ (901 ja enam punkti)
+- “4” väga hea,  80.1% - 90.0% (801 - 900 punkti)
+- “3” hea,  70.1% - 80.0% (701 - 800 punkti)
+- “2” rahuldav,  60.1% - 70.0% (601 - 700 punkti)
+- “1” kasin,  50.1% - 60.0% (501 - 600 punkti)
+- “0” puudulik,  vähem kui 50.1% (alla 501 punkti)
+
+---
+## Miinimumnõuded
+
+- Joonejärgija ja Labürindi T3-T4 ülesanded vaja lahendada miinimumtasemel (pronks).
+- Koguda vähemalt 501 punkti.
 
 ---
 ## Robot PiBot
@@ -218,11 +187,9 @@ T1 -> T2 -> T3 -> T4
 ## T3-T4 ülesanded
 
 - Joonejärgija (L = Line follower)
-  - 2 nädalat
-- Objektid (O = objects)
   - 3 nädalat
-- Sfäärid (S = spheres)
-  - 4 nädalat
+- Objektid (O = objects) / Sfäärid (S = spheres)
+  - 6 nädalat
 - Labürint (M = maze)
   - 5+1 nädalat
 
@@ -245,10 +212,10 @@ T1 -> T2 -> T3 -> T4
 - Hõbe
   - Robot peab kahe objektiga koos moodustama võrdkülgse kolmnurga, olles ise kolmas tipp.
 - Kuld
-  - Robot peab kolme objektiga koos moodustama ristküliu, olles ise neljas nurk.
+  - Robot peab kolme objektiga koos moodustama ristküliku, olles ise neljas nurk.
 
 ---
-## Sfäärid / pallid (1/2)
+## Sfäärid / pallid
 
 - Pronks
   - Robot peab sõitma kahe palli vahel oleva joone keskkohta
@@ -256,12 +223,6 @@ T1 -> T2 -> T3 -> T4
   - Robot peab sõitma slaalomit punastest ja sinistest pallidest väravatega rajal.
 - Kuld
   - Robot peab trügima sama värvi pallid kokku ühte gruppi.
-
----
-## Sfäärid / pallid (2/2)
-
-- Eliit
-  - Robot peab trügima pallid väljaku keskele malelauamustrisse.
 
 ---
 ## Labürint (1/2)
@@ -282,42 +243,13 @@ T1 -> T2 -> T3 -> T4
 ## Kaitsmine
 
 - T2-T4 ülesandeid peab kaitsma. 
-- Kaitstakse tiimiga ühiselt.
-- Kaitstakse terve ülesanne korraga + selle juurde kuuluvad T2 ülesanded.
-
----
-## Kaitsmise näide
-
-Objektide ülesanne on sooritatud T4 kuld tasemele.
-
-- Kaitstakse T4 kuld
-- Kaitstakse T4 hõbe
-- Kaitstakse T4 pronks
-- Kaitstakse T3 (kuld, hõbe, pronks)
-- Kaitstakse OT05..OT08
-
----
-## Kaitsmise näide 2
-
-Joonejärgija on sooritatud T4 pronks tasemele ja ühtegi OT ülesannet pole tehtud.
-
-- Kaitstakse T4 pronks
-- Kaitstakse T3 pronks
+- Kaitstakse tiimiga ühiselt (kaitsmisel peavad mõlemad tiimiliikmed kohal olema).
 
 ---
 ## Praktikumid
 
 - Väga tähtis on saada individuaalset tagasisidet!
 - Olge aktiivsed ja küsige!
-
----
-## Code feedback
-
-- Küsige oma koodi kohta tagasisidet ja nõu ning saate punkte!
-- Iga T3-T4 ülesande iga taseme kohta saab küsida tagasisidet ja saada iga taseme kohta 2 punkti.
-- Tagasiside eesmärk on koodi paremaks tegemine ja/või nõu küsimine!
-- Tagasisidet saab küsida ENNE kaitsmist (mitte samal päeval)
-- Tahame, et kood oleks kaitsmisel võimalikult hea nii efektiivsuse kui ka loogilisuse mõttes!
 
 ---
 ## Õpik
@@ -330,7 +262,7 @@ Open Access raamat "<a href="https://link.springer.com/book/10.1007/978-3-319-62
 ## Järgmised sammud
 
 - Installeerida VirtualBox tarkvara: https://www.virtualbox.org/wiki/Downloads
-- Enne järgmist praktikumi alla laadida VirtualBox virtuaalmasina kujutis: http://dijkstra.cs.ttu.ee/~Gert.Kanter/iti0201/
+- Enne järgmist praktikumi alla laadida VirtualBox virtuaalmasina kujutis: http://turing.cs.ttu.ee/~gert.kanter/iti0201/
 - Praktikumis teeme läbi virtuaalmasina importimise, misjärel on võimalik alustada T3-T4 ülesannete lahendamisega.
 
 ---
@@ -338,7 +270,7 @@ Open Access raamat "<a href="https://link.springer.com/book/10.1007/978-3-319-62
 
 - T1: Töötage indiviuaalselt läbi T1 materjal ja sooritage quizid
 - Valige tiimikaaslane joonejärgija (L) ülesande jaoks
-- T2: Lahendage OT01 ja OT02 koos tiimikaaslasega
+- T2: Lahendage EX01 ja EX02 koos tiimikaaslasega
 - T3-T4: See nädal ei ole, praktikumides seadistame simulatsioonikeskkonda
 
 ---
@@ -347,18 +279,18 @@ Open Access raamat "<a href="https://link.springer.com/book/10.1007/978-3-319-62
 - Paaris nädalatel loengut ei ole
 - Praktikumides Joonejärgija (L) ülesanne
 - T1: jälle, töötage läbi materjal ja tehke quiz
-- T2: Lahendage OT03 ja OT04 tiimikaaslasega
+- T2: Lahendage EX03 ja EX04 tiimikaaslasega
 - T3-T4: Joonejärgija (L) ülesanne koos tiimikaaslasega
 
 ---
 ## Abiõppejõud
 
-- K: Jan Kokla, Karl Mihkel Seenmaa, Peeter Maran
-- N: Anton Osvald Kuusk, Karl Mihkel Seenmaa, Timo Loomets
-- R: Anton Osvald Kuusk, Jan Kokla, Peeter Maran
+- E: Anton Osvald Kuusk, Rainer Viirlaid, Anti Lilleaed
+- T: Anton Osvald Kuusk, Anti Lilleaed, Peeter Maran
+- N: Anton Osvald Kuusk, Peeter Maran, Karl Mihkel Seenmaa, Matvei Tarassov
 
 ---
-## Soovitused eelmise aasta tudengitelt...
+## Soovitused eelmistelt tudengitelt...
 ---
 - "Tee kõik ära nii vare, kui võimalik. Tehke märke koodis tiimikaaslasele ja tuleviku endale."
 - "Tugevaid närve ja töoseid reedeõhtuid!"
@@ -366,9 +298,6 @@ Open Access raamat "<a href="https://link.springer.com/book/10.1007/978-3-319-62
 - "Don't be like me, don't put it aside if you are stuggling with robotics, It won't become easier with time, only harder, ask mentors for help ASAP if you have already spend more than 5-10 hours trying to cope with exercise and still can't, ask for help, mentors, other students, it's ok not to understand something, teachers are there for it, take every inch of information from them that you can use! Don't be shy to ask for a partner, dealing with robots in group probabbly would be much more fun than doing it solo, doing it solo is really tough and if you are struggling for too long, you will lose passion and give up, don't copy my mistake!!!!!!!"
 ---
 - "Tuleks küsida abi kui ülesannet lahendada ei oska. Proovida leida tiimikaaslane, kellel on samad eesmärgid. Kindlasti ei tohiks jätta asju viimasele hetkele. See käib kõige kohta: tiimikaaslase leidmise, ülesannete lahendamise ja kaitsmise kohta"
----
-- "Tahan öelda, et jah, see aine on raske ja väga ajakulukas, aga töötate omal tempol ja kõik tuleb välja."
-- "Olge valmis selleks, et midagi ei tööta ja te ei saa üldse aru miks. Samuti, kui ülesannete arv ja aine maht jääb samaks, good luck :D"
 ---
 - "Ära jäta asju viimasele minutile:)"
 - "Lihtsalt tehke asjad kohe ära ning teamwork teeb elu kordades lihtsamaks."
