@@ -80,7 +80,7 @@ Aine sisu on jagatud skoobi alusel neljaks rajaks.
 - Tiimid moodustate ise.
 - Iga tiim peab olema erineva tiimikaaslasega.
   - Rohkem erinevat tiimitöökogemust ja uute inimestega koostööd.
-- Iga suur ülesanne lahendatakse erineva tiimiga (4 tiimi semestri jooksul).
+- Iga suur ülesanne lahendatakse erineva tiimiga (3 tiimi semestri jooksul).
 
 ---
 ## T1 (Track 1)
@@ -331,6 +331,6 @@ Open Access raamat "<a href="https://link.springer.com/book/10.1007/978-3-319-62
 - "Tehke endale väga hea PID kontroller."
 - "Kõige olulisem on pidevalt, igapäevaselt ainesse panustada. Ainult nii on see aine nauditav. Lisaks tuleb olla väga avatud suhtumisega meeskonnatööle. Inimestel on paratamatult varasemast väga negatiivsed kogemused seoses meeskonnatööga ja see kandub üle ka sellesse ainesse ning ka koostöösse endasse. Tuleb hoida optimismi ja olla avatud."
 ---
-- "Alustage kohe aktiivselt ülesannete lahendamisega, sest ülesanded on mahukad ning ühe päevaga neid ära ei tee. Planeerige oma aega, et kõik ülesanded saaks sooritatud. Küsige julgelt abi, kui ei oska ülesannet lahendada või on mingi muu probleem. Valige hoolikalt endale tiimikaaslane, kellega teil oleksid ühised eesmärgid, et koostöö oleks sujuv. Suhelge aktiivselt oma tiimikaaslasega. Vaadake kindlati OT videoid, sest antud videotest on palju infot, mida teil läheb aine sujuvamaks läbimiseks vaja."
+- "Alustage kohe aktiivselt ülesannete lahendamisega, sest ülesanded on mahukad ning ühe päevaga neid ära ei tee. Planeerige oma aega, et kõik ülesanded saaks sooritatud. Küsige julgelt abi, kui ei oska ülesannet lahendada või on mingi muu probleem. Valige hoolikalt endale tiimikaaslane, kellega teil oleksid ühised eesmärgid, et koostöö oleks sujuv. Suhelge aktiivselt oma tiimikaaslasega. Vaadake kindlati EX videoid, sest antud videotest on palju infot, mida teil läheb aine sujuvamaks läbimiseks vaja."
 ---
 - "Jälgige oama meile ja Discordi. Discordi on kasulik jälgida, sest vahest võib olla ka kellegil teiselt sarnane küsimus sinuga ja temale antud vastust lugedes saada sa ka oma probleemi lahendada. Mõistlik oleks kohe semestri algusest teha endale plaan valmis, et milliseid ülesandeid tahad teha ja kui palju punkte koguda, siis on kergem ainet läbida. Ainel on ka ajakava, mida jälgides saab kindlasti kõik tehtud (iga nädal on uus OT, mida võiks sellel nädalal teha ja uus tase)."
