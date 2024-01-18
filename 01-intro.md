@@ -7,11 +7,6 @@
 [Tutvustusvideo](https://www.youtube.com/watch?v=POhN4tqGQGM)
 
 ---
-## Virtuaalmasin
-
-Tõmmake alla .ova fail
-[http://turing.cs.ttu.ee/~gert.kanter/iti0201](http://turing.cs.ttu.ee/~gert.kanter/iti0201)
----
 ## Miks?
 
 - Robootika on väga kiirelt arenev valdkond - robotid on tulevik, aga ka juba olevik!
@@ -23,8 +18,8 @@ Tõmmake alla .ova fail
 - vanemlektor Dr. Gert Kanter, arvutiteaduse doktor
 - Teadustegevuse põhirõhk peamiselt
   - robootika tarkvaraga seonduvatel teemadel
-  - robotite tarkvara testimisel
-- Robootika startupindus (autonoomsed liikurrobotid)
+  - robotite tarkvara testimine
+  - robotite terviklik arendus (mehaanika, elektroonika, tarkvara)
 
 ---
 ## Aine filosoofia
@@ -39,9 +34,9 @@ Tõmmake alla .ova fail
 ---
 ## Moodle
 
-- Moodle aine "ITI0201 Robotite Programmeerimine (2023)"
-- Moodle link: https://moodle.taltech.ee/course/view.php?id=32593
-  - Enrol key: robot2023
+- Moodle aine "ITI0201 Robotite Programmeerimine (2024)"
+- Moodle link: https://moodle.taltech.ee/course/view.php?id=33218
+  - Enrol key: robot
 
 ---
 ## Tunnid
@@ -109,7 +104,7 @@ Aine sisu on jagatud skoobi alusel neljaks rajaks.
 ---
 ## Rajad
 
-- T1 = 10.5% (15 * 7  punti = 105 punkti)
+- T1 = 10.5% (15 * 7 punkti = 105 punkti)
 - T2 = 23.5% (18 ülesannet, kokku 235 punkti)
 - T3 = 56% (põhirõhk, kokku 560 punkti)
 - T4 = 10% (T3 lisadega, kokku 100 punkti)
@@ -281,13 +276,6 @@ Open Access raamat "<a href="https://link.springer.com/book/10.1007/978-3-319-62
 - T1: jälle, töötage läbi materjal ja tehke quiz
 - T2: Lahendage EX03 ja EX04 tiimikaaslasega
 - T3-T4: Joonejärgija (L) ülesanne koos tiimikaaslasega
-
----
-## Abiõppejõud
-
-- E: Anton Osvald Kuusk, Rainer Viirlaid, Anti Lilleaed
-- T: Anton Osvald Kuusk, Anti Lilleaed, Peeter Maran
-- N: Anton Osvald Kuusk, Peeter Maran, Karl Mihkel Seenmaa, Matvei Tarassov
 
 ---
 ## Soovitused eelmistelt tudengitelt...
