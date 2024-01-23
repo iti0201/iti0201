@@ -160,8 +160,11 @@ Traditsiooniline punktisüsteem
 ---
 ## Miinimumnõuded
 
-- Joonejärgija ja Labürindi T3-T4 ülesanded vaja lahendada miinimumtasemel (pronks).
 - Koguda vähemalt 501 punkti.
+- Joonejärgija ülesande peab lahendama pronkstasemel päris robotiga.
+- Labürint ülesanne:
+  - pronkstase päris robotiga VÕI
+  - pronks+hõbe+kuld T3 simulatsioonis (ideaalse robotiga)
 
 ---
 ## Robot PiBot
