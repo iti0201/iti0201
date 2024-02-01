@@ -259,10 +259,6 @@ Open Access raamat "<a href="https://link.springer.com/book/10.1007/978-3-319-62
 ---
 ## Järgmised sammud
 
-- Installeerida VirtualBox tarkvara: https://www.virtualbox.org/wiki/Downloads
-- Enne järgmist praktikumi alla laadida VirtualBox virtuaalmasina kujutis: http://turing.cs.ttu.ee/~gert.kanter/iti0201/
-- Praktikumis teeme läbi virtuaalmasina importimise, misjärel on võimalik alustada T3-T4 ülesannete lahendamisega.
-
 ---
 ## Käesolev nädal
 
