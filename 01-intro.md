@@ -105,7 +105,7 @@ Aine sisu on jagatud skoobi alusel neljaks rajaks.
 ## Rajad
 
 - T1 = 10.5% (15 * 7 punkti = 105 punkti)
-- T2 = 23.5% (18 ülesannet, kokku 235 punkti)
+- T2 = 23.5% (17 ülesannet, kokku 235 punkti)
 - T3 = 56% (põhirõhk, kokku 560 punkti)
 - T4 = 10% (T3 lisadega, kokku 100 punkti)
 - Tagasiside + refleksioon (kokku max 15 * 2 + 9 = 39 punkti)
