@@ -1,6 +1,3 @@
-# ITI0201 Robotite Programmeerimine
-
+# ITI0201 Robots Programming
 ---
-
-## Loengumaterjalid
-- [Korraldus](https://github.com/iti0201/iti0201/tree/2025/01-intro.md)
+[Course Introduction](https://github.com/iti0201/iti0201/tree/2025/01-intro.md)
