@@ -4,8 +4,8 @@
 ---
 ## Why this course?
 
-- Robotics is a very quickly evolving field that is growing very fast
-- The bottleneck in robotics is in software (not hardware)!
+- Robotics is a rapidly evolving field that is growing blazingly fast
+- The bottleneck in robotics is in software (not hardware)
 
 ---
 ## Who is the instructor?
@@ -15,7 +15,7 @@
 - Research mostly in the following areas 
   - robotics software (e.g., software engineering for robotics, algorithms)
   - autonomous robots software testing
-  - full-stack robot development (mechanics, electronics, software)
+  - full-stack robotics development
 
 ---
 ## Philosophy of the Course
@@ -62,14 +62,14 @@ The course content is divided into four **tracks** based on the study method and
   - Programming of non-ideal robots (realistic simulation or real-world robot).
 
 - **T4: Reflective Learning**
-  - Weekly reflection on personal study process.
+  - Weekly reflection on personal study process and feedback.
 
 ---
 
 ## Team-Based Learning
 
 - **T1-T3** tasks are designed to be solved in **teams of two**.
-- **T4** reflection tasks are individual.
+- **T4** reflection and feedback tasks are individual.
 
 ---
 
@@ -218,7 +218,7 @@ A **traditional point-based system**.
 
 ## Task Defense
 
-- T2–T4 tasks must be presented and defended in teams.
+- T1–T3 tasks must be presented and defended in teams.
 - Both team members must be present.
 
 ---
