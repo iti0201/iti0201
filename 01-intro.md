@@ -2,6 +2,9 @@
 ## Robots Programming (EuroTeQ Catalog Course)
 
 ---
+## Tweedback
+
+---
 ## Why this course?
 
 - Robotics is a rapidly evolving field that is growing blazingly fast
@@ -109,6 +112,7 @@ The course content is divided into four **tracks** based on the study method and
 - The goal is to help you identify problems and improve your personal and overall learning process.
 - Also serves as a feedback system for the teaching team.
 - As an extra incentive, every reflection awards 1 point (0.1% of total points, 1.6% for 16 weeks).
+- Teammate feedback for each major task for improving teamwork.
 - One overall course reflection at the end of the semester.
 
 ---
@@ -118,7 +122,7 @@ The course content is divided into four **tracks** based on the study method and
 - **T1**: 22.9% (10 tasks, total 235 points).
 - **T2**: 56.6% (main focus, total 580 points).
 - **T3**: 18.1% (extensions to T3, total 185 points).
-- **T4**: 2.4% (16 tasks × 1 points + 9 points = 24 points).
+- **T4**: 2.4% (16 tasks × 1 points + 3 x 2 points + 3 points = 24 points).
 - Feedback + reflection: maximum 15 × 2 + 9 = 39 points.
 
 **Total**: 24 + 235 + 580 + 185 = **1024 points**.
