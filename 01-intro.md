@@ -4,6 +4,9 @@
 ---
 ## Tweedback
 
+### https://tweedback.de/ujcx
+![https://tweedback.de/ujcx](https://github.com/iti0201/iti0201/blob/2025/assets/qrcode.png?raw=true)
+
 ---
 ## Why this course?
 
@@ -19,6 +22,7 @@
   - robotics software (e.g., software engineering for robotics, algorithms)
   - autonomous robots software testing
   - full-stack robotics development
+- Currently working on humanoid robots
 
 ---
 ## Philosophy of the Course
@@ -40,7 +44,7 @@
 ---
 ## Schedule
 
-- Lecture
+- Lecture (consultation sessions)
   - Odd-numbered weeks (8 sessions total)
 - Labs
   - Odd-numbered weeks 1.5h (8 * 1.5h)
@@ -55,13 +59,13 @@ The course content is divided into four **tracks** based on the study method and
 
 ## Tracks
 
-- **T1: Active Learning**
+- **T1: Active Learning + Teamwork Training**
   - Focused exercises with automated tests.
 
-- **T2: Active Learning**
+- **T2: Active Learning + Teamwork Training**
   - Simulation-based programming of ideal noise-free robots.
 
-- **T3: Active Learning**
+- **T3: Active Learning + Teamwork Training**
   - Programming of non-ideal robots (realistic simulation or real-world robot).
 
 - **T4: Reflective Learning**
@@ -82,6 +86,8 @@ The course content is divided into four **tracks** based on the study method and
 - Each team should have **different teammates** for every major task (i.e., shapes, colors, and maze).
   - Promotes diverse teamwork experience and collaboration with new people.
   - 3 teams over the semester.
+- After finishing the major task, teammates will evaluated and given feedback by their partners.
+  - Feedback makes it possible to improve.
 
 ---
 
@@ -183,7 +189,7 @@ A **traditional point-based system**.
 
 ## TurtleBot4 Robot
 
-![TurtleBot4](https://github.com/iti0201/iti0201/blob/lecture-01/assets/image/turtlebot.jpg?raw=true)
+![TurtleBot4 Lab](https://github.com/iti0201/iti0201/blob/2025/assets/turtlebot_lab.jpg?raw=true)
 
 ---
 
