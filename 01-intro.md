@@ -193,6 +193,10 @@ A **traditional point-based system**.
 
 ---
 
+![TurtleBot4 Simulator](https://github.com/iti0201/iti0201/blob/2025/assets/turtlebot_sim.jpg?raw=true)
+
+---
+
 ## T2-T3 Tasks
 
 1. **Shapes (S)**: 4 weeks.
