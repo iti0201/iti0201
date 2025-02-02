@@ -59,17 +59,10 @@ The course content is divided into four **tracks** based on the study method and
 
 ## Tracks
 
-- **T1: Active Learning + Teamwork Training**
-  - Focused exercises with automated tests.
-
-- **T2: Active Learning + Teamwork Training**
-  - Simulation-based programming of ideal noise-free robots.
-
-- **T3: Active Learning + Teamwork Training**
-  - Programming of non-ideal robots (realistic simulation or real-world robot).
-
-- **T4: Reflective Learning**
-  - Weekly reflection on personal study process and feedback.
+- **Track 1:** Focused exercises with automated tests.
+- **Track 2:** Simulation-based programming of ideal noise-free robots.
+- **Track 3:** Programming of non-ideal robots (realistic simulation or real-world robot).
+- **Track 4:** Weekly reflection on personal study process and feedback.
 
 ---
 
@@ -151,9 +144,7 @@ The course content is divided into four **tracks** based on the study method and
 
 ## Lab Time Breakdown for T3
 
-\[
-{{((1.5+3)/2) \times 16}\over{6 \times 26}} = 0.2308 \approx 23\%
-\]
+`$$ {{((1.5+3)/2) \times 16}\over{6 \times 26}} = 0.2308 \approx 23\% $$`
 
 Lab time also includes defending the tasks, leaving even less time for testing.
 
