@@ -208,7 +208,7 @@ A **traditional point-based system**.
 
 - **Level 1**: The robot finds the blue object and moves toward it.
 - **Level 2**: The robot iteratively detects objects and alternates between approaching the closest and the farthest blue object.
-- **Level 3**: Robot forms a rectangle with three objects.
+- **Level 3**: The robot detects the blue cube (ignores other shapes such as cone and cylinder) and moves toward it.
 
 ---
 
